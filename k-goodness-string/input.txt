@@ -1,5 +1,0 @@
-2
-6 1
-ABCCAA
-4 2
-ABAA
