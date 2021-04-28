@@ -1,77 +1,88 @@
 #include <bits/stdc++.h>
-#define M 20
-typedef long long ll;
 using namespace std;
-ll l, r;
+typedef long long ll;
+#define M 20
 ll b[M+1];
 
-ll boringNumbers(ll n, bool toggle) {
-    if (n < 10) {
-        return toggle ? (n+1)/2 : n/2+1;
-    }
-    int digits = 1;
-    ll m = n;
-    ll cnt = 0, mul = 1;
-    while (m / 10) {
-        digits++;
-        mul *= 10;
-        m /= 10;
-    }
-    for (int i = 0; i < digits; i++) cnt += b[i];
-    cnt += m/2 * b[digits-1];
-    if (toggle == false) {
-        cout << "hello " << n << endl;
-        return 0;
-    }
-    cout << cnt;
-    cnt += (m%2 == toggle) && boringNumbers(n-m*mul, !toggle);
-    
+ll boring(ll n) {
+    vector<int> digits;
+    ll mul = 1, res = 0;
+    int d = 1;
 
-    return cnt;
-}
+    for (mul = 1; mul <= n/10; mul*=10, d++);
+    digits.resize(d+1);
 
-ll process() {
-    cout << endl;
-    return boringNumbers(r, false) - boringNumbers(l-1, false);
+    for (int i = 1; i <= d; i++, mul/=10) {
+        digits[i] = n/mul;
+        n %= mul;
+    }
+
+    for (int i = 1; i < d; i++) res += b[i];
+
+    bool flag = true;
+    for (int i = 1; i <= d; i++) {
+        if (i % 2) {
+            for (int j = 1; j < digits[i]; j+=2) res += b[d-i];
+            if (digits[i] % 2 == 0) {
+                flag = false;
+                break;
+            }
+        }
+        else {
+            for (int j = 0; j < digits[i]; j+=2) res += b[d-i];
+            if (digits[i] % 2) {
+                flag = false;
+                break;
+            }
+        }
+    }
+    return res+flag;
 }
 
 bool isBoring(int n) {
-    vector<int> v;
-    while (n/10) {
-        v.push_back(n%10);
-        n /= 10;
+    vector<int> digits;
+    ll mul = 1, res = 0;
+    int d = 1;
+
+    for (mul = 1; mul <= n/10; mul*=10, d++);
+    digits.resize(d+1);
+
+    for (int i = 1; i <= d; i++, mul/=10) {
+        digits[i] = n/mul;
+        n %= mul;
     }
-    v.push_back(n);
-    for (int i = 0; i < v.size(); i++) {
-        int j = v.size() - i;
-        if ((j % 2) != (v[i] % 2)) return false;
-    }
+
+    for (int i = 1; i <= d; i++) 
+        if (digits[i] % 2 != i % 2)
+            return false;
     return true;
 }
 
-void temp() {
+int temp(int n) {
     int cnt = 0;
-    for (int i = 1; i < 30; i++) {
+    for (int i = 1; i <= n; i++)
         cnt += isBoring(i);
-        if (cnt != boringNumbers(i, false))
-            cout << i << ": " << cnt << "," << boringNumbers(i, false) << endl;
-    }
-    cout << endl;
+    return cnt;
 }
 
 int main() {
-    freopen("input.txt", "r", stdin);
-    int T; cin >> T;
-    b[1] = 5;
-    for (int i = 2; i < M; i++) b[i] = 5*b[i-1];
-    temp();
-    
-    cout << boringNumbers(12, true) << endl;
+    //freopen("input.txt", "r", stdin);
+    b[0] = 1;
+    for (int i = 1; i <= M; i++) b[i] = b[i-1] * 5;
 
-    // for (int t = 1; t <= T; t++) {
-    //     cin >> l >> r;
-    //     cout << "Case #" << t << ": ";
-    //     cout << process() << endl;
-    // }
+    /*for (int i = 1; i < 100; i++) {
+        if (temp(i) != boring(i)) 
+            cout << temp(i) << ", " << boring(i) << endl;
+    }
+    return 0;
+*/
+
+    int T; cin >> T;
+    for (int t = 1; t <= T; t++) {
+        ll L, R;
+        cin >> L >> R;
+        cout << "Case #" << t << ": ";
+        cout << boring(R) - boring(L-1) << endl;
+    }
     return 0;
 }
