@@ -1,33 +1,109 @@
 #include <bits/stdc++.h>
 using namespace std;
-char c[10];
-char ans[10];
+char C[10];
 int n;
 
-int process(int lev, set<int, less<int>>& S) {
-    if (lev > n) return lev;
-    if (c[lev] == '>') {
-        int nextLev = process(lev + 1, S);
-        cout << nextLev << endl;
+void process2() {
+    set<int, less<int>> S;
+    for (int i = 0; i <= n; i++) {
+        S.insert(i);
     }
-    int v = *S.begin();
-    S.erase(v);
-    cout << lev << " " << v << endl;
-    if (c[lev] == '>') {
+    
+    stack<int> ST;
+    int val = *S.begin();
+    S.erase(val);
+    ST.push(val);
+    
+    for (int i = 0; i < n; i++) {
+        if (C[i] == '>') {
+            int val = *S.begin();
+            S.erase(val);
+            ST.push(val);
+        } else if (C[i] == '<') {
+            bool flag = true;
+            while (!ST.empty()) {
+                flag = false;
+                int val = ST.top(); ST.pop();
+                cout << val;
+            }
+            if (flag) {
+                int val = *S.begin();
+                S.erase(val);
+                cout << val;
+            } else {
+                int val = *S.begin();
+                S.erase(val);
+                ST.push(val);
+            }
+        }
+    }
+    
+    while (!ST.empty()) {
+        int val = ST.top(); ST.pop();
+        cout << val;
+    }
+    while (!S.empty()) {
+        int val = *S.begin();
+        S.erase(val);
+        cout << val;
+    }
+}
 
-        //process(lev, S);
+
+void process1() {
+    set<int, greater<int>> S;
+    for (int i = 0; i <= n; i++) {
+        S.insert(9-i);
     }
-    return lev;
+    
+    stack<int> ST;
+    
+    int val = *S.begin();
+    S.erase(val);
+    ST.push(val);
+    
+    for (int i = 0; i < n; i++) {
+        if (C[i] == '<') {
+            int val = *S.begin();
+            S.erase(val);
+            ST.push(val);
+        } else if (C[i] == '>') {
+            bool flag = true;
+            while (!ST.empty()) {
+                flag = false;
+                int val = ST.top(); ST.pop();
+                cout << val;
+            }
+            if (flag) {
+                int val = *S.begin();
+                S.erase(val);
+                cout << val;
+            } else {
+                int val = *S.begin();
+                S.erase(val);
+                ST.push(val);
+            }
+        }
+    }
+    
+    while (!ST.empty()) {
+        int val = ST.top(); ST.pop();
+        cout << val;
+    }
+    while (!S.empty()) {
+        int val = *S.begin();
+        S.erase(val);
+        cout << val;
+    }
 }
 
 int main() {
-    set<int, less<int>> S;
     cin >> n;
-    S.insert(0);
     for (int i = 0; i < n; i++) {
-        S.insert(i + 1);
-        cin >> c[i];
+        cin >> C[i];
     }
-    process(0, S);
+    process1();
+    cout << endl;
+    process2();
     return 0;
 }
