@@ -22,15 +22,12 @@ int main() {
     while (!pq.empty()) {
         long long f = pq.top();
         pq.pop();
-        if (f - prev <= 1) {
-            prev = f;
-            continue;
-        }
-        else {
+        if (f - prev > 1) {
             cout << prev + 1;
             exit(0);
         }
+        prev = f;
     }
-    cout << (1 << n);
+    cout << prev + 1;
     return 0;
 }
