@@ -1,0 +1,17 @@
+numbers
+núll	zero	영
+einn	one	일
+tveir	two	이
+þrír	three	삼
+fjórir	four	사
+fimm	five	오
+sex	six	육
+sjö	seven	칠
+átta	eight	팔
+níu	nine	구
+tíu	ten	십
+ellefu	eleven	십일
+tólf	twelve	십이
+tuttugu	twenty	이십
+hundrað	hundred	백
+ég held	I think	저는 생각해요

@@ -1,0 +1,18 @@
+body_parts
+ökkli	ankle	발목
+handleggur	arm	팔
+skegg	beard	수염
+bein	bone	뼈
+heili	brain	뇌
+olnbogi	elbow	팔꿈치
+hjarta	heart	심장
+hæll	heel	발뒤꿈치
+hné	knee	무릎
+fótleggur	leg	다리
+yfirvaraskegg	moustache	콧수염
+vöðvi	muscle	근육
+beinagrind	skeleton	해골
+húð	skin	피부
+hryggur	spine	척추
+magi	stomach	위
+mér blæðir	I bleed	저는 피가 나요

@@ -1,0 +1,18 @@
+toilet
+ilmsprey	air freshener	방향제
+skolskál	bidet	비데
+handþurrkari	hand dryer	손 건조기
+handklæði	hand towel	손수건
+ég prumpa	I fart	저는 방귀를 뀌어요
+ég pissa	I pee	저는 오줌을 싸요
+ég kúka	I poop	저는 똥을 싸요
+ólykt	odor	악취
+útikamar	outhouse	변소
+pípulögn	plumbing	배관
+drullusokkur	plunger	배관 청소 용구
+kúkur	poop	똥
+lykt	smell	냄새
+klósettbursti	toilet brush	변기 솔
+klósettpappír	toilet paper	화장지
+klósettseta	toilet seat	변기 시트
+þvagskál	urinal	소변기

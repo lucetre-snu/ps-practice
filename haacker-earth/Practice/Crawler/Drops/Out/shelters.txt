@@ -1,0 +1,18 @@
+shelters
+íbúð	apartment	아파트
+strandhús	beach house	해변 별장
+kot	cottage	작은집
+bóndabær	farmhouse	농가
+virki	fortress	요새
+húsbátur	houseboat	하우스 보트
+kofi	hut	오두막
+viti	lighthouse	등대
+bjálkakofi	log cabin	통나무집
+höfðingjasetur	mansion	대저택
+höll	palace	궁전
+tjald	tent	텐트
+hjólhýsi	trailer	트레일러
+tréhús	treehouse	나무 위의 집
+einbýlishús	villa	빌라
+vindmylla	windmill	풍차
+ég byggi	I build	저는 지어요

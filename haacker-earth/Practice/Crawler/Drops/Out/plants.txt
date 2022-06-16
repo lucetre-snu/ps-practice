@@ -1,0 +1,18 @@
+plants
+bambus	bamboo	대나무
+trjágrein	branch	나뭇가지
+kaktus	cactus	선인장
+blóm	flower	꽃
+gras	grass	잔디
+kryddjurtir	herbs	허브
+lauf	leaf	잎
+trjástofn	log	통나무
+pálmatré	palm tree	야자나무
+furutré	pine tree	소나무
+rót	root	뿌리
+fræ	seed	씨
+jarðvegur	soil	흙
+spíra	sprout	새싹
+spýta	stick	막대기
+tré	tree	나무
+viður	wood	목재

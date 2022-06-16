@@ -1,0 +1,19 @@
+snacks
+beygla	bagel	베이글
+snakkpoki	bag of chips	감자칩 한봉지
+poppkorn	popcorn	팝콘
+súrkrás	pickle	피클
+nachos	nachos	나초
+mjólkurhristingur	milkshake	밀크 쉐이크
+þurrkað nautakjöt	beef jerky	소고기 육포
+þurrkaðir ávextir	dried fruit	말린 과일
+ferðasnakk	trail mix	트레일 믹스
+hlaup	jelly	젤리
+snakk og ídýfa	chips and dip	감자칩과 딥
+sælgætisstafur	candy cane	사탕 지팡이
+karamelluepli	caramel apple	카라멜 사과
+piparkaka	gingerbread	생강 쿠키
+tyggigúmmí	chewing gum	껌
+búðingur	pudding	푸딩
+ég skipti á milli	I split	저는 나눠 먹어요
+ég missi	I drop	저는 떨어뜨려요

@@ -1,0 +1,19 @@
+house
+baðherbergi	bathroom	화장실
+rúm	bed	침대
+svefnherbergi	bedroom	침실
+stóll	chair	의자
+borðstofa	dining room	응접실
+hurð	door	문
+hús	house	집
+eldhús	kitchen	부엌
+lampi	lamp	램프
+garður	garden	정원
+nágranni	neighbor	이웃
+skrifstofa	office	사무실
+ofn	oven	오븐
+ísskápur	refrigerator	냉장고
+borð	table	테이블
+ég ryksuga	I vacuum	저는 청소기를 돌려요
+ég strauja	I iron	저는 다림질을 해요
+ég vaska upp	I wash the dishes	저는 설거지를 해요

@@ -1,0 +1,18 @@
+meet_&_greet
+Afsakið	Excuse me!	실례합니다!
+ekkert að þakka	You're welcome!	천만에요
+gaman að kynnast þér	Nice to meet you!	만나서 반가워요
+Getur þú aðstoðað?	Can you help me?	저를 도와주실래요?
+góðan dag	Good morning!	좋은 아침이에요
+góðan dag	Good afternoon!	안녕하세요
+gott kvöld	Good evening!	좋은 저녁 되세요
+góða nótt	Good night!	잘 자요
+Hvernig hefur þú það?	How are you?	어떻게 지냈어요?
+Fínt, takk.	Fine, thank you.	잘 지냈어요. 고마워요
+En þú?	And you?	당신은요?
+Hvernig er veðrið?	How's the weather?	날씨가 어때요?
+það er gott	It's nice.	좋아요
+það er slæmt	It's bad.	나빠요
+það er heitt	It's hot.	더워요
+það er kalt	It's cold.	추워요
+ég líka	Me too.	저도요

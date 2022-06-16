@@ -1,0 +1,18 @@
+sea_life
+akkeri	anchor	닻
+krabbi	crab	게
+höfrungur	dolphin	돌고래
+marglytta	jellyfish	해파리
+humar	lobster	바닷가재
+hafmeyja	mermaid	인어공주
+kolkrabbi	octopus	문어
+ár	paddles	노
+skata	ray	가오리
+sæhestur	seahorse	해마
+þang	seaweed	해초
+skel	shell	조개
+sjávarsnigill	sea snail	바다우렁이
+smokkfiskur	squid	오징어
+krossfiskur	starfish	불가사리
+kafbátur	submarine	잠수함
+hvalur	whale	고래

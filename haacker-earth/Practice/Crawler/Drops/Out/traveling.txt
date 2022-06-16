@@ -1,0 +1,18 @@
+traveling
+bakpokaferðalangur	backpacker	백팩커
+háhraðalest	bullet train	고속열차
+skemmtiferðaskip	cruise	유람선 여행
+inngönguhlið	entry gate	출입문
+fjallgöngumaður	hiker	등산객
+puttaferðalangur	hitchhiking	히치하이킹
+ég pakka	I pack	저는 짐을 싸요
+ég renn til	I slip	저는 미끄러져요
+vegamót lestarteina	rail crossing	철길 건널목
+lestarmiði	rail ticket	기차표
+lestarvagn	railroad car	객차
+lestarteinar	tracks	철도
+miðasjálfsali	ticket machine	표 판매기
+leiðsögumaður	tour guide	여행 가이드
+ferðamaður	tourist	관광객
+ferðalag	travel	여행
+vagn	wagon	화물 기차

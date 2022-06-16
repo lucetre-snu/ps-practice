@@ -1,0 +1,18 @@
+more_foods
+mandla	almond	아몬드
+beikon	bacon	베이컨
+smjör	butter	버터
+jarðhneta	peanut	땅콩
+kókoshneta	coconut	코코넛
+skinka	ham	햄
+hamborgari	hamburger	햄버거
+heslihneta	hazelnut	헤이즐넛
+pylsa	hotdog	핫도그
+pasta	pasta	파스타
+pistasíuhneta	pistachio	피스타치오
+lax	salmon	연어
+pylsa	sausage	소시지
+valhneta	walnut	호두
+jógúrt	yogurt	요거트
+ég helli	I pour	저는 쏟아요
+ég þjóna	I serve	저는 제공해요

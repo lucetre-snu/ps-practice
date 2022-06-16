@@ -1,0 +1,11 @@
+buy_&_bargain
+það er ekkert	There isn't any.	없어요
+ódýrari	A cheaper one.	더 싼 것
+Hversu mikið?	How much?	얼마예요?
+helmingur	half	절반
+allt	All of it.	모두
+Get ég borgað með greiðslukorti?	Can I pay with credit card?	카드로 결제할 수 있나요?
+Eigið þið póstkort?	Do you have postcards?	엽서가 있나요?
+þennan	This one!	이거요
+Ég vil ekki	I don't want.	원하지 않아요
+skrifaðu það niður	Write it down!	쓰다

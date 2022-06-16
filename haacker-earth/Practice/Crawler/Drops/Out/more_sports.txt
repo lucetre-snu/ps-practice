@@ -1,0 +1,17 @@
+more_sports
+badminton	badminton	배드민턴
+skíðaskotfimi	biathlon	바이애슬론
+klifur	climbing	등반
+golf	golf	골프
+fimleikar	gymnastics	체조
+handbolti	handball	핸드볼
+íshokkí	ice hockey	아이스하키
+listdans á skautum	ice skating	아이스 스케이트 타기
+vélhjólasport	motorcycling	오토바이 타기
+svifvængjaflug	paragliding	패러글라이딩 하기
+sportköfun	scuba diving	스쿠버다이빙 하기
+skíðaíþróttir	skiing	스키 타기
+snjóbretti	snowboarding	스노보드 타기
+borðtennis	table tennis	탁구
+blak	volleyball	배구
+vatnapóló	water polo	수구

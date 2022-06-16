@@ -1,0 +1,18 @@
+more_city
+bílslys	car accident	교통사고
+bekkur	bench	벤치
+reiðhjólastæði	bike rack	자전거 주차
+auglýsingaskilti	billboard	게시판
+tannlæknir	dentist	치과의사
+girðing	fence	울타리
+slökkvilið	fire station	소방서
+líkamsræktarstöð	gym	체육관
+farfuglaheimili	hostel	호스텔
+stöðumælir	parking meter	주차 요금 징수기
+fangelsi	prison	감옥
+stytta	statue	조각상
+upplýsingamiðstöð ferðamanna	tourist information	관광 안내
+ráðhús	town hall	시청
+háskóli	university	대학교
+dýragarður	zoo	동물원
+ég hrópa	I shout	저는 소리를 쳐요

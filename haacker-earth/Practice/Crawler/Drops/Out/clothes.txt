@@ -1,0 +1,17 @@
+clothes
+belti	belt	벨트
+stígvél	boots	부츠
+brjóstahaldari	bra	브라
+kápa	coat	코트
+kjóll	dress	드레스
+gleraugu	glasses	안경
+hanskar	gloves	장갑
+sokkar	socks	양말
+nærbuxur	underwear	속옷
+stuttbuxur	shorts	반바지
+trefill	scarf	목도리
+skyrta	shirt	셔츠
+skór	shoe	신발
+stuttermabolur	t-shirt	티셔츠
+buxur	trousers	바지
+ég klæði mig	I get dressed	저는 옷을 입어요

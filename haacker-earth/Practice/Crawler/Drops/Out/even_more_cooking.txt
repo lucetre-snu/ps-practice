@@ -1,0 +1,17 @@
+even_more_cooking
+ávaxtapressa	fruit press	과일 압착기
+spaði	spatula	주걱
+rifjárn	cheese grater	치즈 강판
+tappatogari	wine opener	와인 따개
+töng	tongs	집게
+hvítlaukspressa	garlic press	마늘 압착기
+mæliglös	measuring cups	계량컵
+eldhúsvigt	kitchen scale	부엌 저울
+mæliskeiðar	measuring spoons	계량스푼
+wok	wok	냄비
+sinnep	mustard	겨자
+tómatsósa	ketchup	케첩
+sterk sósa	hot sauce	핫소스
+sojasósa	soy sauce	간장
+ég ríf	I grate	저는 강판에 갈아요
+ég smyr	I spread	저는 펴발라요

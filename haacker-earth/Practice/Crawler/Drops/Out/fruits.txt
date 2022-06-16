@@ -1,0 +1,18 @@
+fruits
+plóma	plum	자두
+kíví	kiwi	키위
+brómber	blackberry	블랙베리
+hunangsmelóna	honeydew melon	허니듀 멜론
+ferskja	peach	복숭아
+kirsuber	cherry	체리
+bláber	blueberry	블루베리
+epli	apple	사과
+ólífa	olive	올리브
+ananas	pineapple	파인애플
+jarðarber	strawberry	딸기
+hindber	raspberry	산딸기
+vínber	grape	포도
+vatnsmelóna	watermelon	수박
+pera	pear	배
+banani	banana	바나나
+ég tíni	I pick	저는 따요

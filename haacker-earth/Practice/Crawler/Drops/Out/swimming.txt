@@ -1,0 +1,16 @@
+swimming
+froskalappir	fins	물갈퀴
+skriðsund	freestyle stroke	자유형
+bringusund	breaststroke	평영
+baksund	backstroke	배영
+flugsund	butterfly stroke	접영
+nefklemma	nose clip	코 집게
+sunddót	floaties	튜브
+uppblásinn fleki	inflatable raft	뗏목 튜브
+útisund	open water swimming	야외 물놀이
+björgunarbúnaður	life saver	구명 튜브
+stökkbretti	diving board	다이빙대
+ég skvetti	I splash	저는 물을 튀겨요
+ég flýt	I float	저는 떠요
+ég kafa	I dive	저는 다이빙 해요
+ég held í mér andanum	I hold my breath	저는 숨을 참아요

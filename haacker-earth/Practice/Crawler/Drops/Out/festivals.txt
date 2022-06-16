@@ -1,0 +1,18 @@
+festivals
+bjalla	bell	종
+afmæli	birthday	생일
+kjötkveðjuhátíð	carnival	축제
+jól	Christmas	크리스마스
+jólatré	Christmas tree	크리스마스트리
+flugeldar	fireworks	불꽃놀이
+jarðarför	funeral	장례식
+gjöf	gift	선물
+hrekkjavaka	Halloween	할로윈
+hjónaband	marriage	결혼
+mæðradagur	mother's day	어머니 날
+gamlaárskvöld	New Year's Eve	섣달그믐
+jólasveinn	Santa Claus	산타클로스
+snjókarl	snowman	눈사람
+valentínusardagur	Valentine's day	발렌타인데이
+brúðkaup	wedding	결혼식
+ég fagna	I celebrate	저는 축하해요

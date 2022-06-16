@@ -1,0 +1,18 @@
+hospital
+blóð	blood	피
+hækja	crutch	목발
+læknisskoðun	examination	진찰
+hjartsláttur	heartbeat	심장박동
+ég hósta	I cough	저는 기침을 해요
+ég bíð	I wait	저는 기다려요
+innrennsli	infusion	수액
+sjúkrakostnaður	medical bill	병원비
+sjúkraskrá	medical record	진료 기록
+sjúklingur	patient	환자
+innlögn	patient admission	환자 입원
+púls	pulse	맥박
+sprauta	syringe	주사기
+hlustunarpípa	stethoscope	청진기
+sjúkrabörur	stretcher	들것
+skurðlæknir	surgeon	외과 의사
+röntgenmyndataka	x-ray	엑스레이

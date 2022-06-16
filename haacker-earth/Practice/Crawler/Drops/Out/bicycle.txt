@@ -1,0 +1,18 @@
+bicycle
+hjólabjalla	bike bell	자전거 벨
+hjólagaffall	bike fork	자전거 폭
+hjólalás	bike lock	자전거 자물쇠
+hjóladekk	bike wheel	자전거 바퀴
+hjólabremsa	bike brake	자전거 브레이크
+hjólakeðja	bike chain	자전거 체인
+hjólahanskar	bike gloves	자전거 장갑
+hjólastígur	bike lane	자전거 길
+bremsuhandfang	brake lever	브레이크 레버
+hjólasnælda	cassette	카세트
+keðja	chainring	체인링
+sveifarás	crank	크랭크
+stýri	handlebar	핸들
+reiðhjólahjálmur	bicycle helmet	자전거 헬멧
+pedali	pedal	페달
+hnakkur	saddle	안장
+það rennur	It rolls	구른다

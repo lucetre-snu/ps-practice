@@ -1,0 +1,18 @@
+baby
+barnapeli	baby bottle	젖병
+barnarúm	baby crib	아기 침대
+hringla	baby rattle	딸랑이
+barnastóll	bouncer	유아용 좌석
+smekkur	bib	턱받이
+fæðing	birth	탄생
+brjóstagjöf	breastfeeding	모유 수유
+getnaðarvörn	contraceptive	피임약
+bleyja	diaper	기저귀
+bleyjuskipti	diaper change	기저귀 교체
+fóstur	fetus	태아
+ég skríð	I crawl	저는 기어요
+ég græt	I cry	저는 울어요
+snuð	pacifier	고무젖꼭지
+koppur	potty	유아용 변기
+meðganga	pregnancy	임신
+tvíburar	twins	쌍둥이

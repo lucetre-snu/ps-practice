@@ -1,0 +1,19 @@
+natural_disasters
+eldgos	volcanic eruption	화산 폭발
+skriða	landslide	산사태
+haglél	hailstorm	우박
+flóðbylgja	tsunami	쓰나미
+fellibylur	typhoon	태풍
+jarðskjálfti	earthquake	지진
+grjóthrun	rockslide	돌사태
+hraunrennsli	lava flow	흐르는 용암
+snjóstormur	blizzard	눈보라
+þrumuveður	thunderstorm	뇌우
+hvirfilbylur	hurricane	허리케인
+loftsteinahrap	meteor impact	유성 충돌
+flóttamaður	refugee	난민
+hitabylgja	heat wave	혹서
+hungursneyð	famine	기근
+ég hníg niður	I collapse	저는 쓰러져요
+ég hleyp í skjól	I run for cover	저는 몸을 숨기기 위해 뛰어요
+ég bjarga	I rescue	저는 구해요

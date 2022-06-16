@@ -1,0 +1,19 @@
+more_vegetables
+blaðlaukur	leek	파
+aspas	asparagus	아스파라거스
+baun	pea	콩
+rósakál	brussels sprout	방울양배추
+kínakál	bok choy	청경채
+ætiþistill	artichoke	아티초크
+eggaldin	eggplant	가지
+kúrbítur	squash	호박
+sæt kartafla	sweet potato	고구마
+spírur	sprouts	새싹
+grænkál	kale	케일
+rauðrófa	beetroot	비트루트
+butternut grasker	butternut squash	버터넛 호박
+sojabaunir	soybeans	콩
+ég sýð	I boil	저는 끓여요
+ég soðsteiki	I braise	저는 푹 삶아요
+ég flysja	I peel	저는 껍질을 벗겨요
+ég sker í bita	I dice	저는 깍둑썰어요

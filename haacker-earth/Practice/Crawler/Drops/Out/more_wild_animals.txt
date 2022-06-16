@@ -1,0 +1,18 @@
+more_wild_animals
+bufall	buffalo	버팔로
+kamelljón	chameleon	카멜레온
+kóbraslanga	cobra	코브라
+krókódíll	crocodile	악어
+risaeðla	dinosaur	공룡
+gekkói	gecko	도마뱀붙이
+gíraffi	giraffe	기린
+górilla	gorilla	고릴라
+ég datt	I fell over	저는 넘어져요
+ég þefa	I smell	저는 냄새를 맡아요
+græneðla	iguana	이구아나
+kengúra	kangaroo	캥거루
+eðla	lizard	도마뱀
+pardusdýr	panther	표범
+nashyrningur	rhino	코뿔소
+tígrisdýr	tiger	호랑이
+sebrahestur	zebra	얼룩말

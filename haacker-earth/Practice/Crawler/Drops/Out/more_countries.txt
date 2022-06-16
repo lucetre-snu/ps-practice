@@ -1,0 +1,18 @@
+more_countries
+írland	Ireland	아일랜드
+wales	Wales	웨일스
+skotland	Scotland	스코틀랜드
+portúgal	Portugal	포르투갈
+grikkland	Greece	그리스
+króatía	Croatia	크로아티아
+sviss	Switzerland	스위스
+úkraína	Ukraine	우크라이나
+suður kórea	South Korea	대한민국
+filippseyjar	Philippines	필리핀
+taíland	Thailand	태국
+malasía	Malaysia	말레이시아
+indónesía	Indonesia	인도네시아
+belgía	Belgium	벨기에
+austurríki	Austria	오스트리아
+ég bý á	I live in	저는 -에 살아요
+ég fer í skoðunarferð	I go sightseeing	저는 관광해요

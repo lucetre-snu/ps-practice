@@ -1,0 +1,18 @@
+more_toilet
+salernisbás	bathroom stall	화장실 칸막이
+klósettrúlluhaldari	toilet paper holder	휴지 걸이
+klósettseta	toilet seat cover	변기 커버
+tyrkneskt salerni	squatting pan	수세식 변기
+niðurfall	drain	배수구
+handklæðahengi	towel rack	수건걸이
+salernisvörður	bathroom attendant	화장실 청소부
+yfirflæði	overflow	넘치다
+leki	leak	새다
+stíflað niðurfall	clogged drain	막힌 배수구
+upptekið	occupied	사용 중
+laust	vacant	비어 있음
+ég skil setuna eftir uppi	I leave the seat up	저는 변기 덮개를 올려요
+ég set setuna niður	I put the seat down	저는 변기 덮개를 내려요
+ég sit á hækjum mér	I squat	저는 쪼그려 앉아요
+ég sturta niður	I flush	저는 물을 내려요
+ég skrúbba	I scrub	저는 문질러요

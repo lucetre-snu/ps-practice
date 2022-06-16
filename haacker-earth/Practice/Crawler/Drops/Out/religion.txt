@@ -1,0 +1,18 @@
+religion
+engill	angel	천사
+búddatrú	buddhism	불교
+kristni	christianity	기독교
+djöfull	devil	악마
+guð	god	신
+himnaríki	heaven	천국
+hindúatrú	hinduism	힌두교
+ég bið	I pray	저는 기도해요
+íslam	islam	이슬람교
+gyðingdómur	judaism	유대교
+hugleiðsla	meditation	명상
+munkur	monk	스님
+moska	mosque	모스크
+nunna	nun	수녀
+spámaður	prophet	선지자
+dýrlingur	saint	성자
+taóismi	taoism	도교

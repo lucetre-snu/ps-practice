@@ -1,0 +1,19 @@
+more_nationalities
+írskur	Irish	아일랜드의
+walesbúi	Welsh	웰시의
+skoskur	Scottish	스코틀랜드의
+portúgalskur	Portuguese	포르투갈의
+grískur	Greek	그리스의
+króatískur	Croatian	크로아티아의
+svissneskur	Swiss	스위스의
+úkraínskur	Ukranian	우크라이나의
+kóreskur	Korean	한국의
+taívanskur	Taiwanese	대만의
+filippseyjabúi	Filipino	필리핀의
+taílenskur	Thai	태국의
+malasískur	Malaysian	말레이시아의
+indónesískur	Indonesian	인도네시아의
+belgískur	Belgian	벨기에의
+austurískur	Austrian	오스트리아의
+ég er frá	I'm from	저는 -에서 왔어요
+ég heimsæki	I visit	저는 방문해요

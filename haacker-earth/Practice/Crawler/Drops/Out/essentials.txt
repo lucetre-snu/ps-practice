@@ -1,0 +1,18 @@
+essentials
+já	yes	네
+nei	no	아니요
+allt í lagi	ok	알겠어
+hæ	hi	안녕하세요
+takk fyrir	thank you	감사합니다
+bless	bye	안녕히 가세요
+vinsamlegast	please	제발
+ég	I	저
+kona	woman	여자
+maður	man	남자
+og	and	그리고
+eða	or	혹은
+þetta	this	이
+stelpa	girl	여자아이
+strákur	boy	남자아이
+mér líkar	I like	저는 좋아해요
+ég hitti	I meet	저는 만나요

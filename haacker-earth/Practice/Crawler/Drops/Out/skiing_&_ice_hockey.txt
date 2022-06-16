@@ -1,0 +1,19 @@
+skiing_&_ice_hockey
+skíðastafir	ski poles	스키 폴
+skíðaskór	ski boots	스키화
+skíðagleraugu	ski goggles	스키 고글
+skíðalyfta	chairlift	의자식 리프트
+skíðaskáli	ski lodge	스키장
+skíðapassi	ski pass	스키 패스
+gervisnjór	fake snow	가짜 눈
+pökkur	puck	퍽
+hokkíkylfa	hockey stick	하키 스틱
+ísskautar	ice skates	아이스 스케이트
+tannhlíf	teeth guard	마우스피스
+skautasvell	ice rink	아이스 링크
+íshokkígríma	mask cage	철장 케이지
+gríparahanski	catcher glove	포수용 글러브
+stigatafla	scoreboard	득점판
+áhorfendur	spectators	구경꾼
+ég renn	I glide	저는 미끄러져요
+ég skora	I score	저는 득점해요

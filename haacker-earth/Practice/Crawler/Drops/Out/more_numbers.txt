@@ -1,0 +1,18 @@
+more_numbers
+áttatíu	eighty	팔십
+fimmti	fifth	다섯 번째
+fimmtíu	fifty	오십
+fyrsti	first	첫 번째
+fjörutíu	forty	사십
+fjórði	fourth	네 번째
+milljón	million	백만
+níutíu	ninety	구십
+sekúnda	second	두 번째
+sjötíu	seventy	칠십
+sjötti	sixth	여섯 번째
+sextíu	sixty	육십
+þriðji	third	세 번째
+þrjátíu	thirty	삼십
+þúsund	thousand	천
+tuttugu og einn	twenty one	이십일
+tuttugu og tveir	twenty two	이십이

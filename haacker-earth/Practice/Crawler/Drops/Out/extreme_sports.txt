@@ -1,0 +1,19 @@
+extreme_sports
+fallhlífarstökk	skydiving	스카이다이빙
+frjálst fallhlífarstökk	free diving	자유 다이빙
+teygjustökk	bungee jumping	번지점프
+flúðasigling	rafting	래프팅
+parkour	parkour	파쿠르
+línuskauta	rollerblading	롤러 블레이드 타기
+torfæruhjól	motocross	모토크로스
+svifdrekaflug	hang gliding	행글라이더 타기
+landstökk	base jumping	베이스 점핑
+búkbrettareið	bodyboarding	보디보딩
+sjóbrettareið	wakeboarding	웨이크보딩
+slaklínuganga	slacklining	줄타기
+hjólað á bmx	riding bmx	BMX 타기
+brekkuhjólreiðar	downhill riding	내리막길 주행
+flugdrekabrettareið	kitesurfing	카이트 서핑
+vatnaskíði	waterskiing	수상스키
+ég skemmi	I damage	저는 고장 내요
+ég tek áhættu	I take a risk	저는 위험을 무릅써요

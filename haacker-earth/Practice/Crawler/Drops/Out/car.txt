@@ -1,0 +1,18 @@
+car
+rafgeymir	car battery	자동차 배터리
+bílaleiga	car rental	렌터카
+bílaþvottur	car wash	세차
+ökuskírteini	driver's license	운전면허증
+bílvél	engine	엔진
+gaffallyftari	forklift	지게차
+bensíngjöf	gas pedal	가속페달
+bensíntankur	gas tank	가스탱크
+bílflauta	horn	경적
+ég keyri	I drive	저는 운전해요
+ég lagfæri	I repair	저는 고쳐요
+mótorolía	motor oil	모터 오일
+bulla	piston	피스톤
+kúpling	shifter	기어 박스
+dráttarbíll	tow truck	견인차
+dekkjaviðgerð	wheel repair	바퀴 수리
+rúðuþurrkur	windshield wipers	와이퍼

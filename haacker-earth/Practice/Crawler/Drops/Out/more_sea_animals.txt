@@ -1,0 +1,19 @@
+more_sea_animals
+kórall	coral	산호
+sæskjaldbaka	sea turtle	바다거북
+ígulker	sea urchin	성게
+selur	seal	물개
+rostungur	walrus	바다코끼리
+sæotur	sea otter	해달
+áll	eel	장어
+rækja	shrimp	새우
+stingskata	stingray	가오리
+kræklingur	mussel	홍합
+skel	clam	조개
+ígulfiskur	pufferfish	복어
+háhyrningur	orca	범고래
+túnfiskur	tuna	참치
+sleggjuháfur	hammerhead shark	귀상어
+manata	manatee	해우
+ég fiska	I fish	저는 낚시해요
+ég rís	I rise	저는 일어나요

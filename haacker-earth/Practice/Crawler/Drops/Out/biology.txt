@@ -1,0 +1,18 @@
+biology
+atóm	atom	원자
+baktería	bacteria	박테리아
+fruma	cell	세포
+efnafræði	chemistry	화학
+meltingarkerfi	digestive system	소화기 계통
+dropateljari	dropper	점적기
+þróun	evolution	진화
+tilraun	experiment	실험
+líða yfir	faint	실신
+smásjá	microscope	현미경
+sameind	molecule	분자
+haka	chin	턱
+bólur	pimples	여드름
+tunga	tongue	혀
+nýra	kidney	신장
+ég kyngi	I swallow	저는 삼켜요
+ég kasta upp	I vomit	저는 토해요

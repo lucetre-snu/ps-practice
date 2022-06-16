@@ -1,0 +1,19 @@
+herbs
+piparmynta	peppermint	페퍼민트
+sítrónugras	lemongrass	레몬그라스
+piparrót	horseradish	고추냉이
+rósmarín	rosemary	로즈메리
+salvía	sage	세이지
+negull	clove	정향
+fenníka	fennel	회향
+lofnarblóm	lavender	라벤더
+ginseng	ginseng	인삼
+kattarminta	catnip	캣닙
+garðminta	spearmint	스피아민트
+meiran	marjoram	마조람
+saffran	saffron	사프란
+graslaukur	chives	쪽파
+timjan	thyme	타임
+minta	mint	민트
+ég legg í bleyti	I infuse	저는 우려내요
+ég rennbleyti	I soak	저는 적셔요

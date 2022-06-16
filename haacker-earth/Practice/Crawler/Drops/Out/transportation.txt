@@ -1,0 +1,18 @@
+transportation
+lest	train	기차
+rafknúinn strætisvagn	trolleybus	트롤리 버스
+vörubíll	truck	트럭
+sendiferðabíll	van	승합차
+sporvagn	tram	트램
+neðanjarðarlest	underground	지하
+vespa	moped	모터 스쿠터
+skip	ship	배
+mótorhjól	motorcycle	오토바이
+þyrla	helicopter	헬리콥터
+strætó	bus	버스
+bíll	car	차
+hjól	bike	자전거
+bátur	boat	보트
+umferðarteppa	traffic jam	교통체증
+ég hjóla	I ride a bicycle	저는 자전거를 타요
+ég set niður	I put down	저는 내려놓아요

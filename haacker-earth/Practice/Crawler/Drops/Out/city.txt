@@ -1,0 +1,19 @@
+city
+banki	bank	은행
+krá	bar	바
+brú	bridge	다리
+strætóstoppistöð	bus stop	버스 정류장
+kastali	castle	성
+kirkjugarður	cemetery	묘지
+diskó	disco	디스코
+gangbraut	crosswalk	횡단보도
+gatnamót	crossroad	교차로
+þvottahús	laundry	세탁소
+almenningsgarður	park	공원
+umferðarljós	traffic light	신호등
+lestarstöð	train station	기차역
+gosbrunnur	fountain	분수
+dómkirkja	cathedral	성당
+ég hræki	I spit	저는 침을 뱉어요
+ég sker	I cut	저는 잘라요
+ég geng	I walk	저는 걸어요

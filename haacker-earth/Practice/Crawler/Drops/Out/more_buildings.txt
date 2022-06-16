@@ -1,0 +1,19 @@
+more_buildings
+vatnsturn	water tower	급수탑
+söluturn	kiosk	매점
+turn	tower	탑
+rústir	ruins	폐허
+mylla	mill	방앗간
+ráðstefnumiðstöð	convention center	컨벤션 센터
+brugghús	brewery	양조장
+baðhús	bathhouse	목욕탕
+mótel	motel	모텔
+pagóða	pagoda	탑
+umferðarmiðstöð	bus station	버스 승강장
+háskólalóð	campus	캠퍼스
+indjánatjald	tepee	티피
+hringleikahús	amphitheater	원형 극장
+ráðhús	city hall	시청
+víngerð	winery	포도주 양조장
+ég kem inn	I enter	저는 들어가요
+ég brýt niður	I demolish	저는 철거해요

@@ -1,0 +1,18 @@
+essentials_01_-_daytripper
+já	yes	네
+nei	no	아니요
+hæ	hi	안녕하세요
+takk fyrir	thank you	감사합니다
+vinsamlegast	please	제발
+klósett	toilet	화장실
+veitingahús	restaurant	식당
+fyrirgefðu	Sorry!	미안해요
+Talar þú ensku?	Do you speak English?	영어를 할 줄 아세요?
+Get ég fengið vatn	I need water.	물이 필요해요
+lokað	closed	닫다
+opið	open	열다
+Hjálp!	Help!	도와주세요!
+reikninginn, takk	The bill, please!	계산서를 주세요
+afsakaðu	Excuse me!	실례합니다
+Hversu mikið?	How much?	얼마인가요?
+matseðil, takk	Menu, please!	메뉴를 주세요

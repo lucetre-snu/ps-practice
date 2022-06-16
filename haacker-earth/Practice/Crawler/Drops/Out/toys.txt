@@ -1,0 +1,19 @@
+toys
+tuskudýr	stuffed animal	봉제인형
+púsluspil	puzzle	퍼즐
+kubbar	building blocks	빌딩 블록
+baðdót	bath toy	목욕용 장난감
+vatnsbyssa	squirt gun	물총
+leikfangabíll	toy car	장난감 자동차
+skoppibolti	bouncy ball	탱탱볼
+sippuband	jump rope	줄넘기
+litabók	coloring book	컬러링북
+leir	playdough	찰흙
+krít	sidewalk chalk	보도 분필
+leikfangakassi	toy box	장난감 상자
+ofurhetja	action figure	액션 피규어
+brúða	doll	인형
+vaxlitir	crayons	크레파스
+leikfangalest	toy train	장난감 기차
+ég geng frá	I put away	저는 치워요
+ég ímynda mér	I imagine	저는 상상해요

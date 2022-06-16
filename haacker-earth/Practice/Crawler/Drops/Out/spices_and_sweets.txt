@@ -1,0 +1,18 @@
+spices_and_sweets
+basilíka	basil	바질
+kex	cracker	비스킷
+kaka	cake	케이크
+chilipipar	chili	고추
+súkkulaði	chocolate	초콜릿
+kanill	cinnamon	시나몬
+smákaka	cookie	쿠키
+engifer	ginger	생강
+muffins	muffin	머핀
+kleinuhringur	doughnut	도넛
+hveiti	flour	밀가루
+hunang	honey	꿀
+rjómaís	ice cream	아이스크림
+sleikjó	lollipop	막대사탕
+pipar	pepper	후추
+salt	salt	소금
+vanilla	vanilla	바닐라

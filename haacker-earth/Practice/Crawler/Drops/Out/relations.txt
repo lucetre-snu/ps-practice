@@ -1,0 +1,12 @@
+relations
+yfirmaður	boss	보스
+foreldrar	parents	부모님
+fjölskylda	family	가족
+faðir	father	아버지
+kærasta	girlfriend	여자친구
+afi	grandfather	할아버지
+amma	grandmother	할머니
+börn	children	아이들
+móðir	mother	어머니
+kærasti	boyfriend	남자친구
+ég hlusta	I listen	저는 들어요

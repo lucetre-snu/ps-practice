@@ -1,0 +1,18 @@
+magic_and_fantasy
+geimvera	alien	외계인
+kústur	broom	빗자루
+dreki	dragon	용
+dvergur	dwarf	난쟁이
+álfur	fairy	요정
+andi	genie	램프요정
+draugur	ghost	유령
+ég heyri	I hear	저는 들어요
+töfrasproti	magic wand	마법 지팡이
+töframaður	magician	마술사
+skrímsli	monster	괴물
+ljár	scythe	큰 낫
+fljúgandi furðuhlutur	UFO	유에프오
+vampíra	vampire	뱀파이어
+norn	witch	마녀
+galdrakarl	wizard	마법사
+uppvakningur	zombie	좀비

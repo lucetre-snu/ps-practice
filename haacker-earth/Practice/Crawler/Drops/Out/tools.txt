@@ -1,0 +1,18 @@
+tools
+öxi	axe	도끼
+bor	drill	드릴
+lím	glue	접착제
+hamar	hammer	망치
+stigi	ladder	사다리
+nagli	nail	못
+ró	nut	너트
+tangir	pliers	펜치
+hrífa	rake	갈퀴
+rakvélablað	razor	면도기
+sög	saw	톱
+skrúfa	screw	나사
+skrúfjárn	screwdriver	스크류 드라이버
+skófla	shovel	삽
+skófla	spade	삽
+límband	tape	테이프
+verkfærabox	toolbox	공구 상자

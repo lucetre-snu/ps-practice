@@ -1,0 +1,18 @@
+tea_and_coffee
+svunta	apron	앞치마
+barþjónn	barista	바리스타
+bið eftir drykk	brew time	우려내는 시간
+kókosvatn	coconut water	코코넛워터
+kaffibaun	coffee bean	커피콩
+kaffikvörn	coffee grinder	커피 분쇄기
+espressó	espresso	에스프레소
+espressóvél	espresso machine	에스프레소 기계
+uppáhellt kaffi	filter coffee	필터 커피
+pressukanna	French press	프레스 커피포트
+kokkahattur	chef's hat	요리사 모자
+ég smakka	I taste	저는 맛을 봐요
+mjólkurkaffi	latte	라떼
+kaffimál	take-away cup	휴대용 컵
+tepoki	tea bag	티백
+tesía	tea egg	티에그
+telauf	tea leaf	찻잎

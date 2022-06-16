@@ -1,0 +1,18 @@
+flowers
+dvergtré	bonsai	분재
+kamilla	chamomile	카밀레
+túnfífill	dandelion	민들레
+blómapottur	flowerpot	화분
+gleym-mér-ei	forget me not	물망초
+ég vökva	I water	저는 물을 줘요
+lótusblóm	lotus	연꽃
+brönugras	orchid	난초
+heygaffall	pitchfork	쇠스랑
+klippur	pruner	전지가위
+rós	rose	장미
+músasmári	shamrock	토끼풀
+sólblóm	sunflower	해바라기
+túlípani	tulip	튤립
+vatnalilja	water lily	수련
+vökvunarkanna	watering pot	물뿌리개
+hjólbörur	wheelbarrow	손수레

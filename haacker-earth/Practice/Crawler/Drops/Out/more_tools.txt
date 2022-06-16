@@ -1,0 +1,19 @@
+more_tools
+málband	tape measure	줄자
+skiptilykill	wrench	렌치
+topplykill	socket wrench	소켓 렌치
+víraklippur	wire cutters	철사 절단기
+þvinga	clamp	꺾쇠
+bor	drill bit	드릴 날
+hallamál	level	등급
+kúbein	crowbar	지렛대
+sexkantlykill	allen wrench	앨런 렌치
+borðsög	table saw	탁자 톱
+sandpappír	sandpaper	사포
+vinnuborð	work bench	작업대
+sporjárn	chisel	끌
+málningarbursti	paint brush	붓을 칠하다
+litaspjald	color palette	색 팔레트
+ég klára	I complete	저는 완성해요
+ég pússa	I sand	저는 갈아요
+ég byggi	I construct	저는 건설해요

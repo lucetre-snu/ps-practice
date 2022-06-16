@@ -1,0 +1,17 @@
+jobs
+íþróttamaður	athlete	운동선수
+kokkur	cook	요리사
+blaðamaður	journalist	기자
+lögfræðingur	lawyer	변호사
+læknir	doctor	의사
+vélvirki	mechanic	정비사
+prestur	priest	신부
+vísindamaður	scientist	과학자
+ritari	secretary	비서
+kennari	teacher	선생님
+skrifstofustarfsmaður	office worker	회사원
+tónlistarmaður	musician	음악가
+forritari	programmer	프로그래머
+námsmaður	student	학생
+þjónn	waiter	웨이터
+ég hunsa	I ignore	저는 무시해요

@@ -1,0 +1,18 @@
+food
+brauð	bread	빵
+morgunmatur	breakfast	아침 식사
+ávextir	fruits	과일
+ostur	cheese	치즈
+egg	egg	계란
+fiskur	fish	생선
+gaffall	fork	포크
+súpa	soup	수프
+sveppur	mushroom	버섯
+hnífur	knife	칼
+sítróna	lemon	레몬
+kjöt	meat	고기
+skeið	spoon	숟가락
+sykur	sugar	설탕
+salat	salad	샐러드
+ég borða	I eat	저는 먹어요
+ég elda	I cook	저는 요리해요

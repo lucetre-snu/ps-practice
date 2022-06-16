@@ -1,0 +1,18 @@
+countries
+Ástralía	Australia	호주
+Brasilía	Brazil	브라질
+Kanada	Canada	캐나다
+Kína	China	중국
+Finnland	Finland	핀란드
+Frakkland	France	프랑스
+Þýskaland	Germany	독일
+Bretland	Great Britain	영국
+Ítalía	Italy	이탈리아
+Japan	Japan	일본
+Mexíkó	Mexico	멕시코
+Noregur	Norway	노르웨이
+Rússland	Russia	러시아
+Spánn	Spain	스페인
+Svíþjóð	Sweden	스웨덴
+Holland	the Netherlands	네덜란드
+Bandaríkin	the United States of America	미국

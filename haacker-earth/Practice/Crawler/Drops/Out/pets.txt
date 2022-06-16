@@ -1,0 +1,18 @@
+pets
+fiskabúr	aquarium	수족관
+fuglabúr	birdcage	새장
+ég strýk	I caress	저는 쓰다듬어요
+kattarúm	cat bed	고양이 침대
+ferðabúr	pet carrier	애완동물 캐리어
+kattamatur	cat food	고양이 음식
+kattaskítur	cat litter	고양이 깔개
+dýravegabréf	pet passport	애완동물 여권
+hundaól	dog collar	개목걸이
+hundamatur	dog food	개밥
+hundakofi	dog house	개집
+hundakúkapoki	dog poop bag	개 대변 봉지
+gullfiskur	goldfish	금붕어
+hamstur	hamster	햄스터
+ég geng með hundinn	I walk the dog	저는 개를 산책시켜요
+merkispjald	identification tag	인식표
+taumur	leash	끈

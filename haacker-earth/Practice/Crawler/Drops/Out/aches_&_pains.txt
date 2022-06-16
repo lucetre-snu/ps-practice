@@ -1,0 +1,19 @@
+aches_&_pains
+eyrnaverkur	earache	귓병
+magaverkur	stomachache	복통
+bakverkur	backache	요통
+marblettur	bruise	멍
+þokukennd sjón	blurry vision	흐릿한 시야
+stífur háls	stiff neck	뻣뻣한 목
+blaðra	blister	물집
+varaþurrkur	chapped lips	튼 입술
+sólbruni	sunburn	햇볕에 탐
+svimar	dizzy	어지러움
+óglatt	nauseous	메스꺼운
+skordýrabit	insect bite	벌레 물림
+verkur	pain	아픔
+beinbrot	bone fracture	골절
+vöðvabólga	muscle strain	근육 좌상
+krampi	cramp	경련
+ég annast	I care	저는 돌봐요
+það er sárt	it hurts	아프다

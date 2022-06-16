@@ -1,0 +1,16 @@
+colors
+svartur	black	검은색
+blár	blue	파란색
+brúnn	brown	갈색
+gylltur	gold	금색
+grænn	green	초록색
+grár	gray	회색
+appelsínugulur	orange	주황색
+bleikur	pink	분홍색
+fjólublár	purple	보라색
+regnbogi	rainbow	무지개
+rauður	red	빨간색
+silfur	silver	은색
+hvítur	white	하얀색
+gulur	yellow	노란색
+ég mála	I paint	저는 그림을 그려요

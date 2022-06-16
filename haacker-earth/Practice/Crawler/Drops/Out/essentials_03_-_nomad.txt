@@ -1,0 +1,17 @@
+essentials_03_-_nomad
+einn	one	일
+tveir	two	이
+þrír	three	삼
+fjórir	four	사
+fimm	five	오
+sex	six	육
+sjö	seven	칠
+átta	eight	팔
+níu	nine	구
+tíu	ten	십
+Ég er með ofnæmi fyrir hnetum	I'm allergic to peanuts.	저는 땅콩 알레르기가 있어요
+ég er glaður	I am happy.	저는 행복해요
+Skilur þú?	Do you understand?	이해했어요?
+of dýrt	Too expensive!	너무 비싸요
+Eitthvað fleira?	Anything else?	다른 건 필요 없나요?
+nei, þetta var allt	No, that's all.	없어요, 그게 다예요.

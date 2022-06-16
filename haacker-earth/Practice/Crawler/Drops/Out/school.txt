@@ -1,0 +1,18 @@
+school
+bók	book	책
+reiknivél	calculator	계산기
+kennslustofa	classroom	교실
+prófskírteini	diploma	졸업장
+strokleður	eraser	지우개
+próf	exam	시험
+útskrift	graduation	졸업
+blek	ink	잉크
+fyrirlestur	lecture	강의
+stílabók	notebook	노트
+bréfaklemma	paper clip	클립
+penni	pen	펜
+blýantur	pencil	연필
+reglustika	ruler	자
+nemendaskírteini	student id	학생증
+tússtafla	whiteboard	화이트보드
+ég læri	I study	저는 공부해요

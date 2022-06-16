@@ -1,0 +1,18 @@
+insects
+býflugnabóndi	beekeeper	양봉가
+bjalla	beetle	딱정벌레
+fiðrildislirfa	caterpillar	애벌레
+drekafluga	dragonfly	잠자리
+blysbjalla	firebug	방화범
+fló	flea	벼룩
+fluga	fly	파리
+engispretta	grasshopper	메뚜기
+býflugnabú	hive	벌집
+vespa	hornet	말벌
+maríubjalla	ladybug	무당벌레
+lirfa	larvae	유충
+bænabeiða	mantis	사마귀
+moskítófluga	mosquito	모기
+sporðdreki	scorpion	전갈
+skógarmítill	tick	진드기
+ormur	worm	벌레

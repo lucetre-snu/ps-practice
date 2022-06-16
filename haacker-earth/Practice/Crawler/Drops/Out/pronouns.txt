@@ -1,0 +1,18 @@
+pronouns
+allir	everybody	모두
+hann	he	그는
+hennar	her	그녀의
+hans	his	그의
+það	it	그것은
+þess	its	그것의
+minn	my	나의
+enginn	nobody	아무도
+hún	she	그녀는
+þeirra	their	그들의
+þau	they	그들은
+við	we	우리는
+þú	you	너는
+þitt	your	너의
+ég hringi	I call	저는 전화해요
+ég kynni	I introduce	저는 소개해요
+ég tala	I speak	저는 말해요

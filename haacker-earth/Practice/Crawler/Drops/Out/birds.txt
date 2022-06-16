@@ -1,0 +1,18 @@
+birds
+fuglahús	birdhouse	새집
+kólíbrífugl	hummingbird	벌새
+kráka	crow	까마귀
+fálki	falcon	매
+fjöður	feather	깃털
+gæs	goose	거위
+strútur	ostrich	타조
+ugla	owl	올빼미
+páfagaukur	parrot	앵무새
+pelíkani	pelican	펠리컨
+mörgæs	penguin	펭귄
+hani	rooster	수탉
+mávur	seagull	갈매기
+flamingó	flamingo	홍학
+svala	swallow	제비
+svanur	swan	백조
+örn	eagle	독수리

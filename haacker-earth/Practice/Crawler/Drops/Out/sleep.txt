@@ -1,0 +1,18 @@
+sleep
+vekjaraklukka	alarm clock	알람 시계
+rimlagardínur	blinds	블라인드
+koja	bunk bed	이층 침대
+draumur	dream	꿈
+hengirúm	hammock	해먹
+rakatæki	humidifier	가습기
+svefnleysi	insomnia	불면증
+blundur	nap	낮잠
+nótt	night	밤
+martröð	nightmare	악몽
+náttborð	nightstand	침실용 탁자
+svefngríma	sleep mask	수면 마스크
+svefnganga	sleep walking	몽유병
+að sofa	sleeping	자고 있는
+svefnpilla	sleeping pill	수면제
+hrotur	snoring	코고는 소리
+geispi	yawn	하품

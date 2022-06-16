@@ -1,0 +1,19 @@
+musical_instruments
+selló	cello	첼로
+orgel	organ	오르간
+harpa	harp	하프
+flauta	flute	플루트
+óbó	oboe	오보에
+básúna	trombone	트롬본
+klarínett	clarinet	클라리넷
+túba	tuba	튜바
+munnharpa	harmonica	하모니카
+bassi	bass	베이스
+trommukjuðar	drum sticks	드럼 스틱
+kassagítar	acoustic guitar	어쿠스틱 기타
+rafmagnsgítar	electric guitar	전자 기타
+saxófónn	saxophone	색소폰
+hljóðgervill	synthesizer	신시사이저
+trommur	drums	드럼
+ég plokka	I pluck	저는 뜯어요
+ég sem	I compose	저는 작곡해요

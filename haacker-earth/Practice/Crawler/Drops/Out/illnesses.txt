@@ -1,0 +1,19 @@
+illnesses
+ofnæmi	allergy	알레르기
+nefrennsli	runny nose	콧물
+astmi	asthma	천식
+hár blóðþrýstingur	high blood pressure	고혈압
+flensa	flu	독감
+sykursýki	diabetes	당뇨병
+landlæknir	general surgeon	외과 의사
+hjartasérfræðingur	cardiologist	심장병 전문의
+barnalæknir	pediatrician	소아과 의사
+húðsjúkdómafræðingur	dermatologist	피부과 의사
+svæfingarlæknir	anesthiesiologist	마취과 의사
+lýtalæknir	plastic surgeon	성형외과 의사
+hálstöflur	throat lozenges	인후염용 정제
+verkjalyf	pain killer	진통제
+vítamín	vitamins	비타민
+bóluefni	vaccine	백신
+fúkkalyf	antibiotics	항생제
+ég skelf	I shiver	저는 떨려요

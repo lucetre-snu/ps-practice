@@ -1,0 +1,19 @@
+hobbies
+saumaskapur	sewing	바느질
+teikning	drawing	그림 그리기
+prjónaskapur	knitting	뜨개질
+trésmíði	woodworking	목공
+módelsmíði	model building	모형 만들기
+skartgripagerð	jewelry making	귀금속 제조
+fuglaskoðun	birdwatching	조류 관찰
+læra erlend tungumál	foreign language learning	외국어 학습
+bakstur	baking	제과제빵
+borðspil	board games	보드게임
+útsaumur	embroidery	자수
+leirkeragerð	pottery	도자기
+frímerkjasöfnun	collecting stamps	우표 수집
+sjálfboðavinna	volunteering	자원봉사
+fiskveiðar	fishing	낚시
+ég hlusta á tónlist	I listen to music	저는 음악을 들어요
+ég geri	I make	저는 만들어요
+ég hef gaman af	I enjoy	저는 즐겨요

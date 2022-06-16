@@ -1,0 +1,18 @@
+sports_equipment
+ör	arrow	화살
+bolti	ball	공
+bogi	bow	활
+mark	goal	골
+markmaður	goalkeeper	골키퍼
+hjálmur	helmet	헬멧
+skautar	ice skate	아이스 스케이트
+net	net	네트
+leikmaður	player	선수
+keppni	race	경주
+tennisspaði	racket	라켓
+dómari	referee	심판
+hjólabretti	skateboard	스케이트보드
+skíði	skis	스키
+snjóbretti	snowboard	스노보드
+íþróttavöllur	stadium	경기장
+sundföt	swimsuit	수영복

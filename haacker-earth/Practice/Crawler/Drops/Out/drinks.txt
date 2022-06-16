@@ -1,0 +1,13 @@
+drinks
+kaffi	coffee	커피
+kók	coke	콜라
+heitt súkkulaði	hot chocolate	핫초콜릿
+drykkur	drink	음료
+mjólk	milk	우유
+ölkelduvatn	mineral water	미네랄 워터
+appelsínusafi	orange juice	오렌지주스
+gos	soda	탄산음료
+te	tea	차
+vatn	water	물
+ég drekk	I drink	저는 마셔요
+mér líkar illa við	I dislike	저는 싫어해요

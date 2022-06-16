@@ -1,0 +1,16 @@
+pastries
+snittubrauð	baguette	바게트
+ofnskúffa	baking tray	베이킹 트레이
+bolla	bun	번
+sælgæti	candy	사탕
+kasjúhneta	cashew nut	캐슈너트
+kex	crackers	크래커
+smjördeigshorn	croissant	크루아상
+ég baka	I bake	저는 빵을 구워요
+hnetusmjör	peanut butter	땅콩버터
+baka	pie	파이
+pítsa	pizza	피자
+saltkringla	pretzel	프레첼
+graskersfræ	pumpkin seed	호박씨
+kökukefli	rolling pin	밀대
+skonsa	scone	스콘

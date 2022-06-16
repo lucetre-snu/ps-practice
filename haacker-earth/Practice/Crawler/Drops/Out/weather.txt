@@ -1,0 +1,16 @@
+weather
+þoka	fog	안개
+rigning	rain	비
+snjór	snow	눈
+sól	sun	해
+hitastig	temperature	온도
+veðurspá	weather forecast	일기예보
+vindur	wind	바람
+regnhlíf	umbrella	우산
+regnkápa	raincoat	우비
+vetur	winter	겨울
+sumar	summer	여름
+haust	fall	가을
+vor	spring	봄
+ís	ice	얼음
+stormur	storm	폭풍

@@ -1,0 +1,17 @@
+workspace
+bréfaklemma	paperclip	클립
+skrifborð	desk	책상
+skjalaskápur	file cabinet	파일 캐비닛
+ljósritunarvél	photocopier	복사기
+fundaherbergi	conference room	회의실
+kaffitería	cafeteria	카페테리아
+heftilosari	staple remover	철침 제거기
+upphækkað skrifborð	standing desk	입식 책상
+rými	cubicle	칸막이
+ritvinnsla	word processor	문서 처리기
+skýjageymsla	cloud storage	클라우드 스토리지
+næturvakt	night shift	야간 근무
+ég ræð í vinnu	I employ	저는 고용해요
+ég bæti	I improve	저는 향상시켜요
+ég prenta	I print	저는 인쇄해요
+ég afrita	I copy	저는 복사해요

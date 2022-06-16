@@ -1,0 +1,18 @@
+mobility
+barnavagn	baby carriage	유모차
+ferja	ferry	페리
+kláfur	cable car	케이블카
+bílskúr	garage	차고
+rúllustigi	escalator	에스컬레이터
+bílastæði	parking lot	주차장
+farþegasæti	passenger seat	조수석
+járnbraut	railroad	철도
+hlaupahjól	scooter	스쿠터
+öryggisbelti	seat belt	안전벨트
+neðanjarðarlest	subway	지하철
+leigubíll	taxi	택시
+miði	ticket	표
+umferðarmerki	traffic sign	교통 표지
+skott	trunk	트렁크
+hjól	wheel	바퀴
+hjólastóll	wheelchair	휠체어

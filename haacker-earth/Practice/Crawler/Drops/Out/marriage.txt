@@ -1,0 +1,18 @@
+marriage
+blómvöndur	bouquet	부케
+brúður	bride	신부
+skilnaður	divorce	이혼
+brúðgumi	groom	신랑
+brúðkaupsferð	honeymoon	신혼여행
+ég spyr	I ask	저는 물어봐요
+ég gef	I give	저는 줘요
+bónorð	proposal	프로포즈
+einhleypur	single	독신인
+að skála	toast	건배
+brúðarterta	wedding cake	웨딩케이크
+kaupmáli	wedding contract	결혼 서약
+brúðkaupsdagur	wedding day	결혼식 날
+brúðarkjóll	wedding dress	웨딩드레스
+brúðkaupsgjöf	wedding gift	결혼 선물
+brúðkaupsboðskort	wedding invitation	청첩장
+giftingarhringur	wedding ring	결혼 반지

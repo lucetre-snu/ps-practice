@@ -1,0 +1,18 @@
+headwear
+höfuðklútur	bandana	반다나
+húfa	beanie	비니
+golfhúfa	beret	베레모
+kúrekahattur	cowboy hat	카우보이 모자
+eyrnahlífar	earmuffs	귀마개
+sixpensari	flat hat	납작 모자
+derhúfa	fullcap	캡
+hárband	hair band	머리끈
+öryggishjálmur	hard hat	안전모
+ennisband	headband	머리띠
+hetta	hood	후드
+ég set	I put	저는 써요
+sundhetta	swimming cap	수영 모자
+sundgleraugu	swimming goggles	물안경
+pípuhattur	tophat	실크해트
+túrban	turban	터번
+skyggni	visor	챙

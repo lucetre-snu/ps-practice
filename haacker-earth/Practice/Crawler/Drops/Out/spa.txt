@@ -1,0 +1,18 @@
+spa
+kviður	abdomen	배
+náttsloppur	bathrobe	목욕 가운
+strandstóll	deck chair	갑판의자
+heitur pottur	hot tub	온수 욕조
+ég slaka á	I relax	저는 휴식해요
+nuddpottur	jacuzzi	자쿠지
+fljótandi sápa	liquid soap	액체 비누
+búningsklefi	locker room	라커룸
+nudd	massage	마사지
+gufubað	sauna	사우나
+gufubað	steam room	한증막
+sundlaug	swimming pool	수영장
+náttúrulaug	thermal bath	열탕
+heitt vatn	thermal water	온천수
+háls	throat	목구멍
+rennibraut	water slide	워터 슬라이드
+þyngdartap	weight loss	체중감량

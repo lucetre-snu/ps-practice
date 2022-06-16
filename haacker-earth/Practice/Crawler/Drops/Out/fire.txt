@@ -1,0 +1,18 @@
+fire
+grill	barbecue	바비큐
+eldur	fire	불
+brunaboði	fire alarm	화재 경보
+eldvarnarhnappur	fire alarm button	화재 경보 버튼
+flóttaleið	fire exit	비상구
+slökkvitæki	fire extinguisher	소화기
+brunaslanga	fire hose	소방 호스
+brunahani	fire hydrant	소화전
+úðakerfi	fire sprinkler	화재 스프링쿨러
+skógareldur	forest fire	산불
+húsbruni	house fire	집불
+ég slekk á	I extinguish	저는 불을 꺼요
+ég kveiki í	I light up	저는 불을 피워요
+reykur	smoke	연기
+reykskynjari	smoke detector	연기 감지기
+neisti	spark	불꽃
+kyndill	torch	횃불

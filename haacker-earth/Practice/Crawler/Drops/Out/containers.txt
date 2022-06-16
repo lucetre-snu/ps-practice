@@ -1,0 +1,18 @@
+containers
+bakpoki	backpack	배낭
+tunna	barrel	통
+kassi	box	박스
+skjalataska	briefcase	서류 가방
+fata	bucket	들통
+kista	chest	나무 상자
+skúffa	drawer	서랍
+flaska	flask	플라스크
+mappa	folder	폴더
+handtaska	handbag	핸드백
+krukka	jar	항아리
+skápur	locker	사물함
+plastpoki	plastic bag	비닐봉투
+handtaska	purse	지갑
+ferðataska	suitcase	여행 가방
+vasi	vase	꽃병
+mittistaska	fannypack	힙색

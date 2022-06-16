@@ -1,0 +1,6 @@
+eat_&_drink
+grænmetisæta	vegetarian	채식주의자
+Með hverju mælir þú?	What do you recommend?	어떤 것을 추천하나요?
+ljúffengt	delicious	맛있어요
+njóttu matarins	Enjoy your meal!	맛있게 드세요
+skál	Cheers!	건배

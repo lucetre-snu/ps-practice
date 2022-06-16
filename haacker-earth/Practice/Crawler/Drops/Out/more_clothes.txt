@@ -1,0 +1,17 @@
+more_clothes
+regnkápa	raincoat	우비
+sloppur	robe	가운
+nærbuxur	boxer shorts	사각 팬티
+stuttar nærbuxur	briefs	삼각 팬티
+náttföt	pyjamas	잠옷
+samfestingur	overalls	오버롤
+hversdagsföt	loungewear	평상복
+jakki	blazer	블레이저
+slá	poncho	판초
+peysa	jumper	점퍼
+peysa	pullover	스웨터
+treyja	cardigan	가디건
+ermi	sleeve	소매
+nefhringur	nose ring	코걸이
+ég brýt saman	I fold	저는 접어요
+ég hengi upp	I hang up	저는 걸어요

@@ -1,0 +1,18 @@
+business
+þjónustudeild	customer support	고객 지원
+starfsmenn	employees	종업원
+frumkvöðull	entrepreneur	사업가
+faxvél	fax machine	팩스
+ég rek	I fire	저는 해고해요
+stjórnandi	manager	경영자
+fundur	meeting	회의
+stofnun	organization	단체
+kynning	presentation	발표
+hagnaður	profit	이익
+stöðuhækkun	promotion	승진
+launahækkun	raise	인상
+laun	salary	월급
+heftari	stapler	스테이플러
+ritföng	stationery	문구류
+límbandsstatíf	tape dispenser	테이프 디스펜서
+vinnutími	work hours	근무시간

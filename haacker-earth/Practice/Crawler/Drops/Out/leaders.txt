@@ -1,0 +1,18 @@
+leaders
+geimfari	astronaut	우주비행사
+skipstjóri	captain	선장
+þjálfari	coach	코치
+hershöfðingi	commander	사령관
+einræðisherra	dictator	독재자
+leikstjóri	director	감독
+konungur	king	왕
+riddari	knight	기사
+leigusali	landlord	주인
+stjórnmálamaður	politician	정치가
+páfi	pope	교황
+forseti	president	대통령
+prins	prince	왕자
+prinsessa	princess	공주
+drottning	queen	여왕
+uppreisnarmaður	rebel	반역자
+fógeti	sheriff	보안관

@@ -1,0 +1,18 @@
+cooking
+blandari	blender	블렌더
+dós	can	캔
+matreiðslubók	cookbook	요리책
+tappatogari	corkscrew	코르크 따개
+rifjárn	grater	강판
+safapressa	juicer	주서기
+ausa	ladle	국자
+hrærivél	mixer	믹서기
+hræriskál	mixing bowl	믹싱볼
+hnetubrjótur	nutcracker	호두까개
+piparkvörn	pepper mill	후추 분쇄기
+svampur	sponge	스펀지
+sigti	strainer	체
+hitamælir	thermometer	온도계
+tímamælir	timer	타이머
+brauðrist	toaster	토스터
+þeytari	whisk	거품기

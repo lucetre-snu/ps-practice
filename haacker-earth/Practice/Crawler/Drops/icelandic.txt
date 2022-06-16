@@ -1,0 +1,2786 @@
+drinks			12
+kaffi	coffee	커피
+kók	coke	콜라
+heitt súkkulaði	hot chocolate	핫초콜릿
+drykkur	drink	음료
+mjólk	milk	우유
+ölkelduvatn	mineral water	미네랄 워터
+appelsínusafi	orange juice	오렌지주스
+gos	soda	탄산음료
+te	tea	차
+vatn	water	물
+ég drekk	I drink	저는 마셔요
+mér líkar illa við	I dislike	저는 싫어해요
+food			17
+brauð	bread	빵
+morgunmatur	breakfast	아침 식사
+ávextir	fruits	과일
+ostur	cheese	치즈
+egg	egg	계란
+fiskur	fish	생선
+gaffall	fork	포크
+súpa	soup	수프
+sveppur	mushroom	버섯
+hnífur	knife	칼
+sítróna	lemon	레몬
+kjöt	meat	고기
+skeið	spoon	숟가락
+sykur	sugar	설탕
+salat	salad	샐러드
+ég borða	I eat	저는 먹어요
+ég elda	I cook	저는 요리해요
+fruits			17
+plóma	plum	자두
+kíví	kiwi	키위
+brómber	blackberry	블랙베리
+hunangsmelóna	honeydew melon	허니듀 멜론
+ferskja	peach	복숭아
+kirsuber	cherry	체리
+bláber	blueberry	블루베리
+epli	apple	사과
+ólífa	olive	올리브
+ananas	pineapple	파인애플
+jarðarber	strawberry	딸기
+hindber	raspberry	산딸기
+vínber	grape	포도
+vatnsmelóna	watermelon	수박
+pera	pear	배
+banani	banana	바나나
+ég tíni	I pick	저는 따요
+vegetables			17
+lárpera	avocado	아보카도
+baun	bean	콩
+spergilkál	broccoli	브로콜리
+hvítkál	cabbage	양배추
+gulrót	carrot	당근
+blómkál	cauliflower	콜리플라워
+maís	corn	옥수수
+agúrka	cucumber	오이
+hvítlaukur	garlic	마늘
+kál	lettuce	상추
+laukur	onion	양파
+steinselja	parsley	파슬리
+kartafla	potato	감자
+grasker	pumpkin	호박
+radísa	radish	무
+hrísgrjón	rice	쌀
+tómatur	tomato	토마토
+restaurant			17
+öskubakki	ashtray	재떨이
+reikningur	bill	계산서
+flaska	bottle	병
+kokkur	chef	요리사
+meðlæti	condiments	양념
+eftirréttur	dessert	디저트
+skyndibiti	fast food	패스트푸드
+matarbíll	food truck	포장마차
+matseðill	menu	메뉴판
+servíetta	napkin	냅킨
+götumatur	street food	길거리 음식
+borðdúkur	tablecloth	식탁보
+þjórfé	tip	팁
+tannstöngull	toothpick	이쑤시개
+bakki	tray	쟁반
+gengilbeina	waitress	웨이트리스
+ég borga	I pay	저는 지불해요
+more_foods			17
+mandla	almond	아몬드
+beikon	bacon	베이컨
+smjör	butter	버터
+jarðhneta	peanut	땅콩
+kókoshneta	coconut	코코넛
+skinka	ham	햄
+hamborgari	hamburger	햄버거
+heslihneta	hazelnut	헤이즐넛
+pylsa	hotdog	핫도그
+pasta	pasta	파스타
+pistasíuhneta	pistachio	피스타치오
+lax	salmon	연어
+pylsa	sausage	소시지
+valhneta	walnut	호두
+jógúrt	yogurt	요거트
+ég helli	I pour	저는 쏟아요
+ég þjóna	I serve	저는 제공해요
+spices_and_sweets			17
+basilíka	basil	바질
+kex	cracker	비스킷
+kaka	cake	케이크
+chilipipar	chili	고추
+súkkulaði	chocolate	초콜릿
+kanill	cinnamon	시나몬
+smákaka	cookie	쿠키
+engifer	ginger	생강
+muffins	muffin	머핀
+kleinuhringur	doughnut	도넛
+hveiti	flour	밀가루
+hunang	honey	꿀
+rjómaís	ice cream	아이스크림
+sleikjó	lollipop	막대사탕
+pipar	pepper	후추
+salt	salt	소금
+vanilla	vanilla	바닐라
+cooking			17
+blandari	blender	블렌더
+dós	can	캔
+matreiðslubók	cookbook	요리책
+tappatogari	corkscrew	코르크 따개
+rifjárn	grater	강판
+safapressa	juicer	주서기
+ausa	ladle	국자
+hrærivél	mixer	믹서기
+hræriskál	mixing bowl	믹싱볼
+hnetubrjótur	nutcracker	호두까개
+piparkvörn	pepper mill	후추 분쇄기
+svampur	sponge	스펀지
+sigti	strainer	체
+hitamælir	thermometer	온도계
+tímamælir	timer	타이머
+brauðrist	toaster	토스터
+þeytari	whisk	거품기
+pastries			15
+snittubrauð	baguette	바게트
+ofnskúffa	baking tray	베이킹 트레이
+bolla	bun	번
+sælgæti	candy	사탕
+kasjúhneta	cashew nut	캐슈너트
+kex	crackers	크래커
+smjördeigshorn	croissant	크루아상
+ég baka	I bake	저는 빵을 구워요
+hnetusmjör	peanut butter	땅콩버터
+baka	pie	파이
+pítsa	pizza	피자
+saltkringla	pretzel	프레첼
+graskersfræ	pumpkin seed	호박씨
+kökukefli	rolling pin	밀대
+skonsa	scone	스콘
+tea_and_coffee			17
+svunta	apron	앞치마
+barþjónn	barista	바리스타
+bið eftir drykk	brew time	우려내는 시간
+kókosvatn	coconut water	코코넛워터
+kaffibaun	coffee bean	커피콩
+kaffikvörn	coffee grinder	커피 분쇄기
+espressó	espresso	에스프레소
+espressóvél	espresso machine	에스프레소 기계
+uppáhellt kaffi	filter coffee	필터 커피
+pressukanna	French press	프레스 커피포트
+kokkahattur	chef's hat	요리사 모자
+ég smakka	I taste	저는 맛을 봐요
+mjólkurkaffi	latte	라떼
+kaffimál	take-away cup	휴대용 컵
+tepoki	tea bag	티백
+tesía	tea egg	티에그
+telauf	tea leaf	찻잎
+herbs			18
+piparmynta	peppermint	페퍼민트
+sítrónugras	lemongrass	레몬그라스
+piparrót	horseradish	고추냉이
+rósmarín	rosemary	로즈메리
+salvía	sage	세이지
+negull	clove	정향
+fenníka	fennel	회향
+lofnarblóm	lavender	라벤더
+ginseng	ginseng	인삼
+kattarminta	catnip	캣닙
+garðminta	spearmint	스피아민트
+meiran	marjoram	마조람
+saffran	saffron	사프란
+graslaukur	chives	쪽파
+timjan	thyme	타임
+minta	mint	민트
+ég legg í bleyti	I infuse	저는 우려내요
+ég rennbleyti	I soak	저는 적셔요
+more_vegetables			18
+blaðlaukur	leek	파
+aspas	asparagus	아스파라거스
+baun	pea	콩
+rósakál	brussels sprout	방울양배추
+kínakál	bok choy	청경채
+ætiþistill	artichoke	아티초크
+eggaldin	eggplant	가지
+kúrbítur	squash	호박
+sæt kartafla	sweet potato	고구마
+spírur	sprouts	새싹
+grænkál	kale	케일
+rauðrófa	beetroot	비트루트
+butternut grasker	butternut squash	버터넛 호박
+sojabaunir	soybeans	콩
+ég sýð	I boil	저는 끓여요
+ég soðsteiki	I braise	저는 푹 삶아요
+ég flysja	I peel	저는 껍질을 벗겨요
+ég sker í bita	I dice	저는 깍둑썰어요
+exotic_fruits			18
+ástaraldin	passion fruit	패션프루트
+granatepli	pomegranate	석류
+fíkja	fig	무화과
+mangó	mango	망고
+dáraaldin	durian	두리안
+papæjualdin	papaya	파파야
+trönuber	cranberry	크랜베리
+greipaldin	grapefruit	자몽
+rabarbari	rhubarb	루바브
+daðla	date	대추
+kantalúpmelóna	cantaloupe	멜론
+stikilsber	gooseberry	구스베리
+drekaávöxtur	dragon fruit	용과
+snákaávöxtur	snake fruit	비늘야자
+gullaldin	mangosteen	망고스틴
+límóna	lime	라임
+ég kreisti	I squeeze	저는 짜요
+ég pressa	I press	저는 눌러요
+even_more_cooking			16
+ávaxtapressa	fruit press	과일 압착기
+spaði	spatula	주걱
+rifjárn	cheese grater	치즈 강판
+tappatogari	wine opener	와인 따개
+töng	tongs	집게
+hvítlaukspressa	garlic press	마늘 압착기
+mæliglös	measuring cups	계량컵
+eldhúsvigt	kitchen scale	부엌 저울
+mæliskeiðar	measuring spoons	계량스푼
+wok	wok	냄비
+sinnep	mustard	겨자
+tómatsósa	ketchup	케첩
+sterk sósa	hot sauce	핫소스
+sojasósa	soy sauce	간장
+ég ríf	I grate	저는 강판에 갈아요
+ég smyr	I spread	저는 펴발라요
+snacks			18
+beygla	bagel	베이글
+snakkpoki	bag of chips	감자칩 한봉지
+poppkorn	popcorn	팝콘
+súrkrás	pickle	피클
+nachos	nachos	나초
+mjólkurhristingur	milkshake	밀크 쉐이크
+þurrkað nautakjöt	beef jerky	소고기 육포
+þurrkaðir ávextir	dried fruit	말린 과일
+ferðasnakk	trail mix	트레일 믹스
+hlaup	jelly	젤리
+snakk og ídýfa	chips and dip	감자칩과 딥
+sælgætisstafur	candy cane	사탕 지팡이
+karamelluepli	caramel apple	카라멜 사과
+piparkaka	gingerbread	생강 쿠키
+tyggigúmmí	chewing gum	껌
+búðingur	pudding	푸딩
+ég skipti á milli	I split	저는 나눠 먹어요
+ég missi	I drop	저는 떨어뜨려요
+breakfast_foods			16
+pönnukaka	pancake	팬케이크
+morgunkorn	cereal	곡류
+vaffla	waffle	와플
+eggjakaka	omelet	오믈렛
+hafrastöng	granola bar	그래놀라 바
+ristabrauð	toast	토스트
+hafragrautur	oatmeal	오트밀
+baka	quiche	키쉬
+brioche	brioche	브리오쉬
+kúskús	couscous	쿠스쿠스
+kínóa	quinoa	퀴노아
+kjúklingabaun	chickpea	병아리콩
+hafrar	oat	귀리
+linsubaun	lentil	렌틸콩
+ég klíni	I smear	저는 발라요
+ég pakka inn	I wrap	저는 싸요
+essentials_01_-_daytripper			17
+já	yes	네
+nei	no	아니요
+hæ	hi	안녕하세요
+takk fyrir	thank you	감사합니다
+vinsamlegast	please	제발
+klósett	toilet	화장실
+veitingahús	restaurant	식당
+fyrirgefðu	Sorry!	미안해요
+Talar þú ensku?	Do you speak English?	영어를 할 줄 아세요?
+Get ég fengið vatn	I need water.	물이 필요해요
+lokað	closed	닫다
+opið	open	열다
+Hjálp!	Help!	도와주세요!
+reikninginn, takk	The bill, please!	계산서를 주세요
+afsakaðu	Excuse me!	실례합니다
+Hversu mikið?	How much?	얼마인가요?
+matseðil, takk	Menu, please!	메뉴를 주세요
+essentials_02_-_sightseer			16
+bless	bye	안녕히 가세요
+hraðbanki	ATM machine	ATM 기계
+kreditkort	credit card	신용카드
+sjúkrahús	hospital	병원
+vinsamlegast bíddu	Please wait!	기다려주세요
+herrar	gents	남자 화장실
+dömur	ladies	여자 화장실
+Hvar er matvöruverslunin?	Where is the supermarket?	슈퍼마켓이 어디에 있나요?
+ekkert mál	No problem!	문제없어요!
+þennan	That one!	그거요!
+inngangur	entrance	입구
+útgangur	exit	출구
+lögregla	police	경찰
+Hversu mörg?	How many?	얼마나?
+einn í viðbót	One more!	하나 더
+einum minna	One less!	하나 적게
+essentials_03_-_nomad			16
+einn	one	일
+tveir	two	이
+þrír	three	삼
+fjórir	four	사
+fimm	five	오
+sex	six	육
+sjö	seven	칠
+átta	eight	팔
+níu	nine	구
+tíu	ten	십
+Ég er með ofnæmi fyrir hnetum	I'm allergic to peanuts.	저는 땅콩 알레르기가 있어요
+ég er glaður	I am happy.	저는 행복해요
+Skilur þú?	Do you understand?	이해했어요?
+of dýrt	Too expensive!	너무 비싸요
+Eitthvað fleira?	Anything else?	다른 건 필요 없나요?
+nei, þetta var allt	No, that's all.	없어요, 그게 다예요.
+essentials_04_-_globetrotter			18
+tuttugu	twenty	이십
+hundrað	hundred	백
+vinstri	left	왼쪽
+hægri	right	오른쪽
+beint áfram	straight ahead	직진
+fjörutíu	forty	사십
+þrjátíu	thirty	삼십
+þúsund	thousand	천
+ég er frá	I'm from	저는 -에서 왔어요
+aðgangur bannaður	do not enter	진입 금지
+aðeins peningar	cash only	현금만 가능
+farðu burt	Go away!	저리 가!
+Ég er týndur	I'm lost.	저는 길을 잃었어요
+Ég er veikur	I'm sick.	저는 아파요
+stöðva hér	Stop here!	여기에 멈춰주세요
+Hvaðan ertu?	Where are you from?	어디에서 왔어요?
+Hvað heitir þú?	What's your name?	이름이 뭐예요?
+Ég heiti Alex.	My name is Alex.	저의 이름은 알렉스입니다
+meet_&_greet			17
+Afsakið	Excuse me!	실례합니다!
+ekkert að þakka	You're welcome!	천만에요
+gaman að kynnast þér	Nice to meet you!	만나서 반가워요
+Getur þú aðstoðað?	Can you help me?	저를 도와주실래요?
+góðan dag	Good morning!	좋은 아침이에요
+góðan dag	Good afternoon!	안녕하세요
+gott kvöld	Good evening!	좋은 저녁 되세요
+góða nótt	Good night!	잘 자요
+Hvernig hefur þú það?	How are you?	어떻게 지냈어요?
+Fínt, takk.	Fine, thank you.	잘 지냈어요. 고마워요
+En þú?	And you?	당신은요?
+Hvernig er veðrið?	How's the weather?	날씨가 어때요?
+það er gott	It's nice.	좋아요
+það er slæmt	It's bad.	나빠요
+það er heitt	It's hot.	더워요
+það er kalt	It's cold.	추워요
+ég líka	Me too.	저도요
+buy_&_bargain			10
+það er ekkert	There isn't any.	없어요
+ódýrari	A cheaper one.	더 싼 것
+Hversu mikið?	How much?	얼마예요?
+helmingur	half	절반
+allt	All of it.	모두
+Get ég borgað með greiðslukorti?	Can I pay with credit card?	카드로 결제할 수 있나요?
+Eigið þið póstkort?	Do you have postcards?	엽서가 있나요?
+þennan	This one!	이거요
+Ég vil ekki	I don't want.	원하지 않아요
+skrifaðu það niður	Write it down!	쓰다
+essential_products			18
+regnhlíf	umbrella	우산
+landakort	map	지도
+hleðslutæki	charger	충전기
+sólgleraugu	sunglasses	선글라스
+lestarmiði	rail ticket	기차표
+sólarvörn	sunscreen	선크림
+millistykki	adaptor	어댑터
+aspirín	aspirin	아스피린
+SIM kort	SIM card	심 카드
+kort í neðanjarðarlest	metro pass	지하철 패스권
+strætómiði	bus ticket	버스표
+Pepto Bismol	Pepto Bismol	까스활명수
+bensín	gasoline	가솔린
+minjagripur	souvenir	기념품
+aðgöngumiði	entrance ticket	입장 티켓
+snyrtivörur	toiletries	세면도구
+minniskort	memory card	메모리 카드
+flöskuvatn	bottled water	생수
+staying_safe			18
+flugvöllur	airport	공항
+hótel	hotel	호텔
+banki	bank	은행
+lestarstöð	train station	기차역
+pósthús	post office	우체국
+læknir	doctor	의사
+umferðarmiðstöð	bus station	버스 승강장
+stigi	stairs	계단
+Burtu	Keep off!	주의
+ekki snerta	Don't touch!	만지지 마세요
+farðu varlega	Be careful!	조심하세요
+gættu þín	Watch out!	조심하세요
+Ég týndi veskinu mínu.	I lost my wallet.	지갑을 잃어버렸어요
+Má ég nota farsímann þinn?	Can I use your mobile?	핸드폰을 빌릴 수 있나요?
+neyðarútgangur	emergency exit	비상구
+sími	telephone	전화
+neðanjarðarlestarstöð	metro station	지하철역
+markaður	market	시장
+getting_around			18
+Hvað er þetta kallað?	What's this called?	뭐라고 불러요?
+Hversu langt?	How far?	얼마나 멀리 있어요?
+Er það nálægt?	Is it near?	가까이 있어요?
+Hvað er langt á flugvöllinn?	How long to get to the airport?	공항까지 얼마나 걸려요?
+til vinstri	On the left.	왼쪽
+til hægri	On the right.	오른쪽
+hægðu á þér	Slow down!	천천히
+Fara klukkan hvað?	Leave at what time?	몇시에 출발할까요?
+í dag	today	오늘
+á morgun	tomorrow	내일
+í gær	yesterday	어제
+núna	now	지금
+seinna	later	나중에
+Hvað er klukkan?	What time is it?	지금 몇시예요?
+Hún er 3.	It's 3 o'clock.	3시예요
+Á flugvöllinn, takk!	To the airport please!	공항으로 가주세요
+Getur þú tekið mynd af mér?	Can you take my photo?	사진을 찍어주세요
+Má ég taka mynd af þér?	Can I take your photo?	사진을 찍어드릴까요?
+eat_&_drink			5
+grænmetisæta	vegetarian	채식주의자
+Með hverju mælir þú?	What do you recommend?	어떤 것을 추천하나요?
+ljúffengt	delicious	맛있어요
+njóttu matarins	Enjoy your meal!	맛있게 드세요
+skál	Cheers!	건배
+meet_the_locals			18
+hérna	here	여기
+þarna	there	거기
+Hvað gerir þú?	What do you do?	무엇을 하시나요?
+Ert þú héðan?	Are you from here?	여기 출신인가요?
+smá	a little	조금요
+Hvað ert þú gamall?	How old are you?	몇살이세요?
+Ég hef verið hér í fimm daga.	I have been here 5 days.	5일 동안 있었어요
+hver	Who?	누구
+hvað	What?	무엇
+hvenær	When?	언제
+hvar er matvöruverslunin?	Where?	어디서
+hvers vegna	Why?	왜
+hvernig	How?	어떻게
+þarna	over there	저기
+rangt	wrong	잘못된
+rétt	correct	맞은
+endurtaka	Repeat!	반복
+tala hægt	Speak slowly!	천천히 말해요
+counting			17
+ellefu	eleven	십일
+tólf	twelve	십이
+áttatíu	eighty	팔십
+fimmtíu	fifty	오십
+níutíu	ninety	구십
+sjötíu	seventy	칠십
+sextíu	sixty	육십
+þrettán	thirteen	십삼
+fjórtán	fourteen	십사
+fimmtán	fifteen	십오
+sextán	sixteen	십육
+sautján	seventeen	십칠
+átján	eighteen	십팔
+nítján	nineteen	십구
+tuttugu og einn	twenty-one	이십일
+tuttugu og fimm	twenty five	이십오
+sjötíu og fimm	seventy five	칠십오
+counting_2			13
+hundrað og fimmtíu	one hundred fifty	백오십
+tvö hundruð	two hundred	이백
+þrjú hundruð	three hundred	삼백
+fjögur hundruð	four hundred	사백
+fimm hundruð	five hundred	오백
+tvö þúsund	two thousand	이천
+þrjú þúsund	three thousand	삼천
+fjögur þúsund	four thousand	사천
+fimm þúsund	five thousand	오천
+tíu þúsund	ten thousand	만
+fimmtíu þúsund	fifty thousand	오만
+hundrað þúsund	one hundred thousand	십만
+milljón	one million	백만
+essentials			17
+já	yes	네
+nei	no	아니요
+allt í lagi	ok	알겠어
+hæ	hi	안녕하세요
+takk fyrir	thank you	감사합니다
+bless	bye	안녕히 가세요
+vinsamlegast	please	제발
+ég	I	저
+kona	woman	여자
+maður	man	남자
+og	and	그리고
+eða	or	혹은
+þetta	this	이
+stelpa	girl	여자아이
+strákur	boy	남자아이
+mér líkar	I like	저는 좋아해요
+ég hitti	I meet	저는 만나요
+numbers			16
+núll	zero	영
+einn	one	일
+tveir	two	이
+þrír	three	삼
+fjórir	four	사
+fimm	five	오
+sex	six	육
+sjö	seven	칠
+átta	eight	팔
+níu	nine	구
+tíu	ten	십
+ellefu	eleven	십일
+tólf	twelve	십이
+tuttugu	twenty	이십
+hundrað	hundred	백
+ég held	I think	저는 생각해요
+colors			15
+svartur	black	검은색
+blár	blue	파란색
+brúnn	brown	갈색
+gylltur	gold	금색
+grænn	green	초록색
+grár	gray	회색
+appelsínugulur	orange	주황색
+bleikur	pink	분홍색
+fjólublár	purple	보라색
+regnbogi	rainbow	무지개
+rauður	red	빨간색
+silfur	silver	은색
+hvítur	white	하얀색
+gulur	yellow	노란색
+ég mála	I paint	저는 그림을 그려요
+pronouns			17
+allir	everybody	모두
+hann	he	그는
+hennar	her	그녀의
+hans	his	그의
+það	it	그것은
+þess	its	그것의
+minn	my	나의
+enginn	nobody	아무도
+hún	she	그녀는
+þeirra	their	그들의
+þau	they	그들은
+við	we	우리는
+þú	you	너는
+þitt	your	너의
+ég hringi	I call	저는 전화해요
+ég kynni	I introduce	저는 소개해요
+ég tala	I speak	저는 말해요
+more_numbers			17
+áttatíu	eighty	팔십
+fimmti	fifth	다섯 번째
+fimmtíu	fifty	오십
+fyrsti	first	첫 번째
+fjörutíu	forty	사십
+fjórði	fourth	네 번째
+milljón	million	백만
+níutíu	ninety	구십
+sekúnda	second	두 번째
+sjötíu	seventy	칠십
+sjötti	sixth	여섯 번째
+sextíu	sixty	육십
+þriðji	third	세 번째
+þrjátíu	thirty	삼십
+þúsund	thousand	천
+tuttugu og einn	twenty one	이십일
+tuttugu og tveir	twenty two	이십이
+countries			17
+Ástralía	Australia	호주
+Brasilía	Brazil	브라질
+Kanada	Canada	캐나다
+Kína	China	중국
+Finnland	Finland	핀란드
+Frakkland	France	프랑스
+Þýskaland	Germany	독일
+Bretland	Great Britain	영국
+Ítalía	Italy	이탈리아
+Japan	Japan	일본
+Mexíkó	Mexico	멕시코
+Noregur	Norway	노르웨이
+Rússland	Russia	러시아
+Spánn	Spain	스페인
+Svíþjóð	Sweden	스웨덴
+Holland	the Netherlands	네덜란드
+Bandaríkin	the United States of America	미국
+nationalities			17
+bandarískur	American	미국인
+ástralskur	Australian	호주인
+brasilískur	Brazilian	브라질인
+breskur	British	영국인
+kanadískur	Canadian	캐나다인
+kínverskur	Chinese	중국인
+hollenskur	Dutch	네덜란드인
+finnskur	Finnish	핀란드인
+franskur	French	프랑스인
+þýskur	German	독일인
+ítalskur	Italian	이탈리아인
+japanskur	Japanese	일본인
+mexíkóskur	Mexican	멕시코인
+norskur	Norwegian	노르웨이인
+rússneskur	Russian	러시아인
+spænskur	Spanish	스페인인
+sænskur	Swedish	스웨덴인
+shapes			16
+bogi	arch	아치형 구조물
+hringur	circle	원
+keila	cone	원뿔
+teningur	cube	큐브
+sívalningur	cylinder	원기둥
+átthyrningur	octagon	팔각형
+sporaskja	oval	타원형
+fimmhyrningur	pentagon	오각형
+pýramídi	pyramid	피라미드
+rétthyrningur	rectangle	직사각형
+sexhyrningur	hexagon	육각형
+hringur	ring	링
+kúla	sphere	구
+ferningur	square	사각형
+þríhyrningur	triangle	삼각형
+fleygur	wedge	쐐기
+more_nationalities			18
+írskur	Irish	아일랜드의
+walesbúi	Welsh	웰시의
+skoskur	Scottish	스코틀랜드의
+portúgalskur	Portuguese	포르투갈의
+grískur	Greek	그리스의
+króatískur	Croatian	크로아티아의
+svissneskur	Swiss	스위스의
+úkraínskur	Ukranian	우크라이나의
+kóreskur	Korean	한국의
+taívanskur	Taiwanese	대만의
+filippseyjabúi	Filipino	필리핀의
+taílenskur	Thai	태국의
+malasískur	Malaysian	말레이시아의
+indónesískur	Indonesian	인도네시아의
+belgískur	Belgian	벨기에의
+austurískur	Austrian	오스트리아의
+ég er frá	I'm from	저는 -에서 왔어요
+ég heimsæki	I visit	저는 방문해요
+more_countries			17
+írland	Ireland	아일랜드
+wales	Wales	웨일스
+skotland	Scotland	스코틀랜드
+portúgal	Portugal	포르투갈
+grikkland	Greece	그리스
+króatía	Croatia	크로아티아
+sviss	Switzerland	스위스
+úkraína	Ukraine	우크라이나
+suður kórea	South Korea	대한민국
+filippseyjar	Philippines	필리핀
+taíland	Thailand	태국
+malasía	Malaysia	말레이시아
+indónesía	Indonesia	인도네시아
+belgía	Belgium	벨기에
+austurríki	Austria	오스트리아
+ég bý á	I live in	저는 -에 살아요
+ég fer í skoðunarferð	I go sightseeing	저는 관광해요
+weather			15
+þoka	fog	안개
+rigning	rain	비
+snjór	snow	눈
+sól	sun	해
+hitastig	temperature	온도
+veðurspá	weather forecast	일기예보
+vindur	wind	바람
+regnhlíf	umbrella	우산
+regnkápa	raincoat	우비
+vetur	winter	겨울
+sumar	summer	여름
+haust	fall	가을
+vor	spring	봄
+ís	ice	얼음
+stormur	storm	폭풍
+outdoor			17
+tjaldbúðir	camp	캠프
+flugnanet	mosquito net	모기장
+vasaljós	flashlight	손전등
+kerti	candle	양초
+dósamatur	canned food	통조림
+áttaviti	compass	나침반
+reipi	rope	밧줄
+svefnpoki	sleeping bag	침낭
+varðeldur	campfire	캠프 파이어
+skæri	scissors	가위
+dósaopnari	can opener	통조림 따개
+vasahnífur	pocket knife	포켓 나이프
+ljós	light	빛
+eldspýtur	matches	성냥
+vatnsflaska	water bottle	물병
+ég skýt	I shoot	저는 쏘아요
+ég klifra	I climb	저는 올라가요
+animals			17
+fugl	bird	새
+naut	bull	황소
+köttur	cat	고양이
+kjúklingur	chicken	닭
+kýr	cow	소
+hundur	dog	개
+asni	donkey	당나귀
+önd	duck	오리
+geit	goat	염소
+hestur	horse	말
+mús	mouse	쥐
+svín	pig	돼지
+dúfa	pigeon	비둘기
+kanína	rabbit	토끼
+kind	sheep	양
+kalkúnn	turkey	칠면조
+ég fóðra	I feed	저는 먹이를 줘요
+plants			17
+bambus	bamboo	대나무
+trjágrein	branch	나뭇가지
+kaktus	cactus	선인장
+blóm	flower	꽃
+gras	grass	잔디
+kryddjurtir	herbs	허브
+lauf	leaf	잎
+trjástofn	log	통나무
+pálmatré	palm tree	야자나무
+furutré	pine tree	소나무
+rót	root	뿌리
+fræ	seed	씨
+jarðvegur	soil	흙
+spíra	sprout	새싹
+spýta	stick	막대기
+tré	tree	나무
+viður	wood	목재
+wild_animals			17
+maur	ant	개미
+leðurblaka	bat	박쥐
+björn	bear	곰
+býfluga	bee	벌
+fiðrildi	butterfly	나비
+kameldýr	camel	낙타
+kakkalakki	cockroach	바퀴벌레
+fíll	elephant	코끼리
+froskur	frog	개구리
+api	monkey	원숭이
+rotta	rat	쥐
+hákarl	shark	상어
+snigill	snail	달팽이
+slanga	snake	뱀
+könguló	spider	거미
+skjaldbaka	turtle	거북이
+úlfur	wolf	늑대
+fire			17
+grill	barbecue	바비큐
+eldur	fire	불
+brunaboði	fire alarm	화재 경보
+eldvarnarhnappur	fire alarm button	화재 경보 버튼
+flóttaleið	fire exit	비상구
+slökkvitæki	fire extinguisher	소화기
+brunaslanga	fire hose	소방 호스
+brunahani	fire hydrant	소화전
+úðakerfi	fire sprinkler	화재 스프링쿨러
+skógareldur	forest fire	산불
+húsbruni	house fire	집불
+ég slekk á	I extinguish	저는 불을 꺼요
+ég kveiki í	I light up	저는 불을 피워요
+reykur	smoke	연기
+reykskynjari	smoke detector	연기 감지기
+neisti	spark	불꽃
+kyndill	torch	횃불
+more_wild_animals			17
+bufall	buffalo	버팔로
+kamelljón	chameleon	카멜레온
+kóbraslanga	cobra	코브라
+krókódíll	crocodile	악어
+risaeðla	dinosaur	공룡
+gekkói	gecko	도마뱀붙이
+gíraffi	giraffe	기린
+górilla	gorilla	고릴라
+ég datt	I fell over	저는 넘어져요
+ég þefa	I smell	저는 냄새를 맡아요
+græneðla	iguana	이구아나
+kengúra	kangaroo	캥거루
+eðla	lizard	도마뱀
+pardusdýr	panther	표범
+nashyrningur	rhino	코뿔소
+tígrisdýr	tiger	호랑이
+sebrahestur	zebra	얼룩말
+air			17
+loftbelgir	balloons	풍선
+loftpúði	airbag	에어백
+uppgufun	evaporation	증발
+útblástur	exhaust fume	배기가스
+vifta	fan	팬
+gasgríma	gas mask	방독면
+loftbelgur	hot air balloon	열기구
+ég anda	I breathe	저는 숨을 쉬어요
+ég kafna	I choke	저는 숨이 막혀요
+lungu	lungs	폐
+hreinlætispappír	tissue	종이 티슈
+fallhlíf	parachute	낙하산
+fallhlífarstökkvari	paraglider	패러글라이더
+dæla	pump	펌프
+gat	puncture	펑크
+mengunarský	smog	스모그
+loftskip	airship	비행선
+beach			17
+strandbolti	beach ball	비치볼
+strandhandklæði	beach towel	해변용 수건
+strandblak	beach volleyball	비치 발리볼
+kælir	cooler	아이스박스
+frisbídiskur	frisbee	프리스비
+það rennur	it slides	미끄러지다
+björgunarvesti	life jacket	구명조끼
+lífvörður	lifeguard	안전요원
+sólhlíf	parasol	양산
+sandkassi	sandbox	모래 놀이 통
+rennibraut	slide	미끄럼틀
+snorkla	snorkel	스노클
+sólbekkur	sun chair	비치 의자
+sólbað	sunbathing	일광욕
+sólarvörn	sunscreen	선크림
+brimbretti	surfboard	서핑보드
+róla	swing	그네
+birds			17
+fuglahús	birdhouse	새집
+kólíbrífugl	hummingbird	벌새
+kráka	crow	까마귀
+fálki	falcon	매
+fjöður	feather	깃털
+gæs	goose	거위
+strútur	ostrich	타조
+ugla	owl	올빼미
+páfagaukur	parrot	앵무새
+pelíkani	pelican	펠리컨
+mörgæs	penguin	펭귄
+hani	rooster	수탉
+mávur	seagull	갈매기
+flamingó	flamingo	홍학
+svala	swallow	제비
+svanur	swan	백조
+örn	eagle	독수리
+flowers			17
+dvergtré	bonsai	분재
+kamilla	chamomile	카밀레
+túnfífill	dandelion	민들레
+blómapottur	flowerpot	화분
+gleym-mér-ei	forget me not	물망초
+ég vökva	I water	저는 물을 줘요
+lótusblóm	lotus	연꽃
+brönugras	orchid	난초
+heygaffall	pitchfork	쇠스랑
+klippur	pruner	전지가위
+rós	rose	장미
+músasmári	shamrock	토끼풀
+sólblóm	sunflower	해바라기
+túlípani	tulip	튤립
+vatnalilja	water lily	수련
+vökvunarkanna	watering pot	물뿌리개
+hjólbörur	wheelbarrow	손수레
+insects			17
+býflugnabóndi	beekeeper	양봉가
+bjalla	beetle	딱정벌레
+fiðrildislirfa	caterpillar	애벌레
+drekafluga	dragonfly	잠자리
+blysbjalla	firebug	방화범
+fló	flea	벼룩
+fluga	fly	파리
+engispretta	grasshopper	메뚜기
+býflugnabú	hive	벌집
+vespa	hornet	말벌
+maríubjalla	ladybug	무당벌레
+lirfa	larvae	유충
+bænabeiða	mantis	사마귀
+moskítófluga	mosquito	모기
+sporðdreki	scorpion	전갈
+skógarmítill	tick	진드기
+ormur	worm	벌레
+pets			17
+fiskabúr	aquarium	수족관
+fuglabúr	birdcage	새장
+ég strýk	I caress	저는 쓰다듬어요
+kattarúm	cat bed	고양이 침대
+ferðabúr	pet carrier	애완동물 캐리어
+kattamatur	cat food	고양이 음식
+kattaskítur	cat litter	고양이 깔개
+dýravegabréf	pet passport	애완동물 여권
+hundaól	dog collar	개목걸이
+hundamatur	dog food	개밥
+hundakofi	dog house	개집
+hundakúkapoki	dog poop bag	개 대변 봉지
+gullfiskur	goldfish	금붕어
+hamstur	hamster	햄스터
+ég geng með hundinn	I walk the dog	저는 개를 산책시켜요
+merkispjald	identification tag	인식표
+taumur	leash	끈
+sea_life			17
+akkeri	anchor	닻
+krabbi	crab	게
+höfrungur	dolphin	돌고래
+marglytta	jellyfish	해파리
+humar	lobster	바닷가재
+hafmeyja	mermaid	인어공주
+kolkrabbi	octopus	문어
+ár	paddles	노
+skata	ray	가오리
+sæhestur	seahorse	해마
+þang	seaweed	해초
+skel	shell	조개
+sjávarsnigill	sea snail	바다우렁이
+smokkfiskur	squid	오징어
+krossfiskur	starfish	불가사리
+kafbátur	submarine	잠수함
+hvalur	whale	고래
+natural_disasters			18
+eldgos	volcanic eruption	화산 폭발
+skriða	landslide	산사태
+haglél	hailstorm	우박
+flóðbylgja	tsunami	쓰나미
+fellibylur	typhoon	태풍
+jarðskjálfti	earthquake	지진
+grjóthrun	rockslide	돌사태
+hraunrennsli	lava flow	흐르는 용암
+snjóstormur	blizzard	눈보라
+þrumuveður	thunderstorm	뇌우
+hvirfilbylur	hurricane	허리케인
+loftsteinahrap	meteor impact	유성 충돌
+flóttamaður	refugee	난민
+hitabylgja	heat wave	혹서
+hungursneyð	famine	기근
+ég hníg niður	I collapse	저는 쓰러져요
+ég hleyp í skjól	I run for cover	저는 몸을 숨기기 위해 뛰어요
+ég bjarga	I rescue	저는 구해요
+more_sea_animals			18
+kórall	coral	산호
+sæskjaldbaka	sea turtle	바다거북
+ígulker	sea urchin	성게
+selur	seal	물개
+rostungur	walrus	바다코끼리
+sæotur	sea otter	해달
+áll	eel	장어
+rækja	shrimp	새우
+stingskata	stingray	가오리
+kræklingur	mussel	홍합
+skel	clam	조개
+ígulfiskur	pufferfish	복어
+háhyrningur	orca	범고래
+túnfiskur	tuna	참치
+sleggjuháfur	hammerhead shark	귀상어
+manata	manatee	해우
+ég fiska	I fish	저는 낚시해요
+ég rís	I rise	저는 일어나요
+relations			11
+yfirmaður	boss	보스
+foreldrar	parents	부모님
+fjölskylda	family	가족
+faðir	father	아버지
+kærasta	girlfriend	여자친구
+afi	grandfather	할아버지
+amma	grandmother	할머니
+börn	children	아이들
+móðir	mother	어머니
+kærasti	boyfriend	남자친구
+ég hlusta	I listen	저는 들어요
+health			17
+sjúkrabíll	ambulance	구급차
+plástur	band-aid	밴드
+farði	makeup	메이크업
+hárbursti	hairbrush	빗
+svimi	dizzy	어지러움
+hósti	cough	기침
+hiti	fever	열
+hausverkur	headache	두통
+lyf	medicine	약
+klósett	toilet	화장실
+tannpína	toothache	치통
+tannbursti	toothbrush	칫솔
+tannkrem	toothpaste	치약
+handklæði	towel	수건
+sápa	soap	비누
+ég baða mig	I bathe	저는 목욕해요
+ég fer í sturtu	I take a shower	저는 샤워를 해요
+body			17
+líkami	body	몸
+höfuð	head	머리
+hár	hair	머리카락
+andlit	face	얼굴
+eyru	ears	귀
+augu	eyes	눈
+nef	nose	코
+munnur	mouth	입
+tönn	tooth	이
+varir	lips	입술
+hönd	hand	손
+fingur	finger	손가락
+nögl	nail	손톱
+fótur	foot	발
+ég berst	I fight	저는 싸워요
+ég hoppa	I jump	저는 점프해요
+ég hleyp	I run	저는 달려요
+emotions			17
+reiður	angry	화난
+leiðist	bored	지루한
+rólegur	calm	차분한
+óður	crazy	미친
+vonsvikin	disappointed	실망한
+mér býður við þessu	disgusted	역겨워하는
+spenntur	excited	흥분한
+hræddur	frightened	겁먹은
+geðvondur	grumpy	성격이 나쁜
+hamingjusamur	happy	행복한
+ástfangin	in love	사랑에 빠진
+kvíðinn	nervous	긴장한
+afslappaður	relaxed	느긋한
+úthvíldur	rested	피로가 풀린
+sorgmæddur	sad	슬픈
+undrandi	surprised	놀란
+þreyttur	tired	피곤한
+body_parts			17
+ökkli	ankle	발목
+handleggur	arm	팔
+skegg	beard	수염
+bein	bone	뼈
+heili	brain	뇌
+olnbogi	elbow	팔꿈치
+hjarta	heart	심장
+hæll	heel	발뒤꿈치
+hné	knee	무릎
+fótleggur	leg	다리
+yfirvaraskegg	moustache	콧수염
+vöðvi	muscle	근육
+beinagrind	skeleton	해골
+húð	skin	피부
+hryggur	spine	척추
+magi	stomach	위
+mér blæðir	I bleed	저는 피가 나요
+sleep			17
+vekjaraklukka	alarm clock	알람 시계
+rimlagardínur	blinds	블라인드
+koja	bunk bed	이층 침대
+draumur	dream	꿈
+hengirúm	hammock	해먹
+rakatæki	humidifier	가습기
+svefnleysi	insomnia	불면증
+blundur	nap	낮잠
+nótt	night	밤
+martröð	nightmare	악몽
+náttborð	nightstand	침실용 탁자
+svefngríma	sleep mask	수면 마스크
+svefnganga	sleep walking	몽유병
+að sofa	sleeping	자고 있는
+svefnpilla	sleeping pill	수면제
+hrotur	snoring	코고는 소리
+geispi	yawn	하품
+baby			17
+barnapeli	baby bottle	젖병
+barnarúm	baby crib	아기 침대
+hringla	baby rattle	딸랑이
+barnastóll	bouncer	유아용 좌석
+smekkur	bib	턱받이
+fæðing	birth	탄생
+brjóstagjöf	breastfeeding	모유 수유
+getnaðarvörn	contraceptive	피임약
+bleyja	diaper	기저귀
+bleyjuskipti	diaper change	기저귀 교체
+fóstur	fetus	태아
+ég skríð	I crawl	저는 기어요
+ég græt	I cry	저는 울어요
+snuð	pacifier	고무젖꼭지
+koppur	potty	유아용 변기
+meðganga	pregnancy	임신
+tvíburar	twins	쌍둥이
+marriage			17
+blómvöndur	bouquet	부케
+brúður	bride	신부
+skilnaður	divorce	이혼
+brúðgumi	groom	신랑
+brúðkaupsferð	honeymoon	신혼여행
+ég spyr	I ask	저는 물어봐요
+ég gef	I give	저는 줘요
+bónorð	proposal	프로포즈
+einhleypur	single	독신인
+að skála	toast	건배
+brúðarterta	wedding cake	웨딩케이크
+kaupmáli	wedding contract	결혼 서약
+brúðkaupsdagur	wedding day	결혼식 날
+brúðarkjóll	wedding dress	웨딩드레스
+brúðkaupsgjöf	wedding gift	결혼 선물
+brúðkaupsboðskort	wedding invitation	청첩장
+giftingarhringur	wedding ring	결혼 반지
+oral_care			17
+svæfingarlyf	anesthetic	마취제
+spangir	braces	치아 교정기
+hola í tönn	cavity	충치
+gervitennur	denture	틀니
+rafmagnstannbursti	electric toothbrush	전동칫솔
+tannþráður	floss	치실
+tannþræðing	flossing	치실하다
+gómur	gum	잇몸
+munnskol	mouthwash	가글액
+rótfylling	root canal treatment	뿌리 신경 치료
+tannbrú	teeth bridge	부분 의치
+tannhvíttun	teeth whitening	치아미백제
+ég fylli	I fill	저는 채워요
+króna	tooth crown	치관
+tannborun	tooth drilling	치아를 깎다
+tannúrtaka	tooth extraction	발치
+tannfylling	tooth implant	임플란트
+more_sleep			18
+eyrnatappar	ear plugs	귀마개
+heilsukoddi	neck pillow	목베개
+vagga	cradle	요람
+drómasýki	narcolepsy	기면증
+dasaður	groggy	비몽사몽
+hitateppi	heated blanket	전기담요
+koddaver	pillow case	베갯잇
+svefnsófi	sofa bed	소파침대
+barnarúm	cot	아기 침대
+garðstóll	lawn chair	접이식 의자
+ilmstrá	diffuser	디퓨저
+myrkvunargardínur	black out curtains	암막 커튼
+höfuðgafl	headboard	머리판
+svefnganga	sleepwalk	몽유병
+snústakki	snooze button	스누즈 버튼
+rúmhandrið	bed rails	침대 난간
+ég hrýt	I snore	저는 코를 골아요
+ég sef yfir mig	I oversleep	저는 늦잠을 자요
+tales			18
+hirðfífl	jester	어릿광대
+tröll	troll	트롤
+risi	giant	거인
+varúlfur	werewolf	늑대인간
+hetja	hero	영웅
+skúrkur	villain	악당
+bölvun	curse	저주
+sögubók	storybook	이야기 책
+kentár	centaur	켄타우로스
+kýklópi	cyclops	키클롭스
+snjómaður	yeti	예티
+púki	demon	악마
+pegasus	pegasus	페가수스
+kvenhetja	heroine	여자 영웅
+brynja	armor	갑옷
+töfralampi	magic lamp	마법 램프
+ég bjarga	I rescue	구하다
+ég sigra	I defeat	무찌르다
+more_relationships			18
+blint stefnumót	blind date	소개팅
+ást við fyrstu sýn	love at first sight	첫눈에 반하다
+í ástarsorg	heartbroken	상심
+gen	genes	유전자
+fjölskyldutré	family tree	가계도
+frænka	niece	조카딸
+frændi	nephew	조카
+mágur	brother-in-law	시아주버님
+mágkona	sister-in-law	형수님
+tengdamamma	mother-in-law	시어머니
+þríburar	triplets	세쌍둥이
+altari	altar	제단
+rifrildi	argument	논쟁
+ætt	dynasty	왕조
+guðfaðir	godfather	대부
+frændi	uncle	삼촌
+við höldumst í hendur	we hold hands	우리는 손을 잡아요
+við hættum saman	we break up	우리는 헤어져요
+more_body_parts			17
+augnlok	eyelid	눈꺼풀
+mjóbak	lower back	아랫 등
+mittismál	waistline	허리둘레
+fingurnögl	fingernail	손톱
+hnúi	knuckle	손가락 관절
+öxl	shoulder	어깨
+brjóst	breast	유방
+úlnliður	wrist	손목
+kinnar	cheeks	뺨
+adamsepli	adam's apple	목젖
+tánögl	toenail	발톱
+handarkriki	armpit	겨드랑이
+kviðvöðvar	abs	복근
+kjálki	jaw	턱
+nafli	belly button	배꼽
+ég sný	I turn	저는 돌아요
+ég hyl	I cover	저는 가려요
+more_baby			18
+barnastóll	high chair	높은 의자
+barnakerra	stroller	유모차
+barnavagn	pram	유모차
+barnabílstóll	carseat	카시트
+barnapúður	baby powder	베이비 파우더
+barnfóstra	babysitter	보모
+stútkanna	sippy cup	빨대 컵
+barnamatur	baby food	유아용 음식
+brjóstagjöf	breastfeed	젖을 먹이다
+ungbarnablanda	infant formula	분유
+naghringur	teething ring	치발기
+bleyjuútbrot	diaper rash	기저귀 발진
+barnaklósettseta	seat reducer	아기용 변좌
+barnaburðarpoki	baby carrier	아기띠
+bleyjupoki	diaper bag	기저귀 가방
+blautþurrkur	baby wipes	아기용 물티슈
+við kúrum	we cuddle	저희는 안아요
+ég les upphátt	I read aloud	저는 소리내어 읽어요
+daily_routines			15
+ég greiði hár mitt	I comb my hair	저는 머리를 빗어요
+ég stilli vekjarann	I set an alarm	저는 알람을 설정해요
+ég vakna	I wake up	저는 일어나요
+ég fer í rúmið	I go to bed	저는 잠자러 가요
+ég þvæ andlit mitt	I wash my face	저는 세수를 해요
+ég fer í vinnu	I go to work	저는 일하러 가요
+ég borða hádegismat	I have lunch	저는 점심을 먹어요
+ég fer heim	I return home	저는 집으로 돌아가요
+ég klára	I finish	저는 끝냈어요
+ég fer út með ruslið	I take out the trash	저는 쓰레기를 내다 버려요
+ég þurrka hár mitt	I dry my hair	저는 머리를 말려요
+ég vafra á netinu	I surf the net	저는 인터넷 서핑을 해요
+ég ferðast til og frá vinnu	I commute	저는 통근을 해요
+ég bý til kaffi	I make coffee	저는 커피를 만들어요
+ég raka mig	I shave	저는 면도를 해요
+aches_&_pains			18
+eyrnaverkur	earache	귓병
+magaverkur	stomachache	복통
+bakverkur	backache	요통
+marblettur	bruise	멍
+þokukennd sjón	blurry vision	흐릿한 시야
+stífur háls	stiff neck	뻣뻣한 목
+blaðra	blister	물집
+varaþurrkur	chapped lips	튼 입술
+sólbruni	sunburn	햇볕에 탐
+svimar	dizzy	어지러움
+óglatt	nauseous	메스꺼운
+skordýrabit	insect bite	벌레 물림
+verkur	pain	아픔
+beinbrot	bone fracture	골절
+vöðvabólga	muscle strain	근육 좌상
+krampi	cramp	경련
+ég annast	I care	저는 돌봐요
+það er sárt	it hurts	아프다
+illnesses			18
+ofnæmi	allergy	알레르기
+nefrennsli	runny nose	콧물
+astmi	asthma	천식
+hár blóðþrýstingur	high blood pressure	고혈압
+flensa	flu	독감
+sykursýki	diabetes	당뇨병
+landlæknir	general surgeon	외과 의사
+hjartasérfræðingur	cardiologist	심장병 전문의
+barnalæknir	pediatrician	소아과 의사
+húðsjúkdómafræðingur	dermatologist	피부과 의사
+svæfingarlæknir	anesthiesiologist	마취과 의사
+lýtalæknir	plastic surgeon	성형외과 의사
+hálstöflur	throat lozenges	인후염용 정제
+verkjalyf	pain killer	진통제
+vítamín	vitamins	비타민
+bóluefni	vaccine	백신
+fúkkalyf	antibiotics	항생제
+ég skelf	I shiver	저는 떨려요
+airport			16
+flugvöllur	airport	공항
+flugvél	airplane	비행기
+innritun	check-in	체크인
+flugmiði	flight ticket	비행기 표
+vigt	scale	저울
+áfangastaður	destination	목적지
+aukafarangur	excess baggage	초과 수화물
+koma	arrival	도착
+brottför	departure	출발
+flugfreyja	stewardess	승무원
+farþegi	passenger	승객
+ferðataska	suitcase	여행 가방
+vegabréfaeftirlit	passport control	여권 심사
+farangurskerra	luggage cart	수화물 카트
+endurheimt farangurs	baggage claim	수화물 찾는 곳
+ég ferðast	I travel	저는 여행해요
+transportation			17
+lest	train	기차
+rafknúinn strætisvagn	trolleybus	트롤리 버스
+vörubíll	truck	트럭
+sendiferðabíll	van	승합차
+sporvagn	tram	트램
+neðanjarðarlest	underground	지하
+vespa	moped	모터 스쿠터
+skip	ship	배
+mótorhjól	motorcycle	오토바이
+þyrla	helicopter	헬리콥터
+strætó	bus	버스
+bíll	car	차
+hjól	bike	자전거
+bátur	boat	보트
+umferðarteppa	traffic jam	교통체증
+ég hjóla	I ride a bicycle	저는 자전거를 타요
+ég set niður	I put down	저는 내려놓아요
+mobility			17
+barnavagn	baby carriage	유모차
+ferja	ferry	페리
+kláfur	cable car	케이블카
+bílskúr	garage	차고
+rúllustigi	escalator	에스컬레이터
+bílastæði	parking lot	주차장
+farþegasæti	passenger seat	조수석
+járnbraut	railroad	철도
+hlaupahjól	scooter	스쿠터
+öryggisbelti	seat belt	안전벨트
+neðanjarðarlest	subway	지하철
+leigubíll	taxi	택시
+miði	ticket	표
+umferðarmerki	traffic sign	교통 표지
+skott	trunk	트렁크
+hjól	wheel	바퀴
+hjólastóll	wheelchair	휠체어
+traveling			17
+bakpokaferðalangur	backpacker	백팩커
+háhraðalest	bullet train	고속열차
+skemmtiferðaskip	cruise	유람선 여행
+inngönguhlið	entry gate	출입문
+fjallgöngumaður	hiker	등산객
+puttaferðalangur	hitchhiking	히치하이킹
+ég pakka	I pack	저는 짐을 싸요
+ég renn til	I slip	저는 미끄러져요
+vegamót lestarteina	rail crossing	철길 건널목
+lestarmiði	rail ticket	기차표
+lestarvagn	railroad car	객차
+lestarteinar	tracks	철도
+miðasjálfsali	ticket machine	표 판매기
+leiðsögumaður	tour guide	여행 가이드
+ferðamaður	tourist	관광객
+ferðalag	travel	여행
+vagn	wagon	화물 기차
+car			17
+rafgeymir	car battery	자동차 배터리
+bílaleiga	car rental	렌터카
+bílaþvottur	car wash	세차
+ökuskírteini	driver's license	운전면허증
+bílvél	engine	엔진
+gaffallyftari	forklift	지게차
+bensíngjöf	gas pedal	가속페달
+bensíntankur	gas tank	가스탱크
+bílflauta	horn	경적
+ég keyri	I drive	저는 운전해요
+ég lagfæri	I repair	저는 고쳐요
+mótorolía	motor oil	모터 오일
+bulla	piston	피스톤
+kúpling	shifter	기어 박스
+dráttarbíll	tow truck	견인차
+dekkjaviðgerð	wheel repair	바퀴 수리
+rúðuþurrkur	windshield wipers	와이퍼
+railway			18
+tímatafla	time table	시간표
+lestarpallur	platform	플랫폼
+járnbrautarteinar	railroad tracks	기찻길
+lestarstjóri	train conductor	기차 안내원
+gufuvél	steam engine	증기 기관
+fragtlest	freight train	화물 열차
+veitingavagn	dining car	식당차
+járnbrautamót	junction	교차로
+togsnúra	pull cord	당김줄
+interrail	interrail	인터레일
+farangurshilla	luggage rack	짐 수납칸
+upplýsingatafla	information board	안내판
+dalbrú	viaduct	구름다리
+undirgöng	underground crossing	지하도
+laumufarþegi	stowaway	창고
+handfang	handhold	손잡이
+fer út af sporinu	it derails	탈선하다
+ég skipti	I change	저는 변경해요
+vehicles			18
+slökkviliðsbíll	firetruck	소방차
+pallbíll	pickup truck	소형 오픈 트럭
+lögreglubíll	police car	경찰차
+rafmagnsbíll	electric car	전기 자동차
+jepplingur	SUV	스포츠 실용차
+blæjubíll	convertible	컨버터블
+léttivagn	rickshaw	인력거꾼
+sendibíll	minivan	미니밴
+jarðýta	bulldozer	불도저
+bílaflutningabíll	auto transporter	자동차 수송차
+dráttarbíll	towtruck	견인차
+ruslabíll	dump truck	덤프 트럭
+sviffluga	glider	글라이더
+eldflaug	rocket	로켓
+einkaþota	business jet	비즈니스 제트기
+dróni	drone	드론
+ég fer hraðar	I accelerate	저는 가속해요
+ég hemla	I brake	저는 브레이크를 밟아요
+house			18
+baðherbergi	bathroom	화장실
+rúm	bed	침대
+svefnherbergi	bedroom	침실
+stóll	chair	의자
+borðstofa	dining room	응접실
+hurð	door	문
+hús	house	집
+eldhús	kitchen	부엌
+lampi	lamp	램프
+garður	garden	정원
+nágranni	neighbor	이웃
+skrifstofa	office	사무실
+ofn	oven	오븐
+ísskápur	refrigerator	냉장고
+borð	table	테이블
+ég ryksuga	I vacuum	저는 청소기를 돌려요
+ég strauja	I iron	저는 다림질을 해요
+ég vaska upp	I wash the dishes	저는 설거지를 해요
+kitchen			17
+ruslatunna	trash can	통
+skurðarbretti	cutting board	도마
+vatnskrani	faucet	수도꼭지
+steikarpanna	frying pan	프라이팬
+glas	glass	유리컵
+grill	grill	그릴
+kanna	jug	병
+ketill	kettle	주전자
+lok	lid	뚜껑
+flysjari	peeler	껍질 벗기는 칼
+diskur	plate	그릇
+pottur	pot	냄비
+niðursuðudós	tin	통
+vaskur	sink	싱크대
+eldavél	stove	가스레인지
+ég sker	I chop	저는 썰어요
+ég blanda saman	I mix	저는 섞어요
+tools			17
+öxi	axe	도끼
+bor	drill	드릴
+lím	glue	접착제
+hamar	hammer	망치
+stigi	ladder	사다리
+nagli	nail	못
+ró	nut	너트
+tangir	pliers	펜치
+hrífa	rake	갈퀴
+rakvélablað	razor	면도기
+sög	saw	톱
+skrúfa	screw	나사
+skrúfjárn	screwdriver	스크류 드라이버
+skófla	shovel	삽
+skófla	spade	삽
+límband	tape	테이프
+verkfærabox	toolbox	공구 상자
+shelters			17
+íbúð	apartment	아파트
+strandhús	beach house	해변 별장
+kot	cottage	작은집
+bóndabær	farmhouse	농가
+virki	fortress	요새
+húsbátur	houseboat	하우스 보트
+kofi	hut	오두막
+viti	lighthouse	등대
+bjálkakofi	log cabin	통나무집
+höfðingjasetur	mansion	대저택
+höll	palace	궁전
+tjald	tent	텐트
+hjólhýsi	trailer	트레일러
+tréhús	treehouse	나무 위의 집
+einbýlishús	villa	빌라
+vindmylla	windmill	풍차
+ég byggi	I build	저는 지어요
+containers			17
+bakpoki	backpack	배낭
+tunna	barrel	통
+kassi	box	박스
+skjalataska	briefcase	서류 가방
+fata	bucket	들통
+kista	chest	나무 상자
+skúffa	drawer	서랍
+flaska	flask	플라스크
+mappa	folder	폴더
+handtaska	handbag	핸드백
+krukka	jar	항아리
+skápur	locker	사물함
+plastpoki	plastic bag	비닐봉투
+handtaska	purse	지갑
+ferðataska	suitcase	여행 가방
+vasi	vase	꽃병
+mittistaska	fannypack	힙색
+furniture			17
+hægindastóll	armchair	안락 의자
+bókahilla	bookshelf	책장
+skápur	cabinet	캐비닛
+teppi	carpet	카페트
+uppþvottavél	dishwasher	식기세척기
+hurðarhúnn	door handle	문 손잡이
+hurðarlás	door lock	문 자물쇠
+ljósrofi	light switch	전등 스위치
+spegill	mirror	거울
+skrifstofustóll	office chair	사무실 의자
+koddi	pillow	베개
+ofn	radiator	라디에이터
+sófi	sofa	소파
+veggur	wall	벽
+fataskápur	wardrobe	옷장
+þvottavél	washing machine	세탁기
+gluggi	window	창문
+household_items			17
+rafmagnsketill	electric kettle	전기 주전자
+matvinnsluvél	food processor	식품 가공기
+hárblásari	hair dryer	헤어드라이어
+ég vel	I choose	저는 선택해요
+ég skúra	I mop	저는 닦아요
+töfrasproti	immersion blender	블렌더
+straujárn	iron	다리미
+straubretti	ironing board	다리미판
+sláttuvél	lawn mower	잔디 깎는 기계
+ljósapera	lightbulb	전구
+örbylgjuofn	microwave	전자레인지
+eldhúsháfur	exhaust hood	배기 후드
+nál	needle	바늘
+saumavél	sewing machine	재봉틀
+sléttujárn	hair iron	고데기
+þráður	thread	실
+ryksuga	vacuum cleaner	진공청소기
+toilet			17
+ilmsprey	air freshener	방향제
+skolskál	bidet	비데
+handþurrkari	hand dryer	손 건조기
+handklæði	hand towel	손수건
+ég prumpa	I fart	저는 방귀를 뀌어요
+ég pissa	I pee	저는 오줌을 싸요
+ég kúka	I poop	저는 똥을 싸요
+ólykt	odor	악취
+útikamar	outhouse	변소
+pípulögn	plumbing	배관
+drullusokkur	plunger	배관 청소 용구
+kúkur	poop	똥
+lykt	smell	냄새
+klósettbursti	toilet brush	변기 솔
+klósettpappír	toilet paper	화장지
+klósettseta	toilet seat	변기 시트
+þvagskál	urinal	소변기
+more_toilet			17
+salernisbás	bathroom stall	화장실 칸막이
+klósettrúlluhaldari	toilet paper holder	휴지 걸이
+klósettseta	toilet seat cover	변기 커버
+tyrkneskt salerni	squatting pan	수세식 변기
+niðurfall	drain	배수구
+handklæðahengi	towel rack	수건걸이
+salernisvörður	bathroom attendant	화장실 청소부
+yfirflæði	overflow	넘치다
+leki	leak	새다
+stíflað niðurfall	clogged drain	막힌 배수구
+upptekið	occupied	사용 중
+laust	vacant	비어 있음
+ég skil setuna eftir uppi	I leave the seat up	저는 변기 덮개를 올려요
+ég set setuna niður	I put the seat down	저는 변기 덮개를 내려요
+ég sit á hækjum mér	I squat	저는 쪼그려 앉아요
+ég sturta niður	I flush	저는 물을 내려요
+ég skrúbba	I scrub	저는 문질러요
+more_house			17
+háaloft	attic	다락
+gangur	hallway	복도
+geymsluskápur	storage closet	창고
+fyrir framan hús	front yard	앞마당
+innkeyrsla	driveway	진입로
+matarbúr	pantry	식료품 저장실
+sólpallur	patio	테라스
+svalir	balcony	발코니
+þak	roof	지붕
+reykháfur	chimney	굴뚝
+stofa	living room	거실
+dyrabjalla	doorbell	초인종
+stigi	stairwell	계단
+frárennsli	drainage	배수
+dyraþrep	doorstep	문간
+ég lofta út	I air out	저는 환기시켜요
+ég raða	I arrange	저는 정리해요
+more_kitchen			18
+mjólkurafurðir	dairy	유제품
+hádegismatur	lunch	점심 식사
+kvöldmatur	dinner	저녁 식사
+snarl	snack	간식
+teskeið	teaspoon	티스푼
+matskeið	tablespoon	테이블스푼
+mæliglas	measuring cup	계량컵
+frystir	freezer	냉동고
+ísbakki	ice tray	얼음 판
+nestisbox	lunchbox	도시락
+eggjabakki	egg tray	달걀판
+mortél og mortélstautur	mortar and pestle	절구와 절구 공이
+ísfata	ice bucket	얼음 양동이
+heimtökumatur	takeout	테이크아웃
+undirskál	saucer	받침
+molar	crumbs	부스러기
+kanna	pitcher	물 주전자
+korktappi	cork	코르크
+more_tools			18
+málband	tape measure	줄자
+skiptilykill	wrench	렌치
+topplykill	socket wrench	소켓 렌치
+víraklippur	wire cutters	철사 절단기
+þvinga	clamp	꺾쇠
+bor	drill bit	드릴 날
+hallamál	level	등급
+kúbein	crowbar	지렛대
+sexkantlykill	allen wrench	앨런 렌치
+borðsög	table saw	탁자 톱
+sandpappír	sandpaper	사포
+vinnuborð	work bench	작업대
+sporjárn	chisel	끌
+málningarbursti	paint brush	붓을 칠하다
+litaspjald	color palette	색 팔레트
+ég klára	I complete	저는 완성해요
+ég pússa	I sand	저는 갈아요
+ég byggi	I construct	저는 건설해요
+more_household_items			18
+dyrabjalla	doorbell	초인종
+kertastjaki	candle holder	촛대
+veggskreyting	wall decor	벽 장식
+vegghilla	wall shelf	벽 선반
+gardínustöng	curtain rod	커튼 봉
+djúpsteikingarpottur	fryer	튀김기
+pappírsþurrka	paper towel	종이 타월
+servíettustandur	napkin holder	냅킨 홀더
+þvottakarfa	laundry basket	세탁 바구니
+mýkingarefni	laundry detergent	세제
+fægiskófla	dustpan	쓰레받기
+glerskafa	squeegee	유리닦이
+rykbursti	duster	걸레
+ruslatunna	trashbin	쓰레기통
+gúmmíhanskar	rubber gloves	고무장갑
+tuska	rag	헝겊
+ég raða	I organize	저는 정리해요
+ég strýk af	I wipe	저는 닦아요
+gardening			17
+rætur	roots	뿌리
+ungplöntur	seedlings	묘목
+grind	trellis	격자 구조물
+garðslanga	garden hose	정원 호스
+vökvunarkanna	watering can	물뿌리개
+garðklippur	garden shears	원예용 가위
+úðari	sprinklers	스프링클러
+blómapottur	flower pots	화분
+hlújárn	hoe	괭이
+illgresiseyðir	weed killer	제초제
+einir	juniper	노간주나무
+jasmína	jasmine	자스민
+vínviður	vine	포도나무
+blómi	blossom	꽃
+vinnubuxur	dungarees	둥가리
+ég hlúi að	I treat	저는 대해요
+ég klippi til	I prune	저는 가지치기를 해요
+hotel			15
+hótel	hotel	호텔
+starfsmaður í ræstingu	housekeeper	하우스키퍼
+gistiaðstaða	accommodation	숙소
+lykilkort	key card	키 카드
+herbergisþjónusta	room service	룸 서비스
+öryggishólfið	the safe	금고
+sturta	shower	샤워
+herbergi	room	방
+loftkæling	air conditioner	에어컨
+bjöllustrákur	bellboy	벨보이
+gestur	guest	손님
+lykill	key	키
+lyfta	elevator	엘리베이터
+gestamóttaka	reception	리셉션
+starfsmaður í gestamóttöku	receptionist	리셉션 담당
+shopping			18
+hraðbanki	ATM machine	ATM 기계
+peningaseðill	banknote	지폐
+mynt	coin	동전
+afsláttarmiði	coupon	쿠폰
+kreditkort	credit card	신용카드
+gjaldmiðill	currency	화폐
+viðskiptavinur	customer	고객
+innkaupakarfa	shopping basket	장바구니
+gjaldkeri	cashier	캐셔
+veski	wallet	지갑
+dollari	dollar	달러
+evra	euro	유로
+afgreiðslumaður	shop assistant	가게 직원
+búð	shop	가게
+peningur	money	돈
+ég vinn	I win	저는 이겨요
+ég fer út	I exit	저는 나가요
+ég kaupi	I buy	저는 사요
+city			18
+banki	bank	은행
+krá	bar	바
+brú	bridge	다리
+strætóstoppistöð	bus stop	버스 정류장
+kastali	castle	성
+kirkjugarður	cemetery	묘지
+diskó	disco	디스코
+gangbraut	crosswalk	횡단보도
+gatnamót	crossroad	교차로
+þvottahús	laundry	세탁소
+almenningsgarður	park	공원
+umferðarljós	traffic light	신호등
+lestarstöð	train station	기차역
+gosbrunnur	fountain	분수
+dómkirkja	cathedral	성당
+ég hræki	I spit	저는 침을 뱉어요
+ég sker	I cut	저는 잘라요
+ég geng	I walk	저는 걸어요
+buildings			18
+kirkja	church	교회
+bensínstöð	gas station	주유소
+bókasafn	library	도서관
+verksmiðja	factory	공장
+safn	museum	박물관
+skýjakljúfur	skyscraper	고층 건물
+leikhús	theater	극장
+kaffihús	cafe	카페
+pósthús	post office	우체국
+sjúkrahús	hospital	병원
+apótek	pharmacy	약국
+lögreglustöð	police station	경찰서
+skemmtigarður	theme park	놀이공원
+skóli	school	학교
+kjötbúð	butcher shop	정육점
+ég fer	I leave	저는 떠나요
+ég toga	I pull	저는 당겨요
+ég ýti	I push	저는 밀어요
+navigation			17
+á bak við	behind	뒤에
+á milli	between	사이에
+miðja	center	가운데
+horn	corner	구석
+átt	direction	방향
+fjarlægð	distance	거리
+hérna	here	여기
+vinstri	left	왼쪽
+andstæða	opposite	반대쪽
+hægri	right	오른쪽
+vegur	road	도로
+beint áfram	straight ahead	직진
+gata	street	거리
+þarna	there	거기
+ég geng upp stigann	I climb the stairs	저는 계단을 올라가요
+ég sýni	I show	저는 보여줘요
+ég horfi	I watch	저는 봐요
+more_city			17
+bílslys	car accident	교통사고
+bekkur	bench	벤치
+reiðhjólastæði	bike rack	자전거 주차
+auglýsingaskilti	billboard	게시판
+tannlæknir	dentist	치과의사
+girðing	fence	울타리
+slökkvilið	fire station	소방서
+líkamsræktarstöð	gym	체육관
+farfuglaheimili	hostel	호스텔
+stöðumælir	parking meter	주차 요금 징수기
+fangelsi	prison	감옥
+stytta	statue	조각상
+upplýsingamiðstöð ferðamanna	tourist information	관광 안내
+ráðhús	town hall	시청
+háskóli	university	대학교
+dýragarður	zoo	동물원
+ég hrópa	I shout	저는 소리를 쳐요
+shops			16
+bakarí	bakery	빵집
+rakari	barber	이발사
+snyrtistofa	beauty salon	미용실
+reiðhjólabúð	bike shop	자전거 가게
+bókabúð	book shop	서점
+sælkerabúð	confectionery	제과점
+stórverslun	department store	백화점
+fiskbúð	fishmonger	생선장수
+blómabúð	florist	꽃장수
+matarmarkaður	greengrocery	채소 가게
+hárgreiðslustofa	hairdresser	미용사
+skartgripabúð	jewelry	보석류
+lyklasmiður	key smith	열쇠 제조자
+gleraugnaverslun	optician	안경사
+klæðskeri	tailor	재단사
+tóbaksverslun	tobacco shop	담배 가게
+post_office			17
+heimilisfang	address	주소
+flugpóstur	airmail	항공우편
+hjólasendill	bike messenger	바이크 메신저
+umslag	envelope	편지 봉투
+bréf	letter	편지
+póstbíll	mail truck	우편 배달차
+pósthólf	mailbox	우편함
+pakkaþjónusta	parcel service	택배
+póstkort	postcard	엽서
+bréfberi	postman	우체부
+forgangspóstur	priority mail	우선 취급 우편
+endursendur póstur	returned mail	반송 우편
+innsigli	seal	봉하다
+sendandi	sender	발송자
+undirskrift	signature	서명
+frímerki	stamp	우표
+þyngd	weight	무게
+hospital			17
+blóð	blood	피
+hækja	crutch	목발
+læknisskoðun	examination	진찰
+hjartsláttur	heartbeat	심장박동
+ég hósta	I cough	저는 기침을 해요
+ég bíð	I wait	저는 기다려요
+innrennsli	infusion	수액
+sjúkrakostnaður	medical bill	병원비
+sjúkraskrá	medical record	진료 기록
+sjúklingur	patient	환자
+innlögn	patient admission	환자 입원
+púls	pulse	맥박
+sprauta	syringe	주사기
+hlustunarpípa	stethoscope	청진기
+sjúkrabörur	stretcher	들것
+skurðlæknir	surgeon	외과 의사
+röntgenmyndataka	x-ray	엑스레이
+more_buildings			18
+vatnsturn	water tower	급수탑
+söluturn	kiosk	매점
+turn	tower	탑
+rústir	ruins	폐허
+mylla	mill	방앗간
+ráðstefnumiðstöð	convention center	컨벤션 센터
+brugghús	brewery	양조장
+baðhús	bathhouse	목욕탕
+mótel	motel	모텔
+pagóða	pagoda	탑
+umferðarmiðstöð	bus station	버스 승강장
+háskólalóð	campus	캠퍼스
+indjánatjald	tepee	티피
+hringleikahús	amphitheater	원형 극장
+ráðhús	city hall	시청
+víngerð	winery	포도주 양조장
+ég kem inn	I enter	저는 들어가요
+ég brýt niður	I demolish	저는 철거해요
+signs			17
+brattur vegur	steep road	가파른 길
+hættulegt efni	hazardous materials	유해 물질
+stöðvunarmerki	stop sign	정지 신호
+óviðkomandi bannaður aðgangur	no trespassing	입산 금지
+líffræðileg hætta	biohazard	생물학적 위험
+aðgangur bannaður	do not enter	진입 금지
+hált gólf	slippery floor	바닥 미끄러움
+vegavinna	roadwork	도로 공사
+gangbraut	pedestrian crossing	횡단 보도
+dýr á ferð	animal crossing	튀어나오는 동물 주의
+grjóthrun	falling rocks	낙석 주의
+biðskyldumerki	give way sign	양보 표시
+börn á ferð	children crossing	아이들 횡단 중
+hætta	danger	위험
+háspenna	high voltage	높은 전압
+u-beygja	u-turn	유턴
+ég vík	I give way	저는 양보해요
+supermarket			18
+innkaupakarfa	shopping cart	쇼핑 카트
+strikamerki	barcode	바코드
+afgreiðslukassi	cash register	금전 등록기
+bændamarkaður	farmer's market	농산물 시장
+frosin matvæli	frozen food	냉동식품
+færiband	conveyor belt	컨베이어 벨트
+strikamerkjalesari	barcode scanner	바코드 스캐너
+innkaupapoki	shopping bag	쇼핑백
+innkaupalisti	shopping list	쇼핑 리스트
+síðasti söludagur	expiration date	유통기한
+vildarkort	loyalty card	멤버십 카드
+sjálfsafgreiðsla	self-service	셀프서비스
+flóamarkaður	flea market	벼룩시장
+netverslun	online shopping	온라인 쇼핑
+útstillingargluggi	display window	진열장
+verðmiði	price tag	가격표
+ég birgi mig upp	I stock up	저는 비축해요
+ég útvega	I supply	저는 공급해요
+_com			16
+rafhlaða	battery	배터리
+myndavél	camera	카메라
+farsími	cellphone	휴대폰
+tölva	computer	컴퓨터
+skrá	file	파일
+heyrnartól	headphones	헤드폰
+lyklaborð	keyboard	키보드
+fartölva	laptop	노트북
+tölvumús	mouse	마우스
+net	network	네트워크
+lykilorð	password	암호
+rafmagnstengill	plug	플러그
+prentari	printer	프린터
+skjár	screen	화면
+USB minniskubbur	USB stick	유에스비
+ég les	I read	저는 읽어요
+jobs			16
+íþróttamaður	athlete	운동선수
+kokkur	cook	요리사
+blaðamaður	journalist	기자
+lögfræðingur	lawyer	변호사
+læknir	doctor	의사
+vélvirki	mechanic	정비사
+prestur	priest	신부
+vísindamaður	scientist	과학자
+ritari	secretary	비서
+kennari	teacher	선생님
+skrifstofustarfsmaður	office worker	회사원
+tónlistarmaður	musician	음악가
+forritari	programmer	프로그래머
+námsmaður	student	학생
+þjónn	waiter	웨이터
+ég hunsa	I ignore	저는 무시해요
+computers			17
+viðhengi	attachment	첨부
+kapall	cable	케이블
+hleðslutæki	charger	충전기
+fjarstýring	controller	조종 장치
+niðurhal	download	다운로드
+heyrnartól	earphones	이어폰
+tölvupóstur	email	이메일
+heyrnataltól	headset	헤드셋
+internet	internet	인터넷
+tónlistarspilari	music player	음악 플레이어
+skanni	scanner	스캐너
+snjallsími	smartphone	스마트폰
+innstunga	socket	콘센트
+spjaldtölva	tablet	태블릿
+upphal	upload	업로드
+vefsíða	website	웹사이트
+þráðlaust net	WIFI	와이파이
+more_jobs			17
+endurskoðandi	accountant	회계사
+arkitekt	architect	건축가
+járnsmiður	blacksmith	대장장이
+bifvélavirki	car mechanic	자동차 정비사
+smiður	carpenter	목수
+efnafræðingur	chemist	화학자
+slökkviliðsmaður	firefighter	소방관
+sjómaður	fisherman	어부
+garðyrkjumaður	gardener	정원사
+hjúkrunarfræðingur	nurse	간호사
+málari	painter	도장공
+pípulagningamaður	plumber	배관공
+lögregluþjónn	policeman	경찰관
+sálfræðingur	psychologist	심리학자
+leigubílstjóri	taxi driver	택시 운전사
+dýralæknir	vet	수의사
+rithöfundur	writer	작가
+workspace			16
+bréfaklemma	paperclip	클립
+skrifborð	desk	책상
+skjalaskápur	file cabinet	파일 캐비닛
+ljósritunarvél	photocopier	복사기
+fundaherbergi	conference room	회의실
+kaffitería	cafeteria	카페테리아
+heftilosari	staple remover	철침 제거기
+upphækkað skrifborð	standing desk	입식 책상
+rými	cubicle	칸막이
+ritvinnsla	word processor	문서 처리기
+skýjageymsla	cloud storage	클라우드 스토리지
+næturvakt	night shift	야간 근무
+ég ræð í vinnu	I employ	저는 고용해요
+ég bæti	I improve	저는 향상시켜요
+ég prenta	I print	저는 인쇄해요
+ég afrita	I copy	저는 복사해요
+business			17
+þjónustudeild	customer support	고객 지원
+starfsmenn	employees	종업원
+frumkvöðull	entrepreneur	사업가
+faxvél	fax machine	팩스
+ég rek	I fire	저는 해고해요
+stjórnandi	manager	경영자
+fundur	meeting	회의
+stofnun	organization	단체
+kynning	presentation	발표
+hagnaður	profit	이익
+stöðuhækkun	promotion	승진
+launahækkun	raise	인상
+laun	salary	월급
+heftari	stapler	스테이플러
+ritföng	stationery	문구류
+límbandsstatíf	tape dispenser	테이프 디스펜서
+vinnutími	work hours	근무시간
+agriculture			17
+hlaða	barn	헛간
+kornþreskivél	combine	콤바인
+bóndabýli	farm	농장
+bóndi	farmer	농부
+gróðurhús	greenhouse	온실
+ég uppsker	I harvest	저는 수확을 해요
+ég gróðurset	I plant	저는 심어요
+aldingarður	orchard	과수원
+beitiland	pasture	초원
+skordýraeitur	pesticides	농약
+haki	pick axe	곡괭이
+plógur	plow	쟁기
+akur	plow field	밭
+fuglahræða	scarecrow	허수아비
+heybaggi	straw bale	짚단
+dráttarvél	tractor	트랙터
+vatnstankur	water tank	물탱크
+etiquette			18
+handaband	handshake	악수
+persónulegt rými	personal space	개인 공간
+loftkoss	air kiss	손키스
+klæðaburður	dress code	복장 규정
+fimma	high five	하이파이브
+slá saman hnefum	fist bump	주먹 부딪히기
+hnébeyging	curtsy	예절
+hneiging	bowing	인사
+dömur fyrst	ladies first	숙녀 먼저
+augnsamband	eye contact	시선을 마주침
+blóta	cursing	욕
+truflun	interruption	끼어들기
+handbendingar	hand gesture	손짓
+ég hrósa	I compliment	저는 칭찬해요
+ég veifa	I wave	저는 흔들어요
+ég biðst afsökunar	I apologize	저는 사과해요
+ég held hurðinni	I hold the door	저는 문을 잡고 있어요
+ég lyfti hatti mínum	I tip my hat	저는 모자를 들어요
+more_computers			18
+kveikihnappur	power button	전원 버튼
+minniskortalesari	memory card reader	메모리 카드 판독기
+rafmagnssnúra	power cable	전력선
+töflureiknir	spreadsheet	스프레드시트
+millistykki	adaptor	어댑터
+vefmyndavél	webcam	웹캠
+usb kapall	USB cable	USB 케이블
+utanáliggjandi drif	external drive	외장 드라이브
+snertiborð	trackpad	트랙패드
+hátalari	speaker	스피커
+usb fjöltengi	USB hub	usb허브
+ferðahleðsla	power bank	보조 배터리
+fartölvutaska	laptop sleeve	노트북 케이스
+skjávörn	screen protector	화면 보호기
+myndfundur	video conference	화상 회의
+hún frýs	it crashes	고장 나다
+ég rita	I type	저는 타이핑해요
+ég fer yfir	I review	저는 리뷰해요
+clothes			16
+belti	belt	벨트
+stígvél	boots	부츠
+brjóstahaldari	bra	브라
+kápa	coat	코트
+kjóll	dress	드레스
+gleraugu	glasses	안경
+hanskar	gloves	장갑
+sokkar	socks	양말
+nærbuxur	underwear	속옷
+stuttbuxur	shorts	반바지
+trefill	scarf	목도리
+skyrta	shirt	셔츠
+skór	shoe	신발
+stuttermabolur	t-shirt	티셔츠
+buxur	trousers	바지
+ég klæði mig	I get dressed	저는 옷을 입어요
+more_clothes			16
+regnkápa	raincoat	우비
+sloppur	robe	가운
+nærbuxur	boxer shorts	사각 팬티
+stuttar nærbuxur	briefs	삼각 팬티
+náttföt	pyjamas	잠옷
+samfestingur	overalls	오버롤
+hversdagsföt	loungewear	평상복
+jakki	blazer	블레이저
+slá	poncho	판초
+peysa	jumper	점퍼
+peysa	pullover	스웨터
+treyja	cardigan	가디건
+ermi	sleeve	소매
+nefhringur	nose ring	코걸이
+ég brýt saman	I fold	저는 접어요
+ég hengi upp	I hang up	저는 걸어요
+cosmetics			17
+svitalyktareyðir	deodorant	데오도란트
+augndropar	eye drops	안약
+augnhár	eyelash	속눈썹
+handáburður	hand cream	핸드크림
+ég þríf	I clean	저는 청소해요
+varasalvi	lip balm	립밤
+varalitur	lipstick	립스틱
+förðunarbursti	makeup brush	메이크업 브러시
+naglaskæri	manicure scissors	매니큐어 가위
+maskari	mascara	마스카라
+naglaklippa	nail clipper	손톱깎이
+naglaþjöl	nail file	네일 에모리 보드
+naglalakk	nail polish	매니큐어
+ilmvatn	perfume	향수
+eyrnapinnar	cotton swab	면봉
+sjampó	shampoo	샴푸
+snyrtivörur	toiletry	세면용품
+fashion			17
+slaufa	bowtie	나비 넥타이
+herðatré	clothes hanger	옷걸이
+kragi	collar	칼라
+snyrtiborð	dressing table	화장대
+rafmagnsrakvél	electric razor	전기면도기
+augabrúnir	eyebrows	눈썹
+feitur	fat	지방
+háreyðing	waxing	제모
+hælaskór	high heels	하이힐
+gallabuxur	jeans	청바지
+lýtalækningar	plastic surgery	성형수술
+rakvélablað	razorblade	면도날
+rakbursti	shaving brush	면도솔
+raksturskrem	shaving cream	면도용 크림
+grannur	slim	날씬한
+strigaskór	sneaker	운동화
+vesti	vest	조끼
+headwear			17
+höfuðklútur	bandana	반다나
+húfa	beanie	비니
+golfhúfa	beret	베레모
+kúrekahattur	cowboy hat	카우보이 모자
+eyrnahlífar	earmuffs	귀마개
+sixpensari	flat hat	납작 모자
+derhúfa	fullcap	캡
+hárband	hair band	머리끈
+öryggishjálmur	hard hat	안전모
+ennisband	headband	머리띠
+hetta	hood	후드
+ég set	I put	저는 써요
+sundhetta	swimming cap	수영 모자
+sundgleraugu	swimming goggles	물안경
+pípuhattur	tophat	실크해트
+túrban	turban	터번
+skyggni	visor	챙
+jewelry			17
+armband	bracelet	팔찌
+kóróna	crown	왕관
+kristall	crystal	크리스탈
+skyrtuhnappar	cufflinks	커프링크스
+demantur	diamond	다이아몬드
+gimsteinn	gemstone	원석
+hárspenna	hair pin	머리핀
+ég gríp	I catch	저는 잡아요
+ég dett	I fall	저는 떨어져요
+ég leita að	I search	저는 찾아요
+medalía	medal	메달
+perla	pearl	진주
+götun	piercing	피어싱
+vasaúr	pocket watch	회중시계
+kóróna	tiara	티아라
+sandali	sandal	샌들
+kristalkúla	crystal ball	수정구슬
+makeup			18
+augnskuggi	eye shadow	아이섀도우
+augnblýantur	eye liner	아이라이너
+förðunartaska	makeup bag	화장품 가방
+gerviaugnhár	fake eyelashes	인조 속눈썹
+varasalvi	chapstick	챕스틱
+kinnalitur	blush	블러셔
+farðahreinsir	makeup remover	메이크업 리무버
+augnhárabrettari	eyelash curler	뷰러
+varagloss	lip gloss	립글로스
+flísatöng	tweezers	쪽집게
+púðurdós	compact mirror	소형 거울
+bómullarpinni	cotton swab	면봉
+naglabursti	nail brush	손톱솔
+naglalakkseyðir	nail polish remover	매니큐어 리무버
+hárspöng	hairband	머리띠
+handáburður	hand lotion	핸드크림
+ég farða mig	I apply makeup	저는 화장해요
+ég fjarlægi	I remove	저는 지워요
+beauty_salon			17
+krullujárn	curling iron	봉고데기
+naglasnyrtistofa	nail salon	네일아트 샵
+handsnyrting	manicure	매니큐어
+fótsnyrting	pedicure	패디큐어
+hárþurrka	blowdry	드라이기
+háreyðing	waxing	왁싱
+sléttijárn	straightening iron	고데기
+hársprey	hairspray	헤어스프레이
+hárlitun	hair dye	염색약
+hárgel	hair gel	헤어 젤
+hárrúllur	hair roller	헤어롤
+hárklippur	hair clipper	이발기
+hárþurrkustandur	stand dryer	스탠드 드라이어
+hárbursti	styling brush	스타일링 빗
+andlitsgríma	face mask	마스크팩
+ég snyrti	I trim	저는 다듬어요
+ég bursta	I brush	저는 빗어요
+more_clothes			16
+regnkápa	raincoat	우비
+sloppur	robe	가운
+nærbuxur	boxer shorts	사각 팬티
+stuttar nærbuxur	briefs	삼각 팬티
+náttföt	pyjamas	잠옷
+samfestingur	overalls	오버롤
+hversdagsföt	loungewear	평상복
+jakki	blazer	블레이저
+slá	poncho	판초
+peysa	jumper	점퍼
+peysa	pullover	스웨터
+treyja	cardigan	가디건
+ermi	sleeve	소매
+nefhringur	nose ring	코걸이
+ég brýt saman	I fold	저는 접어요
+ég hengi upp	I hang up	저는 걸어요
+luxury			18
+snekkja	yacht	요트
+eðalvagn	limousine	리무진
+vínþjónn	sommelier	소믈리에
+einkakokkur	personal chef	개인 요리사
+kampavín	champagne	샴페인
+ostra	oyster	굴
+einkabílstjóri	chauffeur	기사
+kavíar	caviar	캐비아
+klæðskerasaumuð föt	tailored clothes	맞춘 옷
+bryti	butler	집사
+persónulegur aðstoðarmaður	personal assistant	개인 비서
+ríkur	rich	부자
+einkaþota	private jet	개인 제트기
+lífvörður	bodyguard	보디가드
+uppboð	auction	경매
+fínn veitingastaður	fine dining	고급 식당
+ég erfi	I inherit	저는 물려받아요
+ég öðlast	I gain	저는 얻어요
+fun			17
+spil	cards	카드
+bíó	cinema	영화관
+tónleikar	concert	콘서트
+sýning	exhibition	전시회
+dagblað	newspaper	신문
+veisla	party	파티
+krá	pub	술집
+íþróttaleikur	match	경기
+spjall	chat	대화
+tölvuleikir	video games	비디오 게임
+veitingahús	restaurant	식당
+þynnka	hangover	숙취
+skoðunarferð	sightseeing	관광
+dans	dance	춤
+ég syng	I sing	저는 노래해요
+ég dansa	I dance	저는 춤을 춰요
+ég horfi á sjónvarpið	I watch tv	저는 TV를 봐요
+music			17
+klapp	applause	박수
+áhorfendur	audience	청중
+kór	choir	합창단
+hljómsveitarstjóri	conductor	지휘자
+plötusnúður	DJ	디제이
+trommur	drum	드럼
+gítar	guitar	기타
+hljóðnemi	microphone	마이크
+hljómplata	music album	음악 앨범
+píanó	piano	피아노
+rokkstjarna	rockstar	록스타
+söngvari	singer	가수
+lag	song	노래
+svið	stage	무대
+trompet	trumpet	트럼펫
+fiðla	violin	바이올린
+flauta	whistle	호루라기
+festivals			17
+bjalla	bell	종
+afmæli	birthday	생일
+kjötkveðjuhátíð	carnival	축제
+jól	Christmas	크리스마스
+jólatré	Christmas tree	크리스마스트리
+flugeldar	fireworks	불꽃놀이
+jarðarför	funeral	장례식
+gjöf	gift	선물
+hrekkjavaka	Halloween	할로윈
+hjónaband	marriage	결혼
+mæðradagur	mother's day	어머니 날
+gamlaárskvöld	New Year's Eve	섣달그믐
+jólasveinn	Santa Claus	산타클로스
+snjókarl	snowman	눈사람
+valentínusardagur	Valentine's day	발렌타인데이
+brúðkaup	wedding	결혼식
+ég fagna	I celebrate	저는 축하해요
+camping			17
+sjónauki	binoculars	망안경
+prímus	camp stove	캠프  스토브
+hjólhýsi	caravan	이동식 주택
+vegaskilti	direction post	팻말
+orkustykki	energy bar	에너지 바
+tjaldstóll	folding chair	접의자
+staðsetningarbúnaður	GPS	지피에스
+ennislampi	headlamp	헤드램프
+skordýraeitur	insect repellent	방충제
+kajakróður	kayaking	카약
+kveikjari	lighter	라이터
+sykurpúði	marshmallow	마시멜로
+að elda úti	outdoor cooking	야외 조리
+tjaldborð	picnic table	피크닉 탁자
+snjóþrúgur	snowshoes	스노우 슈즈
+gönguskór	trekking boot	등산화
+göngustafir	trekking poles	등산용 지팡이
+fishing_and_hunting			17
+horn	antlers	뿔
+beita	bait	미끼
+fiskbein	fishbone	가시
+fiskibátur	fishing boat	낚싯배
+dádýr	deer	사슴
+veiðistöng	fishing rod	낚싯대
+flotholt	fishing float	부유물
+krókur	hook	고리
+veiðimaður	hunter	사냥꾼
+hnútur	knot	매듭
+loppa	paw	발
+sardínur	sardines	정어리
+spjótveiðar	spear fishing	스피어 피싱
+refur	fox	여우
+skotmark	target	목표
+veiðiminjagripur	hunting trophy	사냥 트로피
+ég veiði	I hunt	나는 사냥을 한다
+magic_and_fantasy			17
+geimvera	alien	외계인
+kústur	broom	빗자루
+dreki	dragon	용
+dvergur	dwarf	난쟁이
+álfur	fairy	요정
+andi	genie	램프요정
+draugur	ghost	유령
+ég heyri	I hear	저는 들어요
+töfrasproti	magic wand	마법 지팡이
+töframaður	magician	마술사
+skrímsli	monster	괴물
+ljár	scythe	큰 낫
+fljúgandi furðuhlutur	UFO	유에프오
+vampíra	vampire	뱀파이어
+norn	witch	마녀
+galdrakarl	wizard	마법사
+uppvakningur	zombie	좀비
+spa			17
+kviður	abdomen	배
+náttsloppur	bathrobe	목욕 가운
+strandstóll	deck chair	갑판의자
+heitur pottur	hot tub	온수 욕조
+ég slaka á	I relax	저는 휴식해요
+nuddpottur	jacuzzi	자쿠지
+fljótandi sápa	liquid soap	액체 비누
+búningsklefi	locker room	라커룸
+nudd	massage	마사지
+gufubað	sauna	사우나
+gufubað	steam room	한증막
+sundlaug	swimming pool	수영장
+náttúrulaug	thermal bath	열탕
+heitt vatn	thermal water	온천수
+háls	throat	목구멍
+rennibraut	water slide	워터 슬라이드
+þyngdartap	weight loss	체중감량
+hobbies			18
+saumaskapur	sewing	바느질
+teikning	drawing	그림 그리기
+prjónaskapur	knitting	뜨개질
+trésmíði	woodworking	목공
+módelsmíði	model building	모형 만들기
+skartgripagerð	jewelry making	귀금속 제조
+fuglaskoðun	birdwatching	조류 관찰
+læra erlend tungumál	foreign language learning	외국어 학습
+bakstur	baking	제과제빵
+borðspil	board games	보드게임
+útsaumur	embroidery	자수
+leirkeragerð	pottery	도자기
+frímerkjasöfnun	collecting stamps	우표 수집
+sjálfboðavinna	volunteering	자원봉사
+fiskveiðar	fishing	낚시
+ég hlusta á tónlist	I listen to music	저는 음악을 들어요
+ég geri	I make	저는 만들어요
+ég hef gaman af	I enjoy	저는 즐겨요
+musical_instruments			18
+selló	cello	첼로
+orgel	organ	오르간
+harpa	harp	하프
+flauta	flute	플루트
+óbó	oboe	오보에
+básúna	trombone	트롬본
+klarínett	clarinet	클라리넷
+túba	tuba	튜바
+munnharpa	harmonica	하모니카
+bassi	bass	베이스
+trommukjuðar	drum sticks	드럼 스틱
+kassagítar	acoustic guitar	어쿠스틱 기타
+rafmagnsgítar	electric guitar	전자 기타
+saxófónn	saxophone	색소폰
+hljóðgervill	synthesizer	신시사이저
+trommur	drums	드럼
+ég plokka	I pluck	저는 뜯어요
+ég sem	I compose	저는 작곡해요
+toys			18
+tuskudýr	stuffed animal	봉제인형
+púsluspil	puzzle	퍼즐
+kubbar	building blocks	빌딩 블록
+baðdót	bath toy	목욕용 장난감
+vatnsbyssa	squirt gun	물총
+leikfangabíll	toy car	장난감 자동차
+skoppibolti	bouncy ball	탱탱볼
+sippuband	jump rope	줄넘기
+litabók	coloring book	컬러링북
+leir	playdough	찰흙
+krít	sidewalk chalk	보도 분필
+leikfangakassi	toy box	장난감 상자
+ofurhetja	action figure	액션 피규어
+brúða	doll	인형
+vaxlitir	crayons	크레파스
+leikfangalest	toy train	장난감 기차
+ég geng frá	I put away	저는 치워요
+ég ímynda mér	I imagine	저는 상상해요
+geography			17
+strönd	beach	바닷가
+hellir	cave	동굴
+skógur	forest	숲
+höfn	harbor	항구
+hæð	hill	언덕
+eyja	island	섬
+vatn	lake	호수
+landakort	map	지도
+fjall	mountain	산
+stígur	path	길
+á	river	강
+landslag	scenery	풍경
+fjara	shore	해안가
+dalur	valley	계곡
+skagi	peninsula	반도
+ég blæs	I blow	저는 불어요
+ég syndi	I swim	저는 수영해요
+school			17
+bók	book	책
+reiknivél	calculator	계산기
+kennslustofa	classroom	교실
+prófskírteini	diploma	졸업장
+strokleður	eraser	지우개
+próf	exam	시험
+útskrift	graduation	졸업
+blek	ink	잉크
+fyrirlestur	lecture	강의
+stílabók	notebook	노트
+bréfaklemma	paper clip	클립
+penni	pen	펜
+blýantur	pencil	연필
+reglustika	ruler	자
+nemendaskírteini	student id	학생증
+tússtafla	whiteboard	화이트보드
+ég læri	I study	저는 공부해요
+more_geography			17
+snjóflóð	avalanche	눈사태
+höfuðborg	capital city	수도
+klettur	cliff	절벽
+eyðimörk	desert	사막
+sandöldur	dunes	모래언덕
+flóð	flood	홍수
+hnattlíkan	globe	지구본
+tindur	peak	산봉우리
+grjót	rock	바위
+sjór	sea	바다
+skíðabrekka	ski slope	스키장
+skýstrokkur	tornado	토네이도
+göng	tunnel	터널
+eldfjall	volcano	화산
+foss	waterfall	폭포
+alda	wave	파도
+heimurinn	world	세계
+astronomy			17
+Afríka	Africa	아프리카
+Ameríka	America	아메리카
+Asía	Asia	아시아
+tungl	moon	달
+halastjarna	comet	혜성
+Jörðin	Earth	지구
+austur	east	동쪽
+Evrópa	Europe	유럽
+vetrarbraut	galaxy	은하계
+norður	north	북쪽
+pláneta	planet	행성
+suður	south	남쪽
+geimur	space	우주
+stjarna	star	별
+sjónauki	telescope	망원경
+tímabelti	time zone	표준 시간대
+vestur	west	서쪽
+biology			17
+atóm	atom	원자
+baktería	bacteria	박테리아
+fruma	cell	세포
+efnafræði	chemistry	화학
+meltingarkerfi	digestive system	소화기 계통
+dropateljari	dropper	점적기
+þróun	evolution	진화
+tilraun	experiment	실험
+líða yfir	faint	실신
+smásjá	microscope	현미경
+sameind	molecule	분자
+haka	chin	턱
+bólur	pimples	여드름
+tunga	tongue	혀
+nýra	kidney	신장
+ég kyngi	I swallow	저는 삼켜요
+ég kasta upp	I vomit	저는 토해요
+ecology			17
+hrein orka	clean energy	클린 에너지
+Molta	compost	퇴비
+Moltun	composting	비료화처리
+eyðing skóga	deforestation	삼림벌채
+þurrkur	drought	가뭄
+ruslabíll	garbage truck	쓰레기차
+hlýnun jarðar	global warming	지구온난화
+erfðabreytt lífvera	GMO	GMO
+ég endurvinn	I recycle	저는 재활용을 해요
+Landfylling	landfill	쓰레기 매립지
+kjarnorkuver	nuclear power plant	원자력 발전소
+olíuborpallur	oil platform	석유 굴착용 플랫폼
+olíuleki	oil spill	석유 유출
+orkuver	power plant	발전소
+endurnýjanleg orka	renewable energy	재생가능 에너지
+sólarrafhlaða	solar panels	태양열 전지판
+vindhverfill	wind turbine	풍력발전용 터빈
+mathematics			17
+samlagning	addition	더하기
+horn	angle	각도
+deiling	division	나누기
+jafnt og	equal	동일한
+jafna	equation	등식
+fall	function	함수
+óendanlegt	infinite	무한한
+margföldun	multiplication	곱셈
+svigi	parentheses	괄호
+prósenta	percentage	퍼센트
+kvaðratrót	root	근
+veldi	square	제곱
+frádráttur	subtraction	빼기
+sjöundi	seventh	일곱 번째
+áttundi	eighth	여덟 번째
+ég lækka	I decrease	저는 줄어요
+ég hækka	I increase	저는 늘려요
+sports			17
+hafnabolti	baseball	야구
+körfubolti	basketball	농구
+box	boxing	권투
+skák	chess	체스
+skylmingar	fencing	펜싱
+bandarískur fótbolti	football	미식축구
+hestamennska	horse racing	경마
+fjallahjólreiðar	mountain biking	산악 사이클링
+hjólreiðar á vegi	road cycling	도로 사이클링
+siglingar	sailing	항해
+fótbolti	soccer	축구
+brimbrettabrun	surfing	서핑
+sund	swimming	수영
+tennis	tennis	테니스
+jóga	yoga	요가
+ég sparka	I kick	저는 차요
+ég kasta	I throw	저는 던져요
+sports_equipment			17
+ör	arrow	화살
+bolti	ball	공
+bogi	bow	활
+mark	goal	골
+markmaður	goalkeeper	골키퍼
+hjálmur	helmet	헬멧
+skautar	ice skate	아이스 스케이트
+net	net	네트
+leikmaður	player	선수
+keppni	race	경주
+tennisspaði	racket	라켓
+dómari	referee	심판
+hjólabretti	skateboard	스케이트보드
+skíði	skis	스키
+snjóbretti	snowboard	스노보드
+íþróttavöllur	stadium	경기장
+sundföt	swimsuit	수영복
+more_sports			16
+badminton	badminton	배드민턴
+skíðaskotfimi	biathlon	바이애슬론
+klifur	climbing	등반
+golf	golf	골프
+fimleikar	gymnastics	체조
+handbolti	handball	핸드볼
+íshokkí	ice hockey	아이스하키
+listdans á skautum	ice skating	아이스 스케이트 타기
+vélhjólasport	motorcycling	오토바이 타기
+svifvængjaflug	paragliding	패러글라이딩 하기
+sportköfun	scuba diving	스쿠버다이빙 하기
+skíðaíþróttir	skiing	스키 타기
+snjóbretti	snowboarding	스노보드 타기
+borðtennis	table tennis	탁구
+blak	volleyball	배구
+vatnapóló	water polo	수구
+bicycle			17
+hjólabjalla	bike bell	자전거 벨
+hjólagaffall	bike fork	자전거 폭
+hjólalás	bike lock	자전거 자물쇠
+hjóladekk	bike wheel	자전거 바퀴
+hjólabremsa	bike brake	자전거 브레이크
+hjólakeðja	bike chain	자전거 체인
+hjólahanskar	bike gloves	자전거 장갑
+hjólastígur	bike lane	자전거 길
+bremsuhandfang	brake lever	브레이크 레버
+hjólasnælda	cassette	카세트
+keðja	chainring	체인링
+sveifarás	crank	크랭크
+stýri	handlebar	핸들
+reiðhjólahjálmur	bicycle helmet	자전거 헬멧
+pedali	pedal	페달
+hnakkur	saddle	안장
+það rennur	It rolls	구른다
+swimming			15
+froskalappir	fins	물갈퀴
+skriðsund	freestyle stroke	자유형
+bringusund	breaststroke	평영
+baksund	backstroke	배영
+flugsund	butterfly stroke	접영
+nefklemma	nose clip	코 집게
+sunddót	floaties	튜브
+uppblásinn fleki	inflatable raft	뗏목 튜브
+útisund	open water swimming	야외 물놀이
+björgunarbúnaður	life saver	구명 튜브
+stökkbretti	diving board	다이빙대
+ég skvetti	I splash	저는 물을 튀겨요
+ég flýt	I float	저는 떠요
+ég kafa	I dive	저는 다이빙 해요
+ég held í mér andanum	I hold my breath	저는 숨을 참아요
+skiing_&_ice_hockey			18
+skíðastafir	ski poles	스키 폴
+skíðaskór	ski boots	스키화
+skíðagleraugu	ski goggles	스키 고글
+skíðalyfta	chairlift	의자식 리프트
+skíðaskáli	ski lodge	스키장
+skíðapassi	ski pass	스키 패스
+gervisnjór	fake snow	가짜 눈
+pökkur	puck	퍽
+hokkíkylfa	hockey stick	하키 스틱
+ísskautar	ice skates	아이스 스케이트
+tannhlíf	teeth guard	마우스피스
+skautasvell	ice rink	아이스 링크
+íshokkígríma	mask cage	철장 케이지
+gríparahanski	catcher glove	포수용 글러브
+stigatafla	scoreboard	득점판
+áhorfendur	spectators	구경꾼
+ég renn	I glide	저는 미끄러져요
+ég skora	I score	저는 득점해요
+soccer_&_basketball			18
+íþróttatreyja	jersey	운동복 셔츠
+varamaður	substitute	교체 선수
+horn	corner	코너
+takkar	cleats	클리츠
+gult spjald	yellow card	옐로우 카드
+rautt spjald	red card	레드 카드
+brot	foul	파울
+skalli	header	헤더
+útspark	kick off	경기 시작
+troðsla	slam dunk	덩크 슛
+aukakast	free throw	자유투
+körfuboltakarfa	basketball net	농구 골대
+þriggja punkta lína	three-point line	3점 라인
+stökkskot	jump shot	점프슛
+innkast	throw in	스로인
+ég gef boltann	I pass the ball	저는 공을 패스해요
+ég dripla	I dribble	저는 드리블해요
+ég gæti marksins	I guard	저는 수비해요
+gym			17
+ketilbjalla	kettlebell	케틀벨
+handlóð	dumbbell	아령
+þrekhjól	stationary bike	고정된 자전거
+lóðastöng	barbell	바벨
+hlaupabretti	treadmill	런닝머신
+einkaþjálfari	personal trainer	개인 트레이너
+æfingabolti	exercise ball	운동용 공
+æfingateygjur	resistance band	탄력 밴드
+jógamotta	yoga mat	요가 매트
+róðrarvél	rowing machine	로잉 머신
+sandfylltur leðurbolti	medicine ball	메디신 볼
+æfingapoki	punching bag	샌드백
+upphífingastöng	pullup bar	철봉
+armbeygja	pushup	팔 굽혀 펴기
+vesti	bib	턱받이
+ég lyfti	I lift	저는 들어요
+ég slæ	I punch	저는 쳐요
+extreme_sports			18
+fallhlífarstökk	skydiving	스카이다이빙
+frjálst fallhlífarstökk	free diving	자유 다이빙
+teygjustökk	bungee jumping	번지점프
+flúðasigling	rafting	래프팅
+parkour	parkour	파쿠르
+línuskauta	rollerblading	롤러 블레이드 타기
+torfæruhjól	motocross	모토크로스
+svifdrekaflug	hang gliding	행글라이더 타기
+landstökk	base jumping	베이스 점핑
+búkbrettareið	bodyboarding	보디보딩
+sjóbrettareið	wakeboarding	웨이크보딩
+slaklínuganga	slacklining	줄타기
+hjólað á bmx	riding bmx	BMX 타기
+brekkuhjólreiðar	downhill riding	내리막길 주행
+flugdrekabrettareið	kitesurfing	카이트 서핑
+vatnaskíði	waterskiing	수상스키
+ég skemmi	I damage	저는 고장 내요
+ég tek áhættu	I take a risk	저는 위험을 무릅써요
+athletics			17
+hlaupakefli	relay baton	계주 배턴
+hástökk	high jump	높이뛰기
+langstökk	long jump	멀리 뛰기
+þrístökk	triple jump	삼중 점프
+stangarstökk	pole vaulting	장대 높이 뛰기
+kúluvarp	weight throwing	역도
+sleggjukast	hammer throw	망치 던지기
+spjótkast	javelin	창
+kringlukast	discus	원반 던지기
+starthola	starting block	출발대
+braut	lane	레인
+spretthlaup	sprints	단거리 달리기
+maraþon	marathon	마라톤
+hlaupaskór	running shoes	운동화
+hjartsláttur	heart rate	심박 수
+ég byrja	I start	저는 시작해요
+ég læt ganga	I pass	저는 통과해요
+leaders			17
+geimfari	astronaut	우주비행사
+skipstjóri	captain	선장
+þjálfari	coach	코치
+hershöfðingi	commander	사령관
+einræðisherra	dictator	독재자
+leikstjóri	director	감독
+konungur	king	왕
+riddari	knight	기사
+leigusali	landlord	주인
+stjórnmálamaður	politician	정치가
+páfi	pope	교황
+forseti	president	대통령
+prins	prince	왕자
+prinsessa	princess	공주
+drottning	queen	여왕
+uppreisnarmaður	rebel	반역자
+fógeti	sheriff	보안관
+crime			17
+brennuvargur	arsonist	방화범
+reiðhjólaþjófnaður	bike theft	자전거 절도
+mútur	bribe	뇌물
+eftirlitsmyndavélar	CCTV	씨씨티비
+kreditkortasvik	credit card fraud	신용카드 범죄
+glæpavettvangur	crime scene	범죄 현장
+rannsóknarlögreglumaður	detective	수사관
+tölvuhakkari	hacker	해커
+ég brýst inn	I break in	저는 침입해요
+ég stel	I steal	저는 훔쳐요
+rannsókn	investigation	수사
+morð	murder	살인
+piparúði	pepper spray	페퍼 스프레이
+ræningi	robber	강도
+sírena	siren	사이렌
+þjófnaður	theft	절도
+þjófur	thief	도둑
+politics			17
+atkvæðagreiðsla	ballot	무기명 투표
+götuvígi	barricade	바리케이드
+spilling	corruption	부패
+valdarán	coup	쿠데타
+kappræður	debate	토론
+mótmæli	demonstration	시위
+steypa af stóli	dethrone	폐위시키다
+sendiráð	embassy	대사관
+spámaður	fortune teller	점쟁이
+ríkisstjórn	government	정부
+ég snerti	I touch	저는 만져요
+ég kýs	I vote	저는 투표해요
+þing	parliament	국회
+krafa	petition	탄원서
+óeirðir	riot	폭동
+óeirðalögreglan	riot police	폭동 진압 경찰
+skattur	tax	세금
+religion			17
+engill	angel	천사
+búddatrú	buddhism	불교
+kristni	christianity	기독교
+djöfull	devil	악마
+guð	god	신
+himnaríki	heaven	천국
+hindúatrú	hinduism	힌두교
+ég bið	I pray	저는 기도해요
+íslam	islam	이슬람교
+gyðingdómur	judaism	유대교
+hugleiðsla	meditation	명상
+munkur	monk	스님
+moska	mosque	모스크
+nunna	nun	수녀
+spámaður	prophet	선지자
+dýrlingur	saint	성자
+taóismi	taoism	도교
+prison			17
+handtaka	arrest	체포하다
+lögreglukylfa	baton	경찰봉
+eftirför	chase	쫓다
+fingrafar	fingerprint	지문
+glæpamenn	gangsters	깡패
+handjárn	handcuffs	수갑
+peningaþvætti	money laundering	돈세탁
+dómari	judge	판사
+kviðdómur	jury	배심원단
+lög	law	법
+að brjótast úr fangelsi	prison break	탈옥
+fangaklefi	prison cell	유치장
+fangelsisvörður	prison guard	간수
+fangi	prisoner	죄수
+hinir grunuðu	suspects	용의자
+hryðjuverkamaður	terrorist	테러범
+eftirlýstur	wanted	수배 중인

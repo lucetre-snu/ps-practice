@@ -1,0 +1,18 @@
+athletics
+hlaupakefli	relay baton	계주 배턴
+hástökk	high jump	높이뛰기
+langstökk	long jump	멀리 뛰기
+þrístökk	triple jump	삼중 점프
+stangarstökk	pole vaulting	장대 높이 뛰기
+kúluvarp	weight throwing	역도
+sleggjukast	hammer throw	망치 던지기
+spjótkast	javelin	창
+kringlukast	discus	원반 던지기
+starthola	starting block	출발대
+braut	lane	레인
+spretthlaup	sprints	단거리 달리기
+maraþon	marathon	마라톤
+hlaupaskór	running shoes	운동화
+hjartsláttur	heart rate	심박 수
+ég byrja	I start	저는 시작해요
+ég læt ganga	I pass	저는 통과해요

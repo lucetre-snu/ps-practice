@@ -1,0 +1,18 @@
+signs
+brattur vegur	steep road	가파른 길
+hættulegt efni	hazardous materials	유해 물질
+stöðvunarmerki	stop sign	정지 신호
+óviðkomandi bannaður aðgangur	no trespassing	입산 금지
+líffræðileg hætta	biohazard	생물학적 위험
+aðgangur bannaður	do not enter	진입 금지
+hált gólf	slippery floor	바닥 미끄러움
+vegavinna	roadwork	도로 공사
+gangbraut	pedestrian crossing	횡단 보도
+dýr á ferð	animal crossing	튀어나오는 동물 주의
+grjóthrun	falling rocks	낙석 주의
+biðskyldumerki	give way sign	양보 표시
+börn á ferð	children crossing	아이들 횡단 중
+hætta	danger	위험
+háspenna	high voltage	높은 전압
+u-beygja	u-turn	유턴
+ég vík	I give way	저는 양보해요

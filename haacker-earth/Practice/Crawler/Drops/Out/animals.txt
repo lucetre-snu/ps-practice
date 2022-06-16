@@ -1,0 +1,18 @@
+animals
+fugl	bird	새
+naut	bull	황소
+köttur	cat	고양이
+kjúklingur	chicken	닭
+kýr	cow	소
+hundur	dog	개
+asni	donkey	당나귀
+önd	duck	오리
+geit	goat	염소
+hestur	horse	말
+mús	mouse	쥐
+svín	pig	돼지
+dúfa	pigeon	비둘기
+kanína	rabbit	토끼
+kind	sheep	양
+kalkúnn	turkey	칠면조
+ég fóðra	I feed	저는 먹이를 줘요

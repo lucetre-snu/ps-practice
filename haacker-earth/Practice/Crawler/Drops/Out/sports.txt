@@ -1,0 +1,18 @@
+sports
+hafnabolti	baseball	야구
+körfubolti	basketball	농구
+box	boxing	권투
+skák	chess	체스
+skylmingar	fencing	펜싱
+bandarískur fótbolti	football	미식축구
+hestamennska	horse racing	경마
+fjallahjólreiðar	mountain biking	산악 사이클링
+hjólreiðar á vegi	road cycling	도로 사이클링
+siglingar	sailing	항해
+fótbolti	soccer	축구
+brimbrettabrun	surfing	서핑
+sund	swimming	수영
+tennis	tennis	테니스
+jóga	yoga	요가
+ég sparka	I kick	저는 차요
+ég kasta	I throw	저는 던져요

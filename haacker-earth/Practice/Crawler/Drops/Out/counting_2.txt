@@ -1,0 +1,14 @@
+counting_2
+hundrað og fimmtíu	one hundred fifty	백오십
+tvö hundruð	two hundred	이백
+þrjú hundruð	three hundred	삼백
+fjögur hundruð	four hundred	사백
+fimm hundruð	five hundred	오백
+tvö þúsund	two thousand	이천
+þrjú þúsund	three thousand	삼천
+fjögur þúsund	four thousand	사천
+fimm þúsund	five thousand	오천
+tíu þúsund	ten thousand	만
+fimmtíu þúsund	fifty thousand	오만
+hundrað þúsund	one hundred thousand	십만
+milljón	one million	백만

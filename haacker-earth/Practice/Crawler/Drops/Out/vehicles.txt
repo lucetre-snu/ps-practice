@@ -1,0 +1,19 @@
+vehicles
+slökkviliðsbíll	firetruck	소방차
+pallbíll	pickup truck	소형 오픈 트럭
+lögreglubíll	police car	경찰차
+rafmagnsbíll	electric car	전기 자동차
+jepplingur	SUV	스포츠 실용차
+blæjubíll	convertible	컨버터블
+léttivagn	rickshaw	인력거꾼
+sendibíll	minivan	미니밴
+jarðýta	bulldozer	불도저
+bílaflutningabíll	auto transporter	자동차 수송차
+dráttarbíll	towtruck	견인차
+ruslabíll	dump truck	덤프 트럭
+sviffluga	glider	글라이더
+eldflaug	rocket	로켓
+einkaþota	business jet	비즈니스 제트기
+dróni	drone	드론
+ég fer hraðar	I accelerate	저는 가속해요
+ég hemla	I brake	저는 브레이크를 밟아요

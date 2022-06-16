@@ -1,0 +1,18 @@
+gardening
+rætur	roots	뿌리
+ungplöntur	seedlings	묘목
+grind	trellis	격자 구조물
+garðslanga	garden hose	정원 호스
+vökvunarkanna	watering can	물뿌리개
+garðklippur	garden shears	원예용 가위
+úðari	sprinklers	스프링클러
+blómapottur	flower pots	화분
+hlújárn	hoe	괭이
+illgresiseyðir	weed killer	제초제
+einir	juniper	노간주나무
+jasmína	jasmine	자스민
+vínviður	vine	포도나무
+blómi	blossom	꽃
+vinnubuxur	dungarees	둥가리
+ég hlúi að	I treat	저는 대해요
+ég klippi til	I prune	저는 가지치기를 해요

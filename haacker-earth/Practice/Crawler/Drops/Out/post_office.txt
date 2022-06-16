@@ -1,0 +1,18 @@
+post_office
+heimilisfang	address	주소
+flugpóstur	airmail	항공우편
+hjólasendill	bike messenger	바이크 메신저
+umslag	envelope	편지 봉투
+bréf	letter	편지
+póstbíll	mail truck	우편 배달차
+pósthólf	mailbox	우편함
+pakkaþjónusta	parcel service	택배
+póstkort	postcard	엽서
+bréfberi	postman	우체부
+forgangspóstur	priority mail	우선 취급 우편
+endursendur póstur	returned mail	반송 우편
+innsigli	seal	봉하다
+sendandi	sender	발송자
+undirskrift	signature	서명
+frímerki	stamp	우표
+þyngd	weight	무게

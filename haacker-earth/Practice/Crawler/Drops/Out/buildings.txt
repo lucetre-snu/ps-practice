@@ -1,0 +1,19 @@
+buildings
+kirkja	church	교회
+bensínstöð	gas station	주유소
+bókasafn	library	도서관
+verksmiðja	factory	공장
+safn	museum	박물관
+skýjakljúfur	skyscraper	고층 건물
+leikhús	theater	극장
+kaffihús	cafe	카페
+pósthús	post office	우체국
+sjúkrahús	hospital	병원
+apótek	pharmacy	약국
+lögreglustöð	police station	경찰서
+skemmtigarður	theme park	놀이공원
+skóli	school	학교
+kjötbúð	butcher shop	정육점
+ég fer	I leave	저는 떠나요
+ég toga	I pull	저는 당겨요
+ég ýti	I push	저는 밀어요

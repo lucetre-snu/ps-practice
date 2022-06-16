@@ -1,0 +1,18 @@
+body
+líkami	body	몸
+höfuð	head	머리
+hár	hair	머리카락
+andlit	face	얼굴
+eyru	ears	귀
+augu	eyes	눈
+nef	nose	코
+munnur	mouth	입
+tönn	tooth	이
+varir	lips	입술
+hönd	hand	손
+fingur	finger	손가락
+nögl	nail	손톱
+fótur	foot	발
+ég berst	I fight	저는 싸워요
+ég hoppa	I jump	저는 점프해요
+ég hleyp	I run	저는 달려요

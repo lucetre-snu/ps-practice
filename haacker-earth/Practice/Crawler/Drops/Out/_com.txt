@@ -1,0 +1,17 @@
+_com
+rafhlaða	battery	배터리
+myndavél	camera	카메라
+farsími	cellphone	휴대폰
+tölva	computer	컴퓨터
+skrá	file	파일
+heyrnartól	headphones	헤드폰
+lyklaborð	keyboard	키보드
+fartölva	laptop	노트북
+tölvumús	mouse	마우스
+net	network	네트워크
+lykilorð	password	암호
+rafmagnstengill	plug	플러그
+prentari	printer	프린터
+skjár	screen	화면
+USB minniskubbur	USB stick	유에스비
+ég les	I read	저는 읽어요

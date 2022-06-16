@@ -1,0 +1,19 @@
+more_computers
+kveikihnappur	power button	전원 버튼
+minniskortalesari	memory card reader	메모리 카드 판독기
+rafmagnssnúra	power cable	전력선
+töflureiknir	spreadsheet	스프레드시트
+millistykki	adaptor	어댑터
+vefmyndavél	webcam	웹캠
+usb kapall	USB cable	USB 케이블
+utanáliggjandi drif	external drive	외장 드라이브
+snertiborð	trackpad	트랙패드
+hátalari	speaker	스피커
+usb fjöltengi	USB hub	usb허브
+ferðahleðsla	power bank	보조 배터리
+fartölvutaska	laptop sleeve	노트북 케이스
+skjávörn	screen protector	화면 보호기
+myndfundur	video conference	화상 회의
+hún frýs	it crashes	고장 나다
+ég rita	I type	저는 타이핑해요
+ég fer yfir	I review	저는 리뷰해요

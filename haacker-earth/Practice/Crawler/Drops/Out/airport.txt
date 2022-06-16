@@ -1,0 +1,17 @@
+airport
+flugvöllur	airport	공항
+flugvél	airplane	비행기
+innritun	check-in	체크인
+flugmiði	flight ticket	비행기 표
+vigt	scale	저울
+áfangastaður	destination	목적지
+aukafarangur	excess baggage	초과 수화물
+koma	arrival	도착
+brottför	departure	출발
+flugfreyja	stewardess	승무원
+farþegi	passenger	승객
+ferðataska	suitcase	여행 가방
+vegabréfaeftirlit	passport control	여권 심사
+farangurskerra	luggage cart	수화물 카트
+endurheimt farangurs	baggage claim	수화물 찾는 곳
+ég ferðast	I travel	저는 여행해요

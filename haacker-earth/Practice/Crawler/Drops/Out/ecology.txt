@@ -1,0 +1,18 @@
+ecology
+hrein orka	clean energy	클린 에너지
+Molta	compost	퇴비
+Moltun	composting	비료화처리
+eyðing skóga	deforestation	삼림벌채
+þurrkur	drought	가뭄
+ruslabíll	garbage truck	쓰레기차
+hlýnun jarðar	global warming	지구온난화
+erfðabreytt lífvera	GMO	GMO
+ég endurvinn	I recycle	저는 재활용을 해요
+Landfylling	landfill	쓰레기 매립지
+kjarnorkuver	nuclear power plant	원자력 발전소
+olíuborpallur	oil platform	석유 굴착용 플랫폼
+olíuleki	oil spill	석유 유출
+orkuver	power plant	발전소
+endurnýjanleg orka	renewable energy	재생가능 에너지
+sólarrafhlaða	solar panels	태양열 전지판
+vindhverfill	wind turbine	풍력발전용 터빈

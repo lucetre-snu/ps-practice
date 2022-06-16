@@ -1,0 +1,18 @@
+camping
+sjónauki	binoculars	망안경
+prímus	camp stove	캠프  스토브
+hjólhýsi	caravan	이동식 주택
+vegaskilti	direction post	팻말
+orkustykki	energy bar	에너지 바
+tjaldstóll	folding chair	접의자
+staðsetningarbúnaður	GPS	지피에스
+ennislampi	headlamp	헤드램프
+skordýraeitur	insect repellent	방충제
+kajakróður	kayaking	카약
+kveikjari	lighter	라이터
+sykurpúði	marshmallow	마시멜로
+að elda úti	outdoor cooking	야외 조리
+tjaldborð	picnic table	피크닉 탁자
+snjóþrúgur	snowshoes	스노우 슈즈
+gönguskór	trekking boot	등산화
+göngustafir	trekking poles	등산용 지팡이

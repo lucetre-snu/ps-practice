@@ -1,0 +1,17 @@
+shapes
+bogi	arch	아치형 구조물
+hringur	circle	원
+keila	cone	원뿔
+teningur	cube	큐브
+sívalningur	cylinder	원기둥
+átthyrningur	octagon	팔각형
+sporaskja	oval	타원형
+fimmhyrningur	pentagon	오각형
+pýramídi	pyramid	피라미드
+rétthyrningur	rectangle	직사각형
+sexhyrningur	hexagon	육각형
+hringur	ring	링
+kúla	sphere	구
+ferningur	square	사각형
+þríhyrningur	triangle	삼각형
+fleygur	wedge	쐐기

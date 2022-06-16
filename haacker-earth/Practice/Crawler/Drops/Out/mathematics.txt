@@ -1,0 +1,18 @@
+mathematics
+samlagning	addition	더하기
+horn	angle	각도
+deiling	division	나누기
+jafnt og	equal	동일한
+jafna	equation	등식
+fall	function	함수
+óendanlegt	infinite	무한한
+margföldun	multiplication	곱셈
+svigi	parentheses	괄호
+prósenta	percentage	퍼센트
+kvaðratrót	root	근
+veldi	square	제곱
+frádráttur	subtraction	빼기
+sjöundi	seventh	일곱 번째
+áttundi	eighth	여덟 번째
+ég lækka	I decrease	저는 줄어요
+ég hækka	I increase	저는 늘려요

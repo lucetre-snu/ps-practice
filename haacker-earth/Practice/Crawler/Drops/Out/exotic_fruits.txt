@@ -1,0 +1,19 @@
+exotic_fruits
+ástaraldin	passion fruit	패션프루트
+granatepli	pomegranate	석류
+fíkja	fig	무화과
+mangó	mango	망고
+dáraaldin	durian	두리안
+papæjualdin	papaya	파파야
+trönuber	cranberry	크랜베리
+greipaldin	grapefruit	자몽
+rabarbari	rhubarb	루바브
+daðla	date	대추
+kantalúpmelóna	cantaloupe	멜론
+stikilsber	gooseberry	구스베리
+drekaávöxtur	dragon fruit	용과
+snákaávöxtur	snake fruit	비늘야자
+gullaldin	mangosteen	망고스틴
+límóna	lime	라임
+ég kreisti	I squeeze	저는 짜요
+ég pressa	I press	저는 눌러요

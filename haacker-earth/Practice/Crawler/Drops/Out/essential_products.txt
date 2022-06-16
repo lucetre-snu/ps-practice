@@ -1,0 +1,19 @@
+essential_products
+regnhlíf	umbrella	우산
+landakort	map	지도
+hleðslutæki	charger	충전기
+sólgleraugu	sunglasses	선글라스
+lestarmiði	rail ticket	기차표
+sólarvörn	sunscreen	선크림
+millistykki	adaptor	어댑터
+aspirín	aspirin	아스피린
+SIM kort	SIM card	심 카드
+kort í neðanjarðarlest	metro pass	지하철 패스권
+strætómiði	bus ticket	버스표
+Pepto Bismol	Pepto Bismol	까스활명수
+bensín	gasoline	가솔린
+minjagripur	souvenir	기념품
+aðgöngumiði	entrance ticket	입장 티켓
+snyrtivörur	toiletries	세면도구
+minniskort	memory card	메모리 카드
+flöskuvatn	bottled water	생수

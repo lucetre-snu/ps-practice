@@ -1,0 +1,19 @@
+supermarket
+innkaupakarfa	shopping cart	쇼핑 카트
+strikamerki	barcode	바코드
+afgreiðslukassi	cash register	금전 등록기
+bændamarkaður	farmer's market	농산물 시장
+frosin matvæli	frozen food	냉동식품
+færiband	conveyor belt	컨베이어 벨트
+strikamerkjalesari	barcode scanner	바코드 스캐너
+innkaupapoki	shopping bag	쇼핑백
+innkaupalisti	shopping list	쇼핑 리스트
+síðasti söludagur	expiration date	유통기한
+vildarkort	loyalty card	멤버십 카드
+sjálfsafgreiðsla	self-service	셀프서비스
+flóamarkaður	flea market	벼룩시장
+netverslun	online shopping	온라인 쇼핑
+útstillingargluggi	display window	진열장
+verðmiði	price tag	가격표
+ég birgi mig upp	I stock up	저는 비축해요
+ég útvega	I supply	저는 공급해요

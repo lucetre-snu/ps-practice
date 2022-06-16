@@ -1,0 +1,19 @@
+railway
+tímatafla	time table	시간표
+lestarpallur	platform	플랫폼
+járnbrautarteinar	railroad tracks	기찻길
+lestarstjóri	train conductor	기차 안내원
+gufuvél	steam engine	증기 기관
+fragtlest	freight train	화물 열차
+veitingavagn	dining car	식당차
+járnbrautamót	junction	교차로
+togsnúra	pull cord	당김줄
+interrail	interrail	인터레일
+farangurshilla	luggage rack	짐 수납칸
+upplýsingatafla	information board	안내판
+dalbrú	viaduct	구름다리
+undirgöng	underground crossing	지하도
+laumufarþegi	stowaway	창고
+handfang	handhold	손잡이
+fer út af sporinu	it derails	탈선하다
+ég skipti	I change	저는 변경해요

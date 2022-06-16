@@ -1,0 +1,18 @@
+furniture
+hægindastóll	armchair	안락 의자
+bókahilla	bookshelf	책장
+skápur	cabinet	캐비닛
+teppi	carpet	카페트
+uppþvottavél	dishwasher	식기세척기
+hurðarhúnn	door handle	문 손잡이
+hurðarlás	door lock	문 자물쇠
+ljósrofi	light switch	전등 스위치
+spegill	mirror	거울
+skrifstofustóll	office chair	사무실 의자
+koddi	pillow	베개
+ofn	radiator	라디에이터
+sófi	sofa	소파
+veggur	wall	벽
+fataskápur	wardrobe	옷장
+þvottavél	washing machine	세탁기
+gluggi	window	창문

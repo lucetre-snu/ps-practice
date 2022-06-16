@@ -1,0 +1,17 @@
+shops
+bakarí	bakery	빵집
+rakari	barber	이발사
+snyrtistofa	beauty salon	미용실
+reiðhjólabúð	bike shop	자전거 가게
+bókabúð	book shop	서점
+sælkerabúð	confectionery	제과점
+stórverslun	department store	백화점
+fiskbúð	fishmonger	생선장수
+blómabúð	florist	꽃장수
+matarmarkaður	greengrocery	채소 가게
+hárgreiðslustofa	hairdresser	미용사
+skartgripabúð	jewelry	보석류
+lyklasmiður	key smith	열쇠 제조자
+gleraugnaverslun	optician	안경사
+klæðskeri	tailor	재단사
+tóbaksverslun	tobacco shop	담배 가게

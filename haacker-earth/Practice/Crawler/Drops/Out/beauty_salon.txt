@@ -1,0 +1,18 @@
+beauty_salon
+krullujárn	curling iron	봉고데기
+naglasnyrtistofa	nail salon	네일아트 샵
+handsnyrting	manicure	매니큐어
+fótsnyrting	pedicure	패디큐어
+hárþurrka	blowdry	드라이기
+háreyðing	waxing	왁싱
+sléttijárn	straightening iron	고데기
+hársprey	hairspray	헤어스프레이
+hárlitun	hair dye	염색약
+hárgel	hair gel	헤어 젤
+hárrúllur	hair roller	헤어롤
+hárklippur	hair clipper	이발기
+hárþurrkustandur	stand dryer	스탠드 드라이어
+hárbursti	styling brush	스타일링 빗
+andlitsgríma	face mask	마스크팩
+ég snyrti	I trim	저는 다듬어요
+ég bursta	I brush	저는 빗어요

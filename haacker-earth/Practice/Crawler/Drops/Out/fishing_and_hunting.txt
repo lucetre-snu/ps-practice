@@ -1,0 +1,18 @@
+fishing_and_hunting
+horn	antlers	뿔
+beita	bait	미끼
+fiskbein	fishbone	가시
+fiskibátur	fishing boat	낚싯배
+dádýr	deer	사슴
+veiðistöng	fishing rod	낚싯대
+flotholt	fishing float	부유물
+krókur	hook	고리
+veiðimaður	hunter	사냥꾼
+hnútur	knot	매듭
+loppa	paw	발
+sardínur	sardines	정어리
+spjótveiðar	spear fishing	스피어 피싱
+refur	fox	여우
+skotmark	target	목표
+veiðiminjagripur	hunting trophy	사냥 트로피
+ég veiði	I hunt	나는 사냥을 한다

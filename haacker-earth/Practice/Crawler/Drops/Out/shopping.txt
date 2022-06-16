@@ -1,0 +1,19 @@
+shopping
+hraðbanki	ATM machine	ATM 기계
+peningaseðill	banknote	지폐
+mynt	coin	동전
+afsláttarmiði	coupon	쿠폰
+kreditkort	credit card	신용카드
+gjaldmiðill	currency	화폐
+viðskiptavinur	customer	고객
+innkaupakarfa	shopping basket	장바구니
+gjaldkeri	cashier	캐셔
+veski	wallet	지갑
+dollari	dollar	달러
+evra	euro	유로
+afgreiðslumaður	shop assistant	가게 직원
+búð	shop	가게
+peningur	money	돈
+ég vinn	I win	저는 이겨요
+ég fer út	I exit	저는 나가요
+ég kaupi	I buy	저는 사요

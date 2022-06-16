@@ -1,0 +1,18 @@
+music
+klapp	applause	박수
+áhorfendur	audience	청중
+kór	choir	합창단
+hljómsveitarstjóri	conductor	지휘자
+plötusnúður	DJ	디제이
+trommur	drum	드럼
+gítar	guitar	기타
+hljóðnemi	microphone	마이크
+hljómplata	music album	음악 앨범
+píanó	piano	피아노
+rokkstjarna	rockstar	록스타
+söngvari	singer	가수
+lag	song	노래
+svið	stage	무대
+trompet	trumpet	트럼펫
+fiðla	violin	바이올린
+flauta	whistle	호루라기

@@ -1,0 +1,19 @@
+makeup
+augnskuggi	eye shadow	아이섀도우
+augnblýantur	eye liner	아이라이너
+förðunartaska	makeup bag	화장품 가방
+gerviaugnhár	fake eyelashes	인조 속눈썹
+varasalvi	chapstick	챕스틱
+kinnalitur	blush	블러셔
+farðahreinsir	makeup remover	메이크업 리무버
+augnhárabrettari	eyelash curler	뷰러
+varagloss	lip gloss	립글로스
+flísatöng	tweezers	쪽집게
+púðurdós	compact mirror	소형 거울
+bómullarpinni	cotton swab	면봉
+naglabursti	nail brush	손톱솔
+naglalakkseyðir	nail polish remover	매니큐어 리무버
+hárspöng	hairband	머리띠
+handáburður	hand lotion	핸드크림
+ég farða mig	I apply makeup	저는 화장해요
+ég fjarlægi	I remove	저는 지워요

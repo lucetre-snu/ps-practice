@@ -1,0 +1,18 @@
+fashion
+slaufa	bowtie	나비 넥타이
+herðatré	clothes hanger	옷걸이
+kragi	collar	칼라
+snyrtiborð	dressing table	화장대
+rafmagnsrakvél	electric razor	전기면도기
+augabrúnir	eyebrows	눈썹
+feitur	fat	지방
+háreyðing	waxing	제모
+hælaskór	high heels	하이힐
+gallabuxur	jeans	청바지
+lýtalækningar	plastic surgery	성형수술
+rakvélablað	razorblade	면도날
+rakbursti	shaving brush	면도솔
+raksturskrem	shaving cream	면도용 크림
+grannur	slim	날씬한
+strigaskór	sneaker	운동화
+vesti	vest	조끼

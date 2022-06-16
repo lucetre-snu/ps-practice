@@ -1,0 +1,18 @@
+more_geography
+snjóflóð	avalanche	눈사태
+höfuðborg	capital city	수도
+klettur	cliff	절벽
+eyðimörk	desert	사막
+sandöldur	dunes	모래언덕
+flóð	flood	홍수
+hnattlíkan	globe	지구본
+tindur	peak	산봉우리
+grjót	rock	바위
+sjór	sea	바다
+skíðabrekka	ski slope	스키장
+skýstrokkur	tornado	토네이도
+göng	tunnel	터널
+eldfjall	volcano	화산
+foss	waterfall	폭포
+alda	wave	파도
+heimurinn	world	세계

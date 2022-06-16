@@ -1,0 +1,18 @@
+politics
+atkvæðagreiðsla	ballot	무기명 투표
+götuvígi	barricade	바리케이드
+spilling	corruption	부패
+valdarán	coup	쿠데타
+kappræður	debate	토론
+mótmæli	demonstration	시위
+steypa af stóli	dethrone	폐위시키다
+sendiráð	embassy	대사관
+spámaður	fortune teller	점쟁이
+ríkisstjórn	government	정부
+ég snerti	I touch	저는 만져요
+ég kýs	I vote	저는 투표해요
+þing	parliament	국회
+krafa	petition	탄원서
+óeirðir	riot	폭동
+óeirðalögreglan	riot police	폭동 진압 경찰
+skattur	tax	세금

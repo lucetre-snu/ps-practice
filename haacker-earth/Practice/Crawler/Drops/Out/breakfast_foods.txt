@@ -1,0 +1,17 @@
+breakfast_foods
+pönnukaka	pancake	팬케이크
+morgunkorn	cereal	곡류
+vaffla	waffle	와플
+eggjakaka	omelet	오믈렛
+hafrastöng	granola bar	그래놀라 바
+ristabrauð	toast	토스트
+hafragrautur	oatmeal	오트밀
+baka	quiche	키쉬
+brioche	brioche	브리오쉬
+kúskús	couscous	쿠스쿠스
+kínóa	quinoa	퀴노아
+kjúklingabaun	chickpea	병아리콩
+hafrar	oat	귀리
+linsubaun	lentil	렌틸콩
+ég klíni	I smear	저는 발라요
+ég pakka inn	I wrap	저는 싸요

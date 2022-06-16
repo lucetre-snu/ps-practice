@@ -1,0 +1,18 @@
+kitchen
+ruslatunna	trash can	통
+skurðarbretti	cutting board	도마
+vatnskrani	faucet	수도꼭지
+steikarpanna	frying pan	프라이팬
+glas	glass	유리컵
+grill	grill	그릴
+kanna	jug	병
+ketill	kettle	주전자
+lok	lid	뚜껑
+flysjari	peeler	껍질 벗기는 칼
+diskur	plate	그릇
+pottur	pot	냄비
+niðursuðudós	tin	통
+vaskur	sink	싱크대
+eldavél	stove	가스레인지
+ég sker	I chop	저는 썰어요
+ég blanda saman	I mix	저는 섞어요

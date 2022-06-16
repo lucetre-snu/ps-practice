@@ -1,0 +1,16 @@
+hotel
+hótel	hotel	호텔
+starfsmaður í ræstingu	housekeeper	하우스키퍼
+gistiaðstaða	accommodation	숙소
+lykilkort	key card	키 카드
+herbergisþjónusta	room service	룸 서비스
+öryggishólfið	the safe	금고
+sturta	shower	샤워
+herbergi	room	방
+loftkæling	air conditioner	에어컨
+bjöllustrákur	bellboy	벨보이
+gestur	guest	손님
+lykill	key	키
+lyfta	elevator	엘리베이터
+gestamóttaka	reception	리셉션
+starfsmaður í gestamóttöku	receptionist	리셉션 담당

@@ -1,0 +1,18 @@
+air
+loftbelgir	balloons	풍선
+loftpúði	airbag	에어백
+uppgufun	evaporation	증발
+útblástur	exhaust fume	배기가스
+vifta	fan	팬
+gasgríma	gas mask	방독면
+loftbelgur	hot air balloon	열기구
+ég anda	I breathe	저는 숨을 쉬어요
+ég kafna	I choke	저는 숨이 막혀요
+lungu	lungs	폐
+hreinlætispappír	tissue	종이 티슈
+fallhlíf	parachute	낙하산
+fallhlífarstökkvari	paraglider	패러글라이더
+dæla	pump	펌프
+gat	puncture	펑크
+mengunarský	smog	스모그
+loftskip	airship	비행선

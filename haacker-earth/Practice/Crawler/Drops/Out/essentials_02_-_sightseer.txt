@@ -1,0 +1,17 @@
+essentials_02_-_sightseer
+bless	bye	안녕히 가세요
+hraðbanki	ATM machine	ATM 기계
+kreditkort	credit card	신용카드
+sjúkrahús	hospital	병원
+vinsamlegast bíddu	Please wait!	기다려주세요
+herrar	gents	남자 화장실
+dömur	ladies	여자 화장실
+Hvar er matvöruverslunin?	Where is the supermarket?	슈퍼마켓이 어디에 있나요?
+ekkert mál	No problem!	문제없어요!
+þennan	That one!	그거요!
+inngangur	entrance	입구
+útgangur	exit	출구
+lögregla	police	경찰
+Hversu mörg?	How many?	얼마나?
+einn í viðbót	One more!	하나 더
+einum minna	One less!	하나 적게

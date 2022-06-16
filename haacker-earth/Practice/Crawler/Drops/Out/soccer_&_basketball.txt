@@ -1,0 +1,19 @@
+soccer_&_basketball
+íþróttatreyja	jersey	운동복 셔츠
+varamaður	substitute	교체 선수
+horn	corner	코너
+takkar	cleats	클리츠
+gult spjald	yellow card	옐로우 카드
+rautt spjald	red card	레드 카드
+brot	foul	파울
+skalli	header	헤더
+útspark	kick off	경기 시작
+troðsla	slam dunk	덩크 슛
+aukakast	free throw	자유투
+körfuboltakarfa	basketball net	농구 골대
+þriggja punkta lína	three-point line	3점 라인
+stökkskot	jump shot	점프슛
+innkast	throw in	스로인
+ég gef boltann	I pass the ball	저는 공을 패스해요
+ég dripla	I dribble	저는 드리블해요
+ég gæti marksins	I guard	저는 수비해요

@@ -1,0 +1,18 @@
+health
+sjúkrabíll	ambulance	구급차
+plástur	band-aid	밴드
+farði	makeup	메이크업
+hárbursti	hairbrush	빗
+svimi	dizzy	어지러움
+hósti	cough	기침
+hiti	fever	열
+hausverkur	headache	두통
+lyf	medicine	약
+klósett	toilet	화장실
+tannpína	toothache	치통
+tannbursti	toothbrush	칫솔
+tannkrem	toothpaste	치약
+handklæði	towel	수건
+sápa	soap	비누
+ég baða mig	I bathe	저는 목욕해요
+ég fer í sturtu	I take a shower	저는 샤워를 해요

@@ -1,0 +1,18 @@
+counting
+ellefu	eleven	십일
+tólf	twelve	십이
+áttatíu	eighty	팔십
+fimmtíu	fifty	오십
+níutíu	ninety	구십
+sjötíu	seventy	칠십
+sextíu	sixty	육십
+þrettán	thirteen	십삼
+fjórtán	fourteen	십사
+fimmtán	fifteen	십오
+sextán	sixteen	십육
+sautján	seventeen	십칠
+átján	eighteen	십팔
+nítján	nineteen	십구
+tuttugu og einn	twenty-one	이십일
+tuttugu og fimm	twenty five	이십오
+sjötíu og fimm	seventy five	칠십오

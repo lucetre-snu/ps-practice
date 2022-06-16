@@ -1,0 +1,18 @@
+vegetables
+lárpera	avocado	아보카도
+baun	bean	콩
+spergilkál	broccoli	브로콜리
+hvítkál	cabbage	양배추
+gulrót	carrot	당근
+blómkál	cauliflower	콜리플라워
+maís	corn	옥수수
+agúrka	cucumber	오이
+hvítlaukur	garlic	마늘
+kál	lettuce	상추
+laukur	onion	양파
+steinselja	parsley	파슬리
+kartafla	potato	감자
+grasker	pumpkin	호박
+radísa	radish	무
+hrísgrjón	rice	쌀
+tómatur	tomato	토마토

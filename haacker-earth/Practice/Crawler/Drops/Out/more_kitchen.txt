@@ -1,0 +1,19 @@
+more_kitchen
+mjólkurafurðir	dairy	유제품
+hádegismatur	lunch	점심 식사
+kvöldmatur	dinner	저녁 식사
+snarl	snack	간식
+teskeið	teaspoon	티스푼
+matskeið	tablespoon	테이블스푼
+mæliglas	measuring cup	계량컵
+frystir	freezer	냉동고
+ísbakki	ice tray	얼음 판
+nestisbox	lunchbox	도시락
+eggjabakki	egg tray	달걀판
+mortél og mortélstautur	mortar and pestle	절구와 절구 공이
+ísfata	ice bucket	얼음 양동이
+heimtökumatur	takeout	테이크아웃
+undirskál	saucer	받침
+molar	crumbs	부스러기
+kanna	pitcher	물 주전자
+korktappi	cork	코르크

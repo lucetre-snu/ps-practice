@@ -1,0 +1,18 @@
+emotions
+reiður	angry	화난
+leiðist	bored	지루한
+rólegur	calm	차분한
+óður	crazy	미친
+vonsvikin	disappointed	실망한
+mér býður við þessu	disgusted	역겨워하는
+spenntur	excited	흥분한
+hræddur	frightened	겁먹은
+geðvondur	grumpy	성격이 나쁜
+hamingjusamur	happy	행복한
+ástfangin	in love	사랑에 빠진
+kvíðinn	nervous	긴장한
+afslappaður	relaxed	느긋한
+úthvíldur	rested	피로가 풀린
+sorgmæddur	sad	슬픈
+undrandi	surprised	놀란
+þreyttur	tired	피곤한

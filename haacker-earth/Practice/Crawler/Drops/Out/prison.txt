@@ -1,0 +1,18 @@
+prison
+handtaka	arrest	체포하다
+lögreglukylfa	baton	경찰봉
+eftirför	chase	쫓다
+fingrafar	fingerprint	지문
+glæpamenn	gangsters	깡패
+handjárn	handcuffs	수갑
+peningaþvætti	money laundering	돈세탁
+dómari	judge	판사
+kviðdómur	jury	배심원단
+lög	law	법
+að brjótast úr fangelsi	prison break	탈옥
+fangaklefi	prison cell	유치장
+fangelsisvörður	prison guard	간수
+fangi	prisoner	죄수
+hinir grunuðu	suspects	용의자
+hryðjuverkamaður	terrorist	테러범
+eftirlýstur	wanted	수배 중인

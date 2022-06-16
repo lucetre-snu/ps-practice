@@ -1,0 +1,18 @@
+cosmetics
+svitalyktareyðir	deodorant	데오도란트
+augndropar	eye drops	안약
+augnhár	eyelash	속눈썹
+handáburður	hand cream	핸드크림
+ég þríf	I clean	저는 청소해요
+varasalvi	lip balm	립밤
+varalitur	lipstick	립스틱
+förðunarbursti	makeup brush	메이크업 브러시
+naglaskæri	manicure scissors	매니큐어 가위
+maskari	mascara	마스카라
+naglaklippa	nail clipper	손톱깎이
+naglaþjöl	nail file	네일 에모리 보드
+naglalakk	nail polish	매니큐어
+ilmvatn	perfume	향수
+eyrnapinnar	cotton swab	면봉
+sjampó	shampoo	샴푸
+snyrtivörur	toiletry	세면용품

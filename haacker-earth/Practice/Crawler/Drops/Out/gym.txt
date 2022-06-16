@@ -1,0 +1,18 @@
+gym
+ketilbjalla	kettlebell	케틀벨
+handlóð	dumbbell	아령
+þrekhjól	stationary bike	고정된 자전거
+lóðastöng	barbell	바벨
+hlaupabretti	treadmill	런닝머신
+einkaþjálfari	personal trainer	개인 트레이너
+æfingabolti	exercise ball	운동용 공
+æfingateygjur	resistance band	탄력 밴드
+jógamotta	yoga mat	요가 매트
+róðrarvél	rowing machine	로잉 머신
+sandfylltur leðurbolti	medicine ball	메디신 볼
+æfingapoki	punching bag	샌드백
+upphífingastöng	pullup bar	철봉
+armbeygja	pushup	팔 굽혀 펴기
+vesti	bib	턱받이
+ég lyfti	I lift	저는 들어요
+ég slæ	I punch	저는 쳐요

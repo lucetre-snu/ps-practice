@@ -1,0 +1,18 @@
+fun
+spil	cards	카드
+bíó	cinema	영화관
+tónleikar	concert	콘서트
+sýning	exhibition	전시회
+dagblað	newspaper	신문
+veisla	party	파티
+krá	pub	술집
+íþróttaleikur	match	경기
+spjall	chat	대화
+tölvuleikir	video games	비디오 게임
+veitingahús	restaurant	식당
+þynnka	hangover	숙취
+skoðunarferð	sightseeing	관광
+dans	dance	춤
+ég syng	I sing	저는 노래해요
+ég dansa	I dance	저는 춤을 춰요
+ég horfi á sjónvarpið	I watch tv	저는 TV를 봐요

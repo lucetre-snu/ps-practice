@@ -1,0 +1,18 @@
+navigation
+á bak við	behind	뒤에
+á milli	between	사이에
+miðja	center	가운데
+horn	corner	구석
+átt	direction	방향
+fjarlægð	distance	거리
+hérna	here	여기
+vinstri	left	왼쪽
+andstæða	opposite	반대쪽
+hægri	right	오른쪽
+vegur	road	도로
+beint áfram	straight ahead	직진
+gata	street	거리
+þarna	there	거기
+ég geng upp stigann	I climb the stairs	저는 계단을 올라가요
+ég sýni	I show	저는 보여줘요
+ég horfi	I watch	저는 봐요

@@ -1,0 +1,19 @@
+essentials_04_-_globetrotter
+tuttugu	twenty	이십
+hundrað	hundred	백
+vinstri	left	왼쪽
+hægri	right	오른쪽
+beint áfram	straight ahead	직진
+fjörutíu	forty	사십
+þrjátíu	thirty	삼십
+þúsund	thousand	천
+ég er frá	I'm from	저는 -에서 왔어요
+aðgangur bannaður	do not enter	진입 금지
+aðeins peningar	cash only	현금만 가능
+farðu burt	Go away!	저리 가!
+Ég er týndur	I'm lost.	저는 길을 잃었어요
+Ég er veikur	I'm sick.	저는 아파요
+stöðva hér	Stop here!	여기에 멈춰주세요
+Hvaðan ertu?	Where are you from?	어디에서 왔어요?
+Hvað heitir þú?	What's your name?	이름이 뭐예요?
+Ég heiti Alex.	My name is Alex.	저의 이름은 알렉스입니다

@@ -1,0 +1,18 @@
+wild_animals
+maur	ant	개미
+leðurblaka	bat	박쥐
+björn	bear	곰
+býfluga	bee	벌
+fiðrildi	butterfly	나비
+kameldýr	camel	낙타
+kakkalakki	cockroach	바퀴벌레
+fíll	elephant	코끼리
+froskur	frog	개구리
+api	monkey	원숭이
+rotta	rat	쥐
+hákarl	shark	상어
+snigill	snail	달팽이
+slanga	snake	뱀
+könguló	spider	거미
+skjaldbaka	turtle	거북이
+úlfur	wolf	늑대

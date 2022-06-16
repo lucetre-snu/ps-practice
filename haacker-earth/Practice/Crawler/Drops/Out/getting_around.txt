@@ -1,0 +1,19 @@
+getting_around
+Hvað er þetta kallað?	What's this called?	뭐라고 불러요?
+Hversu langt?	How far?	얼마나 멀리 있어요?
+Er það nálægt?	Is it near?	가까이 있어요?
+Hvað er langt á flugvöllinn?	How long to get to the airport?	공항까지 얼마나 걸려요?
+til vinstri	On the left.	왼쪽
+til hægri	On the right.	오른쪽
+hægðu á þér	Slow down!	천천히
+Fara klukkan hvað?	Leave at what time?	몇시에 출발할까요?
+í dag	today	오늘
+á morgun	tomorrow	내일
+í gær	yesterday	어제
+núna	now	지금
+seinna	later	나중에
+Hvað er klukkan?	What time is it?	지금 몇시예요?
+Hún er 3.	It's 3 o'clock.	3시예요
+Á flugvöllinn, takk!	To the airport please!	공항으로 가주세요
+Getur þú tekið mynd af mér?	Can you take my photo?	사진을 찍어주세요
+Má ég taka mynd af þér?	Can I take your photo?	사진을 찍어드릴까요?

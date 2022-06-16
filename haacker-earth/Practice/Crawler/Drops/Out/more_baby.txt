@@ -1,0 +1,19 @@
+more_baby
+barnastóll	high chair	높은 의자
+barnakerra	stroller	유모차
+barnavagn	pram	유모차
+barnabílstóll	carseat	카시트
+barnapúður	baby powder	베이비 파우더
+barnfóstra	babysitter	보모
+stútkanna	sippy cup	빨대 컵
+barnamatur	baby food	유아용 음식
+brjóstagjöf	breastfeed	젖을 먹이다
+ungbarnablanda	infant formula	분유
+naghringur	teething ring	치발기
+bleyjuútbrot	diaper rash	기저귀 발진
+barnaklósettseta	seat reducer	아기용 변좌
+barnaburðarpoki	baby carrier	아기띠
+bleyjupoki	diaper bag	기저귀 가방
+blautþurrkur	baby wipes	아기용 물티슈
+við kúrum	we cuddle	저희는 안아요
+ég les upphátt	I read aloud	저는 소리내어 읽어요

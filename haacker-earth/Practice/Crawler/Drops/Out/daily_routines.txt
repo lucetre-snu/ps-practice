@@ -1,0 +1,16 @@
+daily_routines
+ég greiði hár mitt	I comb my hair	저는 머리를 빗어요
+ég stilli vekjarann	I set an alarm	저는 알람을 설정해요
+ég vakna	I wake up	저는 일어나요
+ég fer í rúmið	I go to bed	저는 잠자러 가요
+ég þvæ andlit mitt	I wash my face	저는 세수를 해요
+ég fer í vinnu	I go to work	저는 일하러 가요
+ég borða hádegismat	I have lunch	저는 점심을 먹어요
+ég fer heim	I return home	저는 집으로 돌아가요
+ég klára	I finish	저는 끝냈어요
+ég fer út með ruslið	I take out the trash	저는 쓰레기를 내다 버려요
+ég þurrka hár mitt	I dry my hair	저는 머리를 말려요
+ég vafra á netinu	I surf the net	저는 인터넷 서핑을 해요
+ég ferðast til og frá vinnu	I commute	저는 통근을 해요
+ég bý til kaffi	I make coffee	저는 커피를 만들어요
+ég raka mig	I shave	저는 면도를 해요

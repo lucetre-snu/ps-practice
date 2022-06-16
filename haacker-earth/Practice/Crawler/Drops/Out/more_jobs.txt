@@ -1,0 +1,18 @@
+more_jobs
+endurskoðandi	accountant	회계사
+arkitekt	architect	건축가
+járnsmiður	blacksmith	대장장이
+bifvélavirki	car mechanic	자동차 정비사
+smiður	carpenter	목수
+efnafræðingur	chemist	화학자
+slökkviliðsmaður	firefighter	소방관
+sjómaður	fisherman	어부
+garðyrkjumaður	gardener	정원사
+hjúkrunarfræðingur	nurse	간호사
+málari	painter	도장공
+pípulagningamaður	plumber	배관공
+lögregluþjónn	policeman	경찰관
+sálfræðingur	psychologist	심리학자
+leigubílstjóri	taxi driver	택시 운전사
+dýralæknir	vet	수의사
+rithöfundur	writer	작가

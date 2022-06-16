@@ -1,0 +1,18 @@
+computers
+viðhengi	attachment	첨부
+kapall	cable	케이블
+hleðslutæki	charger	충전기
+fjarstýring	controller	조종 장치
+niðurhal	download	다운로드
+heyrnartól	earphones	이어폰
+tölvupóstur	email	이메일
+heyrnataltól	headset	헤드셋
+internet	internet	인터넷
+tónlistarspilari	music player	음악 플레이어
+skanni	scanner	스캐너
+snjallsími	smartphone	스마트폰
+innstunga	socket	콘센트
+spjaldtölva	tablet	태블릿
+upphal	upload	업로드
+vefsíða	website	웹사이트
+þráðlaust net	WIFI	와이파이

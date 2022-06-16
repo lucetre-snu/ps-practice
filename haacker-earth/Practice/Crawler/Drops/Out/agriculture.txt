@@ -1,0 +1,18 @@
+agriculture
+hlaða	barn	헛간
+kornþreskivél	combine	콤바인
+bóndabýli	farm	농장
+bóndi	farmer	농부
+gróðurhús	greenhouse	온실
+ég uppsker	I harvest	저는 수확을 해요
+ég gróðurset	I plant	저는 심어요
+aldingarður	orchard	과수원
+beitiland	pasture	초원
+skordýraeitur	pesticides	농약
+haki	pick axe	곡괭이
+plógur	plow	쟁기
+akur	plow field	밭
+fuglahræða	scarecrow	허수아비
+heybaggi	straw bale	짚단
+dráttarvél	tractor	트랙터
+vatnstankur	water tank	물탱크

@@ -1,0 +1,18 @@
+oral_care
+svæfingarlyf	anesthetic	마취제
+spangir	braces	치아 교정기
+hola í tönn	cavity	충치
+gervitennur	denture	틀니
+rafmagnstannbursti	electric toothbrush	전동칫솔
+tannþráður	floss	치실
+tannþræðing	flossing	치실하다
+gómur	gum	잇몸
+munnskol	mouthwash	가글액
+rótfylling	root canal treatment	뿌리 신경 치료
+tannbrú	teeth bridge	부분 의치
+tannhvíttun	teeth whitening	치아미백제
+ég fylli	I fill	저는 채워요
+króna	tooth crown	치관
+tannborun	tooth drilling	치아를 깎다
+tannúrtaka	tooth extraction	발치
+tannfylling	tooth implant	임플란트

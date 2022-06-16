@@ -1,0 +1,18 @@
+astronomy
+Afríka	Africa	아프리카
+Ameríka	America	아메리카
+Asía	Asia	아시아
+tungl	moon	달
+halastjarna	comet	혜성
+Jörðin	Earth	지구
+austur	east	동쪽
+Evrópa	Europe	유럽
+vetrarbraut	galaxy	은하계
+norður	north	북쪽
+pláneta	planet	행성
+suður	south	남쪽
+geimur	space	우주
+stjarna	star	별
+sjónauki	telescope	망원경
+tímabelti	time zone	표준 시간대
+vestur	west	서쪽

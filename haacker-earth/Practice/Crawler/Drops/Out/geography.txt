@@ -1,0 +1,18 @@
+geography
+strönd	beach	바닷가
+hellir	cave	동굴
+skógur	forest	숲
+höfn	harbor	항구
+hæð	hill	언덕
+eyja	island	섬
+vatn	lake	호수
+landakort	map	지도
+fjall	mountain	산
+stígur	path	길
+á	river	강
+landslag	scenery	풍경
+fjara	shore	해안가
+dalur	valley	계곡
+skagi	peninsula	반도
+ég blæs	I blow	저는 불어요
+ég syndi	I swim	저는 수영해요

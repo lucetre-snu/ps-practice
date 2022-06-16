@@ -1,0 +1,19 @@
+staying_safe
+flugvöllur	airport	공항
+hótel	hotel	호텔
+banki	bank	은행
+lestarstöð	train station	기차역
+pósthús	post office	우체국
+læknir	doctor	의사
+umferðarmiðstöð	bus station	버스 승강장
+stigi	stairs	계단
+Burtu	Keep off!	주의
+ekki snerta	Don't touch!	만지지 마세요
+farðu varlega	Be careful!	조심하세요
+gættu þín	Watch out!	조심하세요
+Ég týndi veskinu mínu.	I lost my wallet.	지갑을 잃어버렸어요
+Má ég nota farsímann þinn?	Can I use your mobile?	핸드폰을 빌릴 수 있나요?
+neyðarútgangur	emergency exit	비상구
+sími	telephone	전화
+neðanjarðarlestarstöð	metro station	지하철역
+markaður	market	시장

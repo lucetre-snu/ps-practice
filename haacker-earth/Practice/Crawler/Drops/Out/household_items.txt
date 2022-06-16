@@ -1,0 +1,18 @@
+household_items
+rafmagnsketill	electric kettle	전기 주전자
+matvinnsluvél	food processor	식품 가공기
+hárblásari	hair dryer	헤어드라이어
+ég vel	I choose	저는 선택해요
+ég skúra	I mop	저는 닦아요
+töfrasproti	immersion blender	블렌더
+straujárn	iron	다리미
+straubretti	ironing board	다리미판
+sláttuvél	lawn mower	잔디 깎는 기계
+ljósapera	lightbulb	전구
+örbylgjuofn	microwave	전자레인지
+eldhúsháfur	exhaust hood	배기 후드
+nál	needle	바늘
+saumavél	sewing machine	재봉틀
+sléttujárn	hair iron	고데기
+þráður	thread	실
+ryksuga	vacuum cleaner	진공청소기

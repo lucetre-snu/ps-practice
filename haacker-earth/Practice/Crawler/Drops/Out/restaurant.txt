@@ -1,0 +1,18 @@
+restaurant
+öskubakki	ashtray	재떨이
+reikningur	bill	계산서
+flaska	bottle	병
+kokkur	chef	요리사
+meðlæti	condiments	양념
+eftirréttur	dessert	디저트
+skyndibiti	fast food	패스트푸드
+matarbíll	food truck	포장마차
+matseðill	menu	메뉴판
+servíetta	napkin	냅킨
+götumatur	street food	길거리 음식
+borðdúkur	tablecloth	식탁보
+þjórfé	tip	팁
+tannstöngull	toothpick	이쑤시개
+bakki	tray	쟁반
+gengilbeina	waitress	웨이트리스
+ég borga	I pay	저는 지불해요

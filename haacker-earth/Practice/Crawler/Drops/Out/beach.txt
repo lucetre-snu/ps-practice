@@ -1,0 +1,18 @@
+beach
+strandbolti	beach ball	비치볼
+strandhandklæði	beach towel	해변용 수건
+strandblak	beach volleyball	비치 발리볼
+kælir	cooler	아이스박스
+frisbídiskur	frisbee	프리스비
+það rennur	it slides	미끄러지다
+björgunarvesti	life jacket	구명조끼
+lífvörður	lifeguard	안전요원
+sólhlíf	parasol	양산
+sandkassi	sandbox	모래 놀이 통
+rennibraut	slide	미끄럼틀
+snorkla	snorkel	스노클
+sólbekkur	sun chair	비치 의자
+sólbað	sunbathing	일광욕
+sólarvörn	sunscreen	선크림
+brimbretti	surfboard	서핑보드
+róla	swing	그네

@@ -1,0 +1,19 @@
+more_household_items
+dyrabjalla	doorbell	초인종
+kertastjaki	candle holder	촛대
+veggskreyting	wall decor	벽 장식
+vegghilla	wall shelf	벽 선반
+gardínustöng	curtain rod	커튼 봉
+djúpsteikingarpottur	fryer	튀김기
+pappírsþurrka	paper towel	종이 타월
+servíettustandur	napkin holder	냅킨 홀더
+þvottakarfa	laundry basket	세탁 바구니
+mýkingarefni	laundry detergent	세제
+fægiskófla	dustpan	쓰레받기
+glerskafa	squeegee	유리닦이
+rykbursti	duster	걸레
+ruslatunna	trashbin	쓰레기통
+gúmmíhanskar	rubber gloves	고무장갑
+tuska	rag	헝겊
+ég raða	I organize	저는 정리해요
+ég strýk af	I wipe	저는 닦아요

@@ -1,0 +1,18 @@
+more_house
+háaloft	attic	다락
+gangur	hallway	복도
+geymsluskápur	storage closet	창고
+fyrir framan hús	front yard	앞마당
+innkeyrsla	driveway	진입로
+matarbúr	pantry	식료품 저장실
+sólpallur	patio	테라스
+svalir	balcony	발코니
+þak	roof	지붕
+reykháfur	chimney	굴뚝
+stofa	living room	거실
+dyrabjalla	doorbell	초인종
+stigi	stairwell	계단
+frárennsli	drainage	배수
+dyraþrep	doorstep	문간
+ég lofta út	I air out	저는 환기시켜요
+ég raða	I arrange	저는 정리해요

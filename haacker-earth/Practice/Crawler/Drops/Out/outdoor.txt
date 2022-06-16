@@ -1,0 +1,18 @@
+outdoor
+tjaldbúðir	camp	캠프
+flugnanet	mosquito net	모기장
+vasaljós	flashlight	손전등
+kerti	candle	양초
+dósamatur	canned food	통조림
+áttaviti	compass	나침반
+reipi	rope	밧줄
+svefnpoki	sleeping bag	침낭
+varðeldur	campfire	캠프 파이어
+skæri	scissors	가위
+dósaopnari	can opener	통조림 따개
+vasahnífur	pocket knife	포켓 나이프
+ljós	light	빛
+eldspýtur	matches	성냥
+vatnsflaska	water bottle	물병
+ég skýt	I shoot	저는 쏘아요
+ég klifra	I climb	저는 올라가요

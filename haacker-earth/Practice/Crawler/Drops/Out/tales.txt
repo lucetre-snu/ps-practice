@@ -1,0 +1,19 @@
+tales
+hirðfífl	jester	어릿광대
+tröll	troll	트롤
+risi	giant	거인
+varúlfur	werewolf	늑대인간
+hetja	hero	영웅
+skúrkur	villain	악당
+bölvun	curse	저주
+sögubók	storybook	이야기 책
+kentár	centaur	켄타우로스
+kýklópi	cyclops	키클롭스
+snjómaður	yeti	예티
+púki	demon	악마
+pegasus	pegasus	페가수스
+kvenhetja	heroine	여자 영웅
+brynja	armor	갑옷
+töfralampi	magic lamp	마법 램프
+ég bjarga	I rescue	구하다
+ég sigra	I defeat	무찌르다

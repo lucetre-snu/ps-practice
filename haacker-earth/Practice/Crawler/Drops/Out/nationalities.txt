@@ -1,0 +1,18 @@
+nationalities
+bandarískur	American	미국인
+ástralskur	Australian	호주인
+brasilískur	Brazilian	브라질인
+breskur	British	영국인
+kanadískur	Canadian	캐나다인
+kínverskur	Chinese	중국인
+hollenskur	Dutch	네덜란드인
+finnskur	Finnish	핀란드인
+franskur	French	프랑스인
+þýskur	German	독일인
+ítalskur	Italian	이탈리아인
+japanskur	Japanese	일본인
+mexíkóskur	Mexican	멕시코인
+norskur	Norwegian	노르웨이인
+rússneskur	Russian	러시아인
+spænskur	Spanish	스페인인
+sænskur	Swedish	스웨덴인
